@@ -17,27 +17,6 @@ tf_val = dataset.validation
 # Create triples of Testing set
 tf_test = dataset.testing
 
-########################################################
-# Query
-########################################################
-
-# Convert triples to dataframe for querying
-
-# df_train_query = pd.DataFrame(dataset.training.triples, columns=['head', 'relation', 'tail'])
-
-# print(df_train_query[df_train_query['tail'].str.contains('MESH:D012552')])
-
-# print(df_train_query[df_train_query['head'].str.contains('MESH:C403507')])
-
-# print(df_train_query.loc[(df_train_query['head'] == 'Compound::DB00706') & (df_train_query['tail'].str.contains('Atc::G04CA52'))])
-
-# # Side effects of tamoxifen in DrugBank
-# print(df_train_query.loc[(df_train_query['head'] == 'Compound::DB00706') & (df_train_query['tail'].str.contains('Side Effect'))])
-
-# # Number of side effects of tamoxifen in DrugBank
-# len(df_train_query.loc[(df['head'] == 'Compound::DB00706') & (df_train_query['tail'].str.contains('Side Effect'))])
-
-
 ############################################################
 # Restore Embedding model already trained on Google Colab
 ############################################################
@@ -175,11 +154,6 @@ brenda['compound_id2'] = brenda['compound_id2'].astype(str)
 prediction_df = pd.merge(prediction_df, brenda, on ='compound_id2', how ='left')
 prediction_df['brenda_name'].fillna('-', inplace=True)
 
-
-# TO DO: PubChem IDs, etc
-########################################################
-
-
 # Create unique compound name from all IDs
 import numpy as np
 
@@ -202,7 +176,7 @@ file_name = CHOSEN_MODEL + '_' + CHOSEN_DISEASE
 # prediction_df.to_csv(os.path.join(prediction_path, file_name + '_names.csv'), sep=";")
 
 ########################################################
-# Test model results against clinical trials
+# Test model results against ClinicalTrials.gov
 ########################################################
 
 import pandas as pd
@@ -210,11 +184,11 @@ import pandas as pd
 # Create column with compound name to lower case
 prediction_df['final_comp_name_lc'] = prediction_df['final_comp_name'].str.lower()
 
-# Load clinical trials data
+# Load ClinicalTrials.gov data
 clinical_trials = pd.read_excel('C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/dataset/Clinical_trials/clinical_trials_' + CHOSEN_DISEASE + '.xlsx', engine='openpyxl')
 
 # Match compounds of model against compounds in clinical trials. If match, 1. If not, 0. Create a column with the result
 prediction_df['comp_in_trial'] = prediction_df['final_comp_name_lc'].isin(clinical_trials['drug_lc']).astype(int)
 
-# Create dataframe with result
+# Create dataframe with results
 prediction_df.to_csv(os.path.join(prediction_path, file_name + '_prediction.csv'), sep=";")
