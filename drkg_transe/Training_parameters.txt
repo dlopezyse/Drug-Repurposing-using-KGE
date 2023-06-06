@@ -1,0 +1,41 @@
+Google Colab - GPU
+
+Input:
+
+# Train TransE model on DRKG
+from pykeen.pipeline import pipeline
+
+pipeline_result = pipeline(
+    dataset="DRKG",
+    model="TransE",
+    # Training configuration
+    training_kwargs=dict(
+        num_epochs=50,
+        use_tqdm_batch=False,
+    ),
+    # Runtime configuration
+    random_seed=1234,
+    device="gpu",
+)
+
+Output:
+
+INFO:pykeen.pipeline.api:Using device: gpu
+INFO:pykeen.datasets.utils:Caching preprocessed dataset to file:///root/.data/pykeen/datasets/drkg/cache/47DEQpj8HBSa-_TImW-5JCeuQeRkm5NM
+INFO:pykeen.triples.splitting:done splitting triples to groups of sizes [4606049, 587426, 587426]
+INFO:pykeen.datasets.base:[DRKG] done splitting data from /root/.data/pykeen/datasets/drkg/drkg.tar.gz
+INFO:pykeen.triples.triples_factory:Stored TriplesFactory(num_entities=97238, num_relations=107, create_inverse_triples=False, num_triples=4699405, path="/root/.data/pykeen/datasets/drkg/drkg.tar.gz") to file:///root/.data/pykeen/datasets/drkg/cache/47DEQpj8HBSa-_TImW-5JCeuQeRkm5NM/training
+INFO:pykeen.datasets.base:Stored training factory to file:///root/.data/pykeen/datasets/drkg/cache/47DEQpj8HBSa-_TImW-5JCeuQeRkm5NM/training
+INFO:pykeen.triples.triples_factory:Stored TriplesFactory(num_entities=97238, num_relations=107, create_inverse_triples=False, num_triples=587426, path="/root/.data/pykeen/datasets/drkg/drkg.tar.gz") to file:///root/.data/pykeen/datasets/drkg/cache/47DEQpj8HBSa-_TImW-5JCeuQeRkm5NM/testing
+INFO:pykeen.datasets.base:Stored testing factory to file:///root/.data/pykeen/datasets/drkg/cache/47DEQpj8HBSa-_TImW-5JCeuQeRkm5NM/testing
+INFO:pykeen.triples.triples_factory:Stored TriplesFactory(num_entities=97238, num_relations=107, create_inverse_triples=False, num_triples=587426, path="/root/.data/pykeen/datasets/drkg/drkg.tar.gz") to file:///root/.data/pykeen/datasets/drkg/cache/47DEQpj8HBSa-_TImW-5JCeuQeRkm5NM/validation
+INFO:pykeen.datasets.base:Stored validation factory to file:///root/.data/pykeen/datasets/drkg/cache/47DEQpj8HBSa-_TImW-5JCeuQeRkm5NM/validation
+Training epochs on cuda:0: 100%
+50/50 [1:16:16<00:00, 91.23s/epoch, loss=0.0319, prev_loss=0.0319]
+INFO:pykeen.evaluation.evaluator:Starting batch_size search for evaluation now...
+INFO:pykeen.evaluation.evaluator:Concluded batch_size search with batch_size=256.
+Evaluating on cuda:0: 100%
+587k/587k [29:52<00:00, 329triple/s]
+INFO:pykeen.evaluation.evaluator:Evaluation took 1820.58s seconds
+INFO:pykeen.triples.triples_factory:Stored TriplesFactory(num_entities=97238, num_relations=107, create_inverse_triples=False, num_triples=4699405, path="/root/.data/pykeen/datasets/drkg/drkg.tar.gz") to file:///content/DRKG/DRKG_transe/training_triples
+INFO:pykeen.pipeline.api:Saved to directory: file:///content/DRKG/DRKG_transe
