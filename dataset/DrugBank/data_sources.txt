@@ -1,0 +1,11 @@
+DrugBank names:
+https://go.drugbank.com/releases/latest#open-data
+
+DrugBank SMILES:
+https://raw.githubusercontent.com/gnn4dr/DRKG/master/drugbank_info/drugbank_smiles.txt
+
+CHEBI to DrugBank:
+https://raw.githubusercontent.com/dhimmel/drugbank/7b94454b14a2fa4bb9387cb3b4b9924619cfbd3e/data/mapping/chebi.tsv
+
+
+

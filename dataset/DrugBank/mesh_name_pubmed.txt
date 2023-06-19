@@ -1,0 +1,7622 @@
+C403507	
+C503223	Rivaroxaban
+D002442	Ceftazidime
+D012973	Sodium Hypochlorite
+D025762	N-[(3S,6S,12R,15S,16R,19S,22S)-3-benzyl-12-ethyl-4,16-dimethyl-2,5,11,14,18,21,24-heptaoxo-19-phenyl-17-oxa-1,4,10,13,20-pentazatricyclo[20.4.0.06,10]hexacosan-15-yl]-3-hydroxypyridine-2-carboxamide;(10R,11R,12Z,17Z,19Z,21S)-21-hydroxy-11,19-dimethyl-10-propan-2-yl-9,26-dioxa-3,15,28-triazatricyclo[23.2.1.03,7]octacosa-1(27),6,12,17,19,25(28)-hexaene-2,8,14,23-tetrone
+C042734	Rifaximin
+D014673	Vecuronium bromide
+D011729	Pyridostigmine bromide
+C068538	
+C524644	
+D001507	Beclomethasone dipropionate
+D024841	Levofloxacin
+C121677	Valganciclovir hydrochloride
+C102790	Voriconazole
+C099041	Tolterodine
+C007845	Gingerol
+C081247	Innohep
+C446479	Ertapenem
+C049947	Tirapazamine
+C116664	Tolvaptan
+D013831	Thiamine
+C119092	Tigecycline
+C486592	Ingenol mebutate
+C105417	Caspofungin
+C019248	Pamidronic acid
+D003900	Desoxycortone
+C418863	Pralatrexate
+D002331	Levocarnitine
+D010406	
+C059500	Meropenem
+D013450	4-Chlorophenyl phenyl sulfone
+D005707	Gallic Acid
+D011453	Prostaglandin
+D016630	
+D015068	
+C012078	Terlipressin
+C466458	Paclitaxel
+C067431	Letrozole
+D005839	Gentamicin
+D039841	
+C010211	
+C525726	Dacomitinib monohydrate
+D013999	Timolol
+C060076	Fodipir
+C071741	Remifentanil
+C008976	2-(Dodecyloxy)ethanol
+C060836	Pioglitazone
+C072506	Rivastigmine
+D005227	Butyric Acid
+C500617	Abt-510
+C516253	
+C079150	Paliperidone
+C114049	
+C545476	
+C114767	Methyl aminolevulinate
+D013256	
+D018942	
+C048833	Modafinil
+D014494	Unithiol
+D000928	
+C090450	Anastrozole
+C552956	
+C076944	Lithospermic acid B
+C080245	Pregabalin
+C040029	Gabapentin
+D054714	
+D015065	
+D064704	Levofloxacin
+D013324	Strontium
+C081489	Valsartan
+C043877	Acamprosate calcium
+C060590	Famciclovir
+D045162	
+C503700	Ticagrelor
+D010118	Oxytetracycline
+C064276	Pantoprazole
+C052904	Enrofloxacin
+D002395	3-Aminobenzene-1,2-diol
+C047426	Venlafaxine hydrochloride
+C072042	Latanoprost
+C052753	Bystolic
+D008094	Lithium
+D047090	2-Azetidinone
+C496398	Sitagliptin phosphate monohydrate
+D036145	Ginsenosides
+C003297	Nandrolone decanoate
+C507898	Raltegravir
+D008751	Methylene Blue
+C121905	Micafungin sodium
+D011883	Radium
+C047781	Lamotrigine
+D028421	
+D002511	
+C500838	Varenicline tartrate
+C102006	Sodium Citrate
+D011097	Sodium acetate trihydrate
+D004164	Alendronic acid
+D013311	Streptozotocin
+D000728	Testosterone propionate
+D001645	Biguanide
+C076029	Olanzapine
+C035605	Nabumetone
+C048107	Milnacipran
+D015525	Omega-3 Fatty Acids
+D043823	
+C478920	IB-Meca
+C557874	Vortioxetine
+D008750	Methyldopa
+C044650	Imipenem and cilastatin
+C094645	Aripiprazole
+C467567	Lenalidomide
+C049109	2,3-dihydroxybutanedioate;N,N-dimethyl-2-[6-methyl-2-(4-methylphenyl)imidazo[1,2-a]pyridin-3-yl]acetamide
+C037663	Ropivacaine
+D001120	(2S)-2-amino-5-guanidinopentanoate
+D003520	Cyclophosphamide
+C555877	
+C011481	
+C500007	
+C080710	
+C063129	Rabeprazole sodium
+C415250	Deferasirox
+D006633	
+C078049	Gatifloxacin
+C088658	Zoledronic acid
+C069541	Quetiapine fumarate
+D000631	
+C095105	Bexarotene
+C061333	Pramipexole
+D000967	
+C540383	Ruxolitinib phosphate
+D002241	
+D002087	Butyrate
+C103303	Alitretinoin
+C076731	Levosimendan
+D017762	Enoxaparin
+C523979	Tapentadol
+C422923	Rosuvastatin
+C584679	
+C038044	Baicalin
+C099245	Doripenem
+C078814	Anandamide
+C063378	Loteprednol etabonate
+C007028	D-Glucose, 2-((((2-chloroethyl)nitrosoamino)carbonyl)amino)-2-deoxy-
+C086232	Bosentan
+D020682	Cefixime
+D024502	
+D012964	Sodium
+D005231	
+C083418	Palonosetron
+C011585	Ciclopirox olamine
+C045645	Cilostazol
+C061400	Etoposide phosphate
+C039952	Daphnetin
+D017985	Enoxaparin
+C008514	1-Methylxanthine
+C441209	Solifenacin succinate
+C046326	
+C060342	Zuclopenthixol acetate
+C041359	Terbinafine
+D015378	Imipenem
+D001084	Vidarabine phosphate
+C061870	Rocuronium bromide
+C052342	Topiramate
+C047047	Cabergoline
+D025101	(5-Hydroxy-4,6-dimethylpyridin-3-yl)methyl phosphate
+C515051	Eszopiclone
+C045345	Gastrodin
+D017984	Enoxaparin
+D006728	
+C074921	Olopatadine
+C039332	Milacemide
+D020110	Pinacidil
+D002434	Cefadroxil
+D002116	Eel calcitonin
+C096918	9-(2-Phosphonomethoxypropyl)adenine
+C584938	
+C063008	Mycophenolate mofetil
+D011372	Progesterone
+C039726	Artesunic acid
+D019270	Fructosamine
+C006947	Cepharanthine
+C059205	Tiagabine
+D010401	
+D001463	
+D012643	Selenium-80
+D006897	5-Hydroxyindole-3-acetic acid
+C105934	Celecoxib
+C065382	Fluticasone propionate
+C540445	Atopaxar
+C088482	Tamsulosin
+D010878	Piperacillin
+D007208	Indocyanine green
+C012052	Sultopride
+C520647	Barasertib
+C551994	Crizotinib
+C400082	Bortezomib
+C040210	Edatrexate
+D004967	Estradiol
+D017706	Lisinopril
+D003061	Codeine
+C487779	Telbivudine
+C017717	Sodium thiosulfate pentahydrate
+D009566	Nitrate
+C047246	Temozolomide
+C473731	Lomitapide
+C059765	Amphotericin b deoxycholate
+D016898	
+D009705	
+D012459	Salicylate
+C088408	Ivabradine
+C031903	
+D013866	Thioguanine
+C029100	
+C013592	Mangiferin
+C001205	Fansidar
+D007726	
+C008848	
+D004318	Doxycycline
+D008535	Megestrol
+C039276	Triclabendazole
+C098350	Visudyne
+C107135	CID 18477728
+D013749	2,3,7,8-Tetrachlorodibenzo-P-dioxin
+C110904	Capecitabine
+C002791	Bismuth subcitrate
+D015850	
+C098720	Fingolimod hydrochloride
+D020911	Ketorolac tromethamine
+C107058	Colesevelam
+D004872	Ergocalciferol
+D052203	Iron Oxide Black
+D011090	
+D014222	Triamcinolone acetonide
+C051890	Irinotecan
+D002216	Captopril
+C031942	Argatroban
+C071226	Pyrrole-2,3,5-tricarboxylic acid
+D017290	Menogaril
+D004177	Dipyrone
+C040791	8-Hydroxy-2'-deoxyguanosine
+D024508	Tocotrienol
+D007659	
+D018021	Lithium chloride
+D006024	Glycopyrrolate
+D015777	
+C055774	
+D010423	Pentazocine
+D015662	Sulfamethoxazole and trimethoprim
+C015620	Brimonidine
+D002266	Croscarmellose sodium
+C059262	Cidofovir
+D008063	Thioctic acid
+D023303	
+C006952	Cob(II)alamin
+D001663	Bilirubin
+C035133	Mirtazapine
+C551803	Ibrutinib
+C041398	Bifendate
+C036539	
+C040996	Dalargin
+D018350	alpha-AMINO-3-HYDROXY-5-METHYL-4-ISOXAZOLEPROPIONIC ACID
+C042382	
+C108976	
+D013928	thromboxane A2
+D007785	Lactose, anhydrous
+C534526	
+C554682	Dabigatran
+C023470	Perhexiline maleate
+D044945	Procyanidin
+C568794	Linagliptin
+D019980	Clavamox
+C488369	Dasatinib
+C548887	MK-2206
+D019343	Citric Acid
+C058687	Lansoprazole
+C574201	
+C014758	Plumbagin
+C413685	Entecavir
+D011456	
+D007529	3-Benzylchroman-4-one
+D018698	Glutamic Acid
+C102786	Anidulafungin
+C104450	Calcifediol
+D000085	Acetate
+D003367	Cotinine
+C022192	Alinidine
+C044919	Deferiprone
+D016698	
+D002186	Nabiximols
+D000588	Ammonia
+C427248	Treprostinil
+C005435	Edaravone
+C073590	
+C017953	2,3,5,6-Tetramethylpyrazine
+D002133	Calcium sulfate
+C065179	Atorvastatin calcium
+C513486	
+C022830	2-Methoxyestradiol
+D055768	
+D001647	4-[(3R,5S,7R,12S)-3,7,12-trihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid
+D015363	2-Hydroxyquinoline
+D059808	
+C104727	Moxifloxacin Hydrochloride
+C009687	Wortmannin
+D010281	
+C058816	
+C005499	Honokiol
+C036006	Oxcarbazepine
+D008453	
+D015097	3-Mercaptopropionic acid
+D014748	
+C434926	N~2~,N~2~-Dimethyl-N~1~-(6-oxo-5,6-dihydrophenanthridin-2-YL)glycinamide
+D014810	Vitamin E
+D014308	Triparanol
+C014347	Decitabine
+C116306	Imepitoin
+C061077	
+D003487	
+C012255	Clobazam
+C009166	Retinyl acetate
+D002244	Carbon
+C025490	
+C553296	Sovaldi
+C005855	Trimethylamine oxide
+D016559	Tacrolimus
+C036613	Atrimustine
+C513626	
+D010232	
+D008628	Mercury
+D013993	Dextilidine
+C114264	
+D004295	DL-Dopa
+C408982	
+C507879	
+C002939	
+D000617	
+C027767	
+D001127	Argipressin
+C007734	Flunisolide
+C001652	Omacetaxine mepesuccinate
+D001151	Arsenic
+C522924	Afatinib
+C085278	Hydroxysafflor Yellow A
+C097613	Imatinib
+C496932	Panobinostat
+C069594	
+D006415	Hematoporphyrin
+C440975	Silibinin
+C030110	
+D013670	Technetium TC-99M sodium pertechnetate
+D004966	Premarin
+C093415	
+C439759	Liraglutide
+D000596	
+C529054	Dapagliflozin
+D014280	Triglyceride
+C055122	Orlistat
+C031404	Bisantrene
+C008169	Glucaric acid
+C037573	Oxymatrine
+D011084	Aminohippuric acid
+C015392	3-Nitropropionic acid
+D008734	Vanylglycol
+C011825	Fluphenazine decanoate
+D012977	Sodium nitrite
+C010882	Chlorhexidine gluconate
+D019344	Lactic Acid
+C026455	Thymalfasin
+C055328	Ginsenoside Rf
+D014373	
+C034635	Fludrocortisone acetate
+C484810	Tozasertib
+D013976	Tiapamil hydrochloride
+C036901	Defibrotide
+C010285	2-Methyl-2-phenoxypropanoic acid
+C542869	
+C094279	
+D000806	Teprotide
+C075156	Ebrotidine
+D001128	
+C011462	Erythromycin stearate
+C522381	
+C007761	Flupentixol decanoate
+C016361	3,4-Diaminopyridine
+C067311	Docetaxel
+D017329	Triptorelin
+C032942	Artemether
+C476513	Levobupivacaine
+D018943	
+D014238	Trichloroacetic acid
+C118667	Dronedarone
+C005705	Sanguinarine
+C028577	Monobutyl phthalate
+C047360	Felbamate
+C055987	20-Hydroxyeicosatetraenoic acid
+D013004	Stilamin
+C045463	Leflunomide
+C429886	Tadalafil
+C055632	
+C049328	Mitoflaxone
+D009711	
+D001729	Bismuth
+C508548	Ormeloxifene
+C414690	Eplerenone
+C098010	Linezolid
+C558446	
+C081309	Irbesartan
+C097949	Calcitriol
+D010545	Hydrogen Peroxide
+C446540	
+C089032	Rimonabant
+D015643	Erythromycin ethylsuccinate
+D058607	
+C003043	
+C495058	Pegaptanib
+C089995	Glatiramer acetate
+C534797	
+C055162	Clopidogrel
+C577469	
+D008770	N-Nitroso-N-methylurea
+D003276	
+D000305	Acton
+D003471	Cuprizone
+C079890	Tiotropium bromide
+C121720	
+C540278	Enzalutamide
+C042198	CID 12313376
+C054549	
+D000072	
+C525644	Lurasidone
+C549374	
+C053562	Desflurane
+C059514	Resveratrol
+C007789	
+C471405	Sorafenib
+C094099	Etalocib
+C503983	Axitinib
+C050016	
+C583942	
+C430916	
+C075750	8-Epi-prostaglandin F2alpha
+D000165	Acridine orange
+C017092	3-Bromopyruvic acid
+C472955	
+D004999	Amifostine
+C073008	Risedronic acid
+C043266	Cefepime
+C055512	Ranolazine
+C400278	Erlotinib hydrochloride
+D012176	Etretinate
+D002084	Butylated Hydroxytoluene
+C476217	Cinacalcet
+C426063	Vardenafil
+D005419	Rutin
+C064635	
+C493250	
+D046948	Colestipol
+C016101	C.I. Natural Red 20
+C542782	
+C085586	Pemetrexed
+D012172	Retinal
+D014740	Vidarabine
+D000894	
+D003009	Clorazepate
+D019004	
+D016627	Oxidopamine
+C073340	Ranitidine bismuth citrate
+D013929	thromboxane B2
+C008661	Nobiletin
+C554127	
+C521206	Lomeguatrib
+C043211	Carvedilol
+D008525	Medroxyprogesterone
+C007084	Clindamycin phosphate
+D006862	Hydrogen Sulfide
+C032582	
+C028032	
+D002126	Slaked lime
+D016202	N-methyl-D-aspartic acid
+C006632	Tetraarsenic hexaoxide
+D003911	Dextran
+C110525	
+C074872	
+C103354	
+C084178	Telmisartan
+C006303	Acivicin
+C521047	Amuvatinib
+C097722	Lubeluzole
+C074679	Reboxetine
+C559645	
+C012043	Stevioside
+C032232	Barbituric acid
+C005278	Glucantime
+C057823	Salmeterol
+C062178	
+C090175	
+C522094	
+C041930	Atomoxetine
+C010643	Trolox
+C037845	
+C503131	
+D002599	Chalcone
+C007835	Geniposide
+D010713	1,2-Diacyl-sn-glycero-3-phosphocholine
+C010044	
+C027235	Gallium nitrate
+D004225	Dithiazaninum
+C065180	Fluvastatin
+D011687	
+D016210	Methacholine chloride
+C542870	
+C422649	Etoricoxib
+C459560	
+C112586	
+D002129	Oxalic Acid
+D014801	Retinol
+C051873	
+D012999	Soman
+C554038	
+C054125	Sesamin
+C010117	3,4-Dihydroxyphenylglycol
+D049971	Chlorothiazide
+D019284	Thapsigargin
+C061162	Fosteabine
+D000001	Calcimycin
+C003330	Trospium chloride
+C502012	Vildagliptin
+C033563	Haloperidol decanoate
+C004940	Glucuronolactone
+C540909	
+C073007	Ibandronic Acid
+C029108	Diaziquone
+C021751	Tanshinone I
+D010710	Phosphate ion
+C066515	O-(chloroacetylcarbamoyl)fumagillol
+D012503	
+C057710	Cefditoren pivoxil
+C015692	
+C076946	Donepezil hydrochloride
+C052698	
+C040738	Ceftin
+D011732	Pyridoxal phosphate
+D000678	D-Amygdalin
+D006514	
+D002122	Calcium dichloride
+C498826	Nilotinib
+D009828	Oleanolic acid
+C017928	Phenazepam
+C026062	
+C000873	Methylprednisolone acetate
+D004205	Cromolyn sodium
+C485204	
+D000447	Acetaldehyde
+C006741	Bergenin
+D002606	Carbon
+C517091	
+D000614	
+D014363	2,2,3-Trimethylbutane
+C053537	
+C085266	Talampanel
+C101426	Sildenafil
+C068329	Clofarabine
+C009250	Sevoflurane
+C116959	
+C557564	
+D009841	5'-Acacccaattctgaaaatgg-3'
+D006218	Halofenate
+D002015	
+D013806	Theophylline
+C010506	
+D007372	
+C484876	Scutellarin
+C089957	Paclitaxel
+C030964	
+C070020	Mexidol
+D009569	Nitric oxide
+C045459	Merbarone
+C055185	Tosufloxacin
+D001393	Pyrrole
+C577000	
+C099150	Trabectedin
+C008281	
+C015329	Lycopene
+D020723	(2S,3S,4S,5R)-2,3,4,5-tetrahydroxy-6-oxohexanoic acid
+D002217	Carbachol
+C467484	
+D012828	Silicon
+D017663	
+C007020	18-(2-Carboxyethyl)-20-(carboxymethyl)-12-ethenyl-7-ethyl-3,8,13,17-tetramethyl-17,18,22,23-tetrahydroporphyrin-2-carboxylic acid
+C419708	Gefitinib
+C000589335	
+D051523	
+C028325	
+C551177	Vemurafenib
+D017371	8-OH-Dpat
+C043435	Vicryl
+C007834	Genipin
+D005363	Psoralen
+C032640	Diane
+C490727	(6R,7R)-7-{[(2Z)-2-(5-amino-1,2,4-thiadiazol-3-yl)-2-(ethoxyimino)acetyl]amino}-3-{[4-(1-methylpyridinium-4-yl)-1,3-thiazol-2-yl]sulfanyl}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate
+C100946	
+D000079	Acetaldehyde
+D014451	Coenzyme Q10
+C467566	Pomalidomide
+C015230	
+D001101	
+C053915	Mometasone furoate
+C042560	
+C082309	Tezampanel
+C010852	2-Amino-1,3,4-thiadiazole
+C014396	
+D006838	
+C058218	Duloxetine
+C108606	Ezetimibe
+D013481	Superoxide
+C517975	Selumetinib
+C020332	
+D028441	
+C574751	
+C058504	Goralatide
+C000595958	Harvoni
+D007050	Ibogaine
+D014147	Tramadol
+C020243	Calcium Phosphate
+D019798	D-(+)-Neopterin
+D010091	Acetohydroxamic acid
+C047052	
+C090894	
+C033685	
+D000477	Streptozotocin
+C523798	Sepantronium bromide
+C048518	
+C066286	
+C079769	Cefoselis sulfate
+D013261	Sterol
+C427584	N-[(3R,4S)-4-(cyclopropylamino)-3-hydroxy-2,2-dimethyl-7-nitrochroman-6-yl]-2-(4-methoxyphenyl)acetamide
+C010845	Aluminum Chloride
+D020442	Poloxalene
+D002506	Cephalexin
+C067134	8-Hydroxy-2'-deoxyguanosine
+D011929	Razoxane
+C043215	Ticarcillin-clavulanic acid
+D008345	Manganese (II) ion
+D014048	Tolonium chloride
+D013453	
+C090408	
+C060506	Sphingosine 1-phosphate
+D014001	Tin powder
+D012385	
+D014812	Vitamin K
+D000804	Angiotensin II
+C445500	
+C010893	Clobetasone butyrate
+D011458	Phenyl glycidyl ether
+C036619	Idebenone
+C085514	Wogonin
+C111237	Vorinostat
+D019357	Potassium citrate
+C017985	Progabide
+C464485	Acetamiprid
+D018038	Sodium selenite
+C025462	Sulindac sulfide
+C056814	Cefdinir
+C005900	Triamcinolone hexacetonide
+D013328	Strophanthin
+C001945	Syringic acid
+C054625	beta-Boswellic acid
+C525712	
+C019264	
+C066340	Tolcapone
+C579652	Armodafinil
+C015087	Cortisone acetate
+C068538	
+C014794	Vitamin A palmitate
+C529350	
+D001095	
+C518477	4-{[(7r)-8-Cyclopentyl-7-Ethyl-5-Methyl-6-Oxo-5,6,7,8-Tetrahydropteridin-2-Yl]amino}-3-Methoxy-N-(1-Methylpiperidin-4-Yl)benzamide
+C017435	Enilconazole
+C056513	
+D016284	
+D013438	Hydrogen Sulfide
+C116917	
+C506643	Doxorubicin Hydrochloride
+C018824	Ammonium acetate
+C059700	
+D010640	
+C094240	Enoxaparin
+C030852	Navelbine
+D012433	Ryanodine
+D013754	
+D017886	Hydroxyapatite
+D044948	3-Hydroxyflavone
+C008729	Oxaprozin
+C476037	
+D013793	Thallium
+C576235	
+D013433	3'-Sulfogalactosylceramide
+C032302	Rilmenidine
+C004363	Alantolactone
+D011073	Ethylenediamine
+C063610	Adapalene
+C520255	Paclitaxel
+D008769	1-Methyl-3-nitro-1-nitrosoguanidine
+C012629	Arformoterol
+D011126	Polypropylene
+C054597	Camboginol
+C064122	
+C113054	
+C047847	Flestolol sulfate
+C532453	Simeprevir
+C065757	Meloxicam
+C514958	
+D001965	Bromide ion
+C496788	Sonolisib
+C477843	Bicyclol
+C006578	Anethole
+C500947	
+C500671	
+D000880	Anthraquinone
+C020972	Pyrrolidine dithiocarbamic acid
+C116824	Benzamide, 5-((1,5-bis(4-methoxyphenyl)-1H-pyrazol-3-yl)dimethoxymethyl)-2-chloro-
+D002360	Carminomycin
+C483020	
+C015646	
+D015572	
+D002715	Chlormadinone acetate
+D014230	1H-1,2,3-Triazole
+C024534	Vitamin k5
+C023617	E-Guggulsterone
+D009628	Azaclorzine
+C021635	
+D011716	Pyrantel pamoate
+D004928	Saponins
+C009096	
+C020748	
+D013667	Technetium
+C057773	
+C405346	
+D015632	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+D007737	Kynurenine
+C024873	Tribrissen
+C100227	Tolamolol
+C550258	Alisertib
+C453980	Sugammadex Sodium
+C032805	Nonathymulin
+D002123	
+D019806	Levcromakalim
+C492468	
+D000813	
+C036854	
+D020849	Raloxifene hydrochloride
+C032881	Lysophosphatidic acid
+C027032	2,2'-Dithiodiethanesulfonic acid
+C002602	(+)-Costunolide
+C501332	Abt-737
+C010087	Eucalyptol
+C488294	
+C065299	S-allyl-L-cysteine
+D003538	Cystamine
+C522374	
+D007651	
+C484864	N-(5-(((5-(1,1-Dimethylethyl)-2-oxazolyl)methyl)thio)-2-thiazolyl)-4-piperidinecarboxamide
+D019904	Methyl methacrylate
+C026082	
+C099555	6-[3-(1-Adamantyl)-4-hydroxyphenyl]-2-naphthalenecarboxylic Acid
+D006495	Enoxaparin
+C482453	
+C073316	Carvacrol
+D010844	Picibanil
+C012227	Carbamazepine-10,11-epoxide
+C505954	
+C033018	
+C089730	Rosiglitazone
+D002433	Cefaclor
+D013882	Thioacetazone
+C003321	Sodium polystyrene sulfonate
+D008070	Lipopolysaccharides
+C476332	
+C098644	Atrasentan
+C088236	
+C477937	
+C079004	
+C082661	Imidazenil
+D010703	Phorbol 12-myristate 13-acetate
+C086648	Integrilin
+C076281	
+C052064	Astragaloside IV
+C010272	Palytoxin [MI]
+C045916	Broxaterol
+D000214	
+D006072	Gossypol
+C552526	Evofosfamide
+D020366	Methyl methacrylate
+C437463	
+C075440	8-Chloroadenosine
+C006589	
+C083301	
+C001758	Bendamustine hydrochloride
+C515298	Artemether and lumefantrine
+C519688	Xelox
+D012980	Sodium salicylate
+D000961	
+C038806	
+C065579	
+C549068	Entresto
+D019354	Sodium lactate
+C024808	Malotilate
+C502230	Mntmpyp
+C122114	Emtricitabine
+C496827	Salubrinal
+C056020	Dimethyl fumarate
+C006680	Baicalein
+D009593	2-Nitroimidazole
+D019469	Indinavir
+D003632	p,p'-DDD
+C006648	Atrium (drug)
+C002471	Cinobufagin
+C108732	Methyl-b-cyclodextrin
+D002809	Chondroitin sulfate
+C444119	
+C056895	Flesinoxan
+D001224	Aspartic acid
+C080625	Taxane
+C041757	
+C088880	
+C554738	
+C055494	Caffeic acid phenethyl ester
+C005059	Isoprene
+C008009	5,11-dimethyl-6H-pyrido[4,3-b]carbazol-9-ol
+C514293	
+D005632	D-(-)-Fructose
+D001397	Azoxymethane
+C541363	
+D008555	Melittin
+C522988	
+C026098	
+C103274	Gemifloxacin
+D016291	Dizocilpine
+C033353	Pentane
+C404742	
+D003596	Cytosine
+C533237	Ganetespib
+C568950	Infigratinib
+C035986	6-Nitrochrysene
+D009532	Nickel
+C026818	
+C406530	
+D014405	
+D009602	Nitrosamine
+C050928	
+C541771	
+D008753	4,4'-Methylenebis(2-chloroaniline)
+C554041	Epoetin alfa
+C097367	Ginsenoside Rg3
+C477361	Dacinostat
+D009712	
+C034856	
+C004624	Clomacran
+D006513	
+D007200	Indoxyl sulfate
+C433505	
+C015881	Farrerol
+C030084	
+D008610	Menthol
+C023676	Chloroquine phosphate
+C506401	Lubiprostone
+C038773	(5S,6R,7S,8S,8aR)-3-(octylamino)-3,5,6,7,8,8a-hexahydro-1H-[1,3]oxazolo[3,4-a]pyridine-5,6,7,8-tetrol
+D000324	Corticotropin
+D002251	Carbon Tetrachloride
+C027979	5-Oxo-L-prolyl-L-histidyl-3,3-dimethyl-L-prolinamide
+C084813	Propoxyphene napsylate
+C464532	
+C052991	
+D011094	N'-[2-[2-[2-(2-aminoethylamino)ethyl-[2-[bis(2-aminoethyl)amino]ethyl]amino]ethyl-[2-[2-[bis(2-aminoethyl)amino]ethylamino]ethyl]amino]ethyl]ethane-1,2-diamine
+C507564	
+C013095	
+C041626	
+C052018	Cefprozil
+C008677	Norflurazon
+C042716	
+C009265	Carbidopa and levodopa
+D006416	
+C090138	
+C018584	Linalool
+C551397	
+C053907	8-Cyclopentyl-1,3-dimethylxanthine
+D005708	Gallium
+D000662	
+C022176	
+D019796	9,11-Methanoepoxy PGH2
+C008970	
+C020528	
+C038983	N,N'-Dimethylthiourea
+D004147	2,3,7,8-Tetrachlorodibenzo-P-dioxin
+C057858	
+C031662	N-(4-(N-((2-amino-3,4-dihydro-4-oxo-6-quinazolinyl)methyl)-N-prop-2-ynylamino)benzoyl)glutamic acid
+D013662	
+C038958	Gadolinium chloride
+C101278	
+C495711	Icosapent ethyl
+C074411	
+C109183	JTV-519 hydrochloride
+D010425	Pentolinium tartrate
+D016376	
+D013331	Strychnine
+D004456	Echothiophate iodide
+D013449	Sulfanilamide
+C518955	
+C013638	Paeonol
+C553657	
+C057693	Troglitazone
+C034130	
+C407360	ONO-1714 HCl
+D000244	Adenosine-5'-diphosphate
+D006711	
+C044563	24-Hydroxycholesterol
+C474071	Amitifadine
+C011164	Amentoflavone
+C120227	2-(2-chloro-4-iodophenylamino)-N-cyclopropylmethoxy-3,4-difluorobenzamide
+C492919	N-(3,5-bis(trifluoromethyl)phenyl)-5-chloro-2-hydroxybenzamide
+C004532	1,4-Benzoquinone
+D014226	
+C419963	
+C038905	
+D011888	Rafoxanide
+C015423	Paeoniflorin
+C005200	Sodium metabisulfite
+C401121	1-Piperazineethanol, 4-((3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl)methyl)-alpha-(4-chlorophenyl)-
+C097921	
+D020155	3-Hydroxybutyric acid
+C057921	5,6-Dihydro-4-(2-methylpropyl)amino-4H-thieno(2,3-b)thiopyran-2-sulfonamide-7,7-dioxide
+C074677	
+D015120	6-Aminonicotinamide
+C579022	
+C025314	Ferric citrate
+C442442	
+C529597	
+C578267	
+C111212	Nalfurafine
+C013006	
+C001958	
+C014026	Hexamethylene bisacetamide
+C060142	Nateglinide
+C570438	
+C029424	
+C011959	Oridonin
+D053607	Adrenomedullin
+C077240	
+C061137	Eldecalcitol
+C025703	Zhengguangmycin A5
+D014612	
+C041125	Quinapril hydrochloride
+C531082	
+C050592	4-(3-Phosphonopropyl)piperazine-2-carboxylic acid
+C007350	Nitrofen
+D013755	Phorbol 12-myristate 13-acetate
+C088327	Plerixafor
+C579035	Teneligliptin
+C573971	
+D009993	Osmium tetroxide
+C514242	
+C004944	
+D013889	2-Thiouracil
+C036944	
+C036454	Chuanliansu
+D014701	3-Veratroylveracevine
+C107601	Glabridin
+C522668	
+C019531	
+D001312	Aurintricarboxylic acid
+C500220	
+C005010	Harman
+C025953	
+C046637	
+D002712	Chloride ion
+C035055	3-(3,4-Dihydroxyphenyl)-2-hydroxypropanoic acid
+D014274	Trifluralin
+C572449	Sapanisertib
+C086816	Desvenlafaxine
+D019301	Oleic Acid
+C528271	
+D003976	Diazinon
+C066902	Potassium-magnesium citrate
+C485817	Calcium Phosphate
+C089742	Abiraterone acetate
+C107773	Pterostilbene
+D019783	
+C533973	
+C094299	Plevitrexed
+C032785	
+C033016	
+C121707	Calycosin
+C048849	Heme arginate
+C035933	Sophocarpine
+C073248	
+C119467	Lanthanum Carbonate
+C067430	
+D020066	
+C072630	
+C009799	
+C535237	1-Cyclopropyl-3-(3-(5-(morpholinomethyl)-1H-benzo[d]imidazol-2-yl)-1H-pyrazol-4-yl)urea
+D010402	Penicillin G procaine
+D019794	2,3-Diphosphoglyceric acid
+D048588	Benzoxazine
+D054392	
+C546512	
+D015289	
+D015080	Mesna
+C105834	
+C078040	Catalpol
+C499379	
+C483858	
+C519882	
+C052337	
+C541444	
+C009271	Sinomenine
+C046283	
+C439829	Indisulam
+C022189	Zonisamide
+C072194	
+C014168	2-Propyl-2-pentenoic acid
+C551428	
+C050637	Losoxantrone hydrochloride
+C005445	Triphenyl phosphate
+C453962	Dabigatran etexilate methanesulfonate
+D014443	Tyrosine
+C010564	beta-Cryptoxanthin
+C087958	Minodronic acid
+C574749	
+D050822	
+C059613	Roxindole
+C036089	
+D008697	Methane
+D011063	Poly A-U
+C039599	
+D007608	Kainic acid
+C037293	Denopamine
+C031049	Teprenone
+D017315	Cilazapril
+C025583	Sesamol
+C058219	1H-1,2,4-Triazole-1-ethanol, alpha-(2,4-difluorophenyl)-3-(2-(4-(2,2,3,3-tetrafluoropropoxy)phenyl)ethenyl)-alpha-(1H-1,2,4-triazol-1-ylmethyl)-
+C423915	N-(2,2,2-Trifluoroethyl)-N-{4-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]phenyl}benzenesulfonamide
+C473478	Sunitinib
+D019810	Sodium azide
+C056493	Imiquimod
+C034244	Matrine
+C112695	
+C100248	
+D009561	
+C056590	
+C522781	Biflorin
+C121112	
+D016686	Monocrotaline
+C040918	Butein
+C066382	2-Methyl-3,4-dihydrochromen-2-amine
+D011285	Pregnenolone carbonitrile
+C034814	Ethyl-p-((E)-2-(5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-naphthyl)-1-propenyl)benzoate
+D019346	
+D000872	Flavylium
+D063388	
+C046122	
+D006108	Carbon
+C104648	
+C019529	
+D055435	
+C117155	Incyclinide
+D010113	Oxyphenbutazone
+D000432	Methanol
+C025087	13,14-Dihydro-15-keto-PGE2
+C005274	Naringin
+C586842	Oliceridine
+C013216	
+C417427	Colestilan
+C578069	
+C490152	Ispronicline
+C006667	
+C507699	5-(1H-indol-3-ylmethyl)-3-methyl-2-thioxo-4-Imidazolidinone
+C080436	
+C019357	Dioscin
+C493249	
+C102343	
+C023359	
+C094049	1,1,1,2,3,3,3-Heptafluoropropane
+C546115	
+C110845	
+C013616	
+C490728	Lapatinib
+C436748	Alpinetin
+C575870	
+D005229	
+C097933	Olmesartan medoxomil
+C079286	
+C037032	Galangin
+D011078	Fenson
+C101598	rhenium-186 HEDP
+C470086	
+C053839	
+C032208	Perillyl alcohol
+C557875	
+C003223	Propionylcarnitine
+C541917	Benzenesulfonamide, 2,4-dichloro-N-(3,5-dichloro-4-(3-quinolinyloxy)phenyl)-
+C533978	Monepantel
+C109496	Cycloguanil
+D004390	Chlorpyrifos
+C518174	Laropiprant
+C093336	
+D001608	Beryllium
+C503158	
+C016914	
+C023850	Tacalcitol
+C064769	N-acetylsphingosine
+C084623	Febuxostat
+D006581	Hexachlorobenzene
+D007631	Chlordecone
+C057262	
+C501362	Terutroban
+C010770	
+C091753	
+C081330	
+C417557	
+D000644	Ammonium
+C023489	
+C010655	
+C512527	
+C001770	
+C518915	Seletracetam
+C045125	
+C004955	Fosfestrol
+C120158	[(2R,3R,4S,5S,6R)-6-[(2R,3S,4S,5R,6R)-2-[(2R,3S,4S,5R,6R)-2-[(2R,3R,4S,5S,6R)-3,5-disulfooxy-2-(sulfooxymethyl)-6-[(2R,3S,4R,5R,6R)-2,4,5-trisulfooxy-6-(sulfooxymethyl)oxan-3-yl]oxyoxan-4-yl]oxy-3,5-disulfooxy-6-(sulfooxymethyl)oxan-4-yl]oxy-3,5-disulfooxy-6-(sulfooxymethyl)oxan-4-yl]oxy-3,4,5-trisulfooxyoxan-2-yl]methyl dihydrogen phosphate
+C001920	
+D000658	Amoxicillin
+D011727	
+D014970	
+D030421	Peroxynitrous acid
+C503781	
+C541280	
+C008692	Nuciferine
+C588260	Dasabuvir
+C026485	
+C014085	
+C410924	
+C497722	
+C000541	Cyclopamine
+C043077	Ipsapirone
+C074031	Byetta
+C048962	
+C084555	Valacyclovir
+C465279	Denufosol tetrasodium
+C073266	
+C015001	Arsorite
+C019179	Edetic acid
+C005312	Sulfathiazole
+C080669	Oroxylin A
+C550722	Nirogacestat
+C116408	
+C477819	15-Deoxy-delta-12,14-prostaglandin J2
+D012906	
+C487388	
+C036216	Ethylene
+C103117	
+D011166	Porphyrin
+C020903	
+C538724	Vismodegib
+D010654	
+C528970	
+C585120	5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine
+C062422	
+C005498	Magnolol
+C108700	
+C554548	
+D006873	Hydroquinone
+C030985	
+C558259	
+C055382	Naltrindole
+C054360	Ceftibuten
+C040488	Falecalcitriol
+C062701	Aloperine
+C438268	Fondaparinux sodium
+C557525	Pracinostat
+C039900	Nitroxyl
+D012721	Carbaryl
+C522973	PI-103
+C005802	
+C480540	
+C408153	Prasugrel
+D013758	Tetragastrin
+C074625	
+C017501	Amphotericin B methyl ester
+C017218	Detorubicin
+C431888	
+C061432	Epiberberine
+D003504	Ancitabine
+C052450	Eptastigmine
+C477246	Lancovutide
+D020160	Sodium Benzoate
+C026116	Torsemide
+C052087	Zaldaride maleate
+C524632	
+C581750	
+C532601	Tiron
+C557899	
+C534068	
+C003466	Thymoquinone
+C542783	
+D005669	Fusaric acid
+C022870	Asoxime chloride
+D020058	Styrene
+C580820	
+D005942	Copper gluconate
+C120851	Cerovive
+C007628	Esculetin
+C105171	
+C097396	Ampalex
+D009647	Normetanephrine
+C017610	Fluphenazine enanthate
+D010269	Paraquat
+C526278	
+C544092	
+C067110	
+C030583	Cerium dioxide
+C084136	
+D012294	Rifamycin
+C097897	
+C020978	
+D004131	
+D005688	D-Galactosamine
+C010086	Cinchonine
+D006856	Hydrogen Cyanide
+D013134	Spiperone
+C018273	
+C038731	Oleanilide
+C472750	
+D013755	Phorbol 12-myristate 13-acetate
+D020097	Nesiritide
+C059950	BioMed 101
+C071362	Idoxifene
+D002518	Ceramides
+C007229	
+D011743	
+C009288	
+C506614	N-[(2R)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide
+D020959	Ethylene
+C402833	Metoprolol succinate
+C009172	Salidroside
+D006418	Protoheme
+C104586	Seliciclib
+D002788	
+D004144	Diosgenin
+D020875	Damgo
+C538828	
+C004681	Acetylstrophanthidin
+C009079	
+C050142	
+C425231	
+C498045	NO-aspirin
+C012036	
+C000600493	
+D005230	Fatty Acids, Nonesterified
+C048436	MPLA (synthetic) Sterile Solution
+D004096	Dihydrostreptomycin
+C093973	2-(2-Amino-3-methoxyphenyl)-4H-1-benzopyran-4-one
+C000596361	Osimertinib
+C494040	
+D003957	
+D000171	Acrolein
+C036617	1-Methyl-1,2,3,4-tetrahydroisoquinoline-6,7-diol
+D010665	Norephedrine
+C056595	Clentiazem
+C034930	Piperazine
+C005756	2-Hydroxyphenylacetic acid
+C108373	Dutasteride
+C424962	
+C000595153	
+C066229	
+C568714	
+C063834	
+C518914	Carisbamate
+D003374	Coumarin derivative
+C001258	
+C027870	Berbamine
+C001002	
+C516833	4-Bromophenyl 1,4-diazabicyclo(3.2.2)nonane-4-carboxylate
+D011809	
+D019331	L-Name
+C498052	
+C518129	
+C012071	Triazinate
+C091921	
+C422270	
+C437846	
+C447082	Tricarbonyldichlororuthenium(II) dimer
+C519901	
+C022801	Curcumol
+C030851	Esorubicin
+C552334	Canagliflozin
+C034516	
+C072547	
+C019417	2-Hydroxyglutaric acid
+C491685	3-Aminobenzamide
+C490492	
+C052629	CU-Ptsm
+C072829	
+D013722	Teprotide
+C000702	
+D011722	
+C045325	Eupatilin
+C001470	4-Ipomeanol
+C056017	Tribendimidine
+D015759	Ionomycin
+C012042	Steviol
+D011524	
+C000589982	
+C031875	Lergotrile
+C096484	
+C445979	beta-Elemene
+D044947	
+C534713	
+C057531	Jasplakinolide
+C545120	
+C082408	
+D005164	
+C100221	
+C005806	Chlorothalonil
+D002515	Cephradine
+C023717	Acacetin
+D012603	Scopoletin
+C021730	D-Pinitol
+C056793	
+D000227	Adenosine monophosphate
+C500894	PDK1 inhibitor AR-12
+C080296	
+C497816	
+C414320	
+C585405	Paritaprevir
+C025425	
+C040798	
+C084899	
+D000929	
+C102351	
+D011560	
+C022777	Bufalin
+C551661	Tivantinib
+C000592021	
+C111716	
+C529375	
+C112689	Amsilarotene
+C034028	Vanadyl sulfate
+D001548	Benzalkonium
+C115461	5-(4-chlorophenyl)-1-(4-methoxyphenyl)-3-(trifluoromethyl)-1H-pyrazole
+D015224	
+C030614	Picolinic acid
+D015773	Enalaprilat
+C014308	
+C492953	
+C000600714	
+D015121	6-Keto-prostaglandin F1alpha
+C581157	Pilaralisib
+C027576	4-Hydroxynonenal
+C499879	Celivarone
+C543746	
+C010835	3-Acetylpyridine
+D004230	
+C457499	2-Chloro-5-nitro-N-phenylbenzamide
+C069665	
+C017364	
+D012294	Rifamycin
+C059571	2-Formyl-5-(hydroxymethyl)pyrrole-1-norleucine
+C051521	Phosphatidylethanol
+D009240	N-Formyl-methionyl-leucyl-phenylalanine
+C045313	Anipamil
+C511534	
+D010165	Palladium
+C497273	
+D010975	
+C106745	
+D006062	
+D011192	Potassium Dichromate
+D013605	T2 Toxin
+D003513	Cycloheximide
+D004533	Egtazic acid
+C545185	
+C024894	Sodium 1,6,6-trimethyl-10,11-dioxo-6,7,8,9,10,11-hexahydrophenanthro[1,2-b]furan-2-sulfonate
+C014674	S-Methyl methanethiosulfonate
+C024376	Nicotinic acid adenine dinucleotide phosphate
+C511404	Zibotentan
+C009732	Buthiazide
+C431585	Diallyl tetrasulfide
+C025473	
+C045856	Ginkgolides, ginkgolide B
+D007811	Lanthanum
+C031719	Imidocarb dipropionate
+D011745	Pyrithiamine
+C058179	
+D054439	Obestatin
+C045504	Tropisetron
+C037283	
+C115284	Manitimus
+D005650	Fumarate
+C066075	Vanadium pentoxide
+C080430	
+C059498	Olprinone hydrochloride
+C047722	
+C004500	Blastizidin [German]
+D019256	Cadmium chloride
+C092373	
+C011700	Carbogen
+C042235	
+D000114	
+D013308	Streptonigrin
+C049639	Isoevodiamine
+C514020	Lisdexamfetamine dimesylate
+C492445	
+D000143	
+C102768	Psoralidin
+D024482	vitamin K2
+C034807	
+C110629	Zonampanel
+C030159	
+C027245	
+C015772	
+D012976	
+D013854	
+D020367	Iofetamine
+D000530	Alfathesin
+C423582	Bay 41-2272
+C079020	
+D002272	
+C008282	Linarin
+C004986	
+C065566	Buthionine sulfoximine ethyl ester
+C588336	
+C076356	
+C007076	Citral
+D011447	Prospidium chloride
+C009043	Pristimerin
+C005928	
+D016590	Aphidicolin
+C101044	N-(3-chlorophenyl)-6,7-dimethoxyquinazolin-4-amine
+C020918	Lidamidine
+C485991	
+C048980	Ajoene
+C063430	
+C028670	
+C062500	
+C576501	
+C118296	Enantyum
+C577143	
+D014971	
+C063524	
+C052853	5-Hydroxydecanoic acid
+D019345	
+C521270	Magnesium isoglycyrrhizinate
+C576940	
+C010152	
+D002807	
+C051446	3-Methylcholanthrylene
+C079988	Taraxasterol
+C545732	
+D011136	Tween 20
+C072936	Notoginsenoside R1
+D001498	Methyl 2,6-dimethyl-5-nitro-4-[2-(trifluoromethyl)phenyl]-1,4-dihydropyridine-3-carboxylate
+C035874	N-Methyl-beta-carboline-3-carboxamide
+C097591	
+C092702	CEA protocol
+C007112	(S)-2-Propylpiperidine
+C055172	N-7-(2-(Nitrophenyldithio)ethyl)mitomycin C
+C027185	Indirubin
+D009580	Nitroblue tetrazolium chloride
+C014153	Pirimiphos-methyl
+C532162	Pictilisib
+C068035	
+C473959	Befiradol
+D005278	Fenitrothion
+C009846	
+C492458	Vytorin
+C060049	
+D002112	Calcifediol
+D004187	
+C559897	
+D000120	Acecainide
+C069741	Norcantharidin
+C093922	
+D009496	Neurotensin
+D010755	
+C422326	
+C028178	Gossypol acetic acid
+C041942	2,3,4-Tri-O-acetylarabinopyranosyl isothiocyanate
+C016713	
+C410767	Pretomanid
+C411955	
+C042101	
+C405204	
+D062907	Oxalacetic acid
+C445122	
+C484278	
+C485043	
+C530645	
+C100106	Stobadine
+C543401	
+C040527	lipoxin A4
+C009907	
+C472787	Erufosine
+D012633	
+C106246	Edotreotide
+C409214	
+D000096	Acetone
+D008244	Lysophosphatidylcholine
+C015854	Estradiol valerate
+D015112	4-Nitroquinoline N-oxide
+C004832	
+C053595	
+D011279	
+C505653	
+C084588	
+C568831	
+C028632	Rutaecarpine
+C051905	
+D008187	
+C026677	
+C000589260	
+C005699	
+C010063	Carbonyl sulfide
+D010831	Phytanic acid
+C525167	Larazotide acetate
+C588087	2-((3R,5R,6S)-5-(3-chlorophenyl)-6-(4-chlorophenyl)-1-((S)-1-(isopropylsulfonyl)-3-methylbutan-2-yl)-3-methyl-2-oxopiperidin-3-yl)acetic acid
+C505646	N-[2,6-Bis(1-methylethyl)phenyl]-N'-[4-[(4-nitrophenyl)thio]phenyl]urea
+C055603	Temocapril hydrochloride
+C557331	Fasiglifam
+C024603	CID 115063
+C456029	Nelivaptan
+C060190	Batanopride
+C013934	Otilonium Bromide
+C050232	1,3-Di-o-tolylguanidine
+C057270	
+C108830	Y-27632 dihydrochloride
+D003998	
+C003468	
+C031775	
+C418124	
+C043715	
+C041148	N-(2-Chloroethyl)-N-nitrosoacetamide
+C030712	
+C016350	3-Deoxyglucosone
+D012263	
+C557279	(R)-N-(3-aminopropyl)-N-(1-(3-benzyl-7-chloro-4-oxo-4H-chromen-2-yl)-2-methylpropyl)-4-methylbenzamide hydrochloride
+C419502	Alvimopan
+C472007	
+C000592521	
+C016347	
+C487773	Crocetin
+C013276	Iron polymaltose
+C054113	
+C060571	
+C039004	Potassium bromide
+C000592510	
+C046338	Telenzepine
+C576398	3-Pyridazinamine, N-(1-((3,4-difluorophenyl)methyl)-4-piperidinyl)-6-(trifluoromethyl)-
+C558922	
+C413408	Atazanavir
+C049120	
+D008748	3-Methylcholanthrene
+C475885	
+C015378	
+D003046	
+C031208	
+D015655	Cyperquat
+C022028	
+C057590	
+C069296	
+C041376	Rosmarinic acid
+C023527	
+C118460	beta-Hydroxyisovalerylshikonin
+C110027	
+C571726	
+C061991	
+C415600	
+C525447	
+D001950	Bretylium tosylate
+C024524	beta-Funaltrexamine
+C004298	
+D017316	Fadrozole
+C502994	Onglyza
+C006884	Cannabidiolic acid
+C029269	5-Fluoropyrimidine
+C003905	
+C042031	
+C071262	6-Chloro-7,8-dihydroxy-3-allyl-1-phenyl-2,3,4,5-tetrahydro-1H-3-benzazepine
+C014558	Flunixin meglumine
+D008665	
+C097188	Glutamine
+C576639	
+C037547	
+D010840	Phytosterols
+C100119	
+C573816	
+C040269	
+C078143	Levosulpiride
+C476335	
+C028222	Dicobalt Edetate
+C073326	
+D019257	Quinpirole
+C533957	
+D017999	leukotriene E4
+C497037	
+C555622	
+D013868	
+C120029	Homocamptothecin
+C052020	
+C100108	Diftalone
+D017878	4,4'-Diisothiocyanostilbene-2,2'-disulfonic acid
+C054367	
+C522674	
+C042116	
+C098312	
+C052864	
+C050422	
+C017185	Delphinidin
+C515425	
+C069719	
+D037621	
+C000592017	
+D004726	Endosulfan
+C530770	(5S,6R)-Methyl 5,6,7-trihydroxyheptanoate
+C551528	Linsitinib
+C055359	
+C047144	
+C037861	
+C047645	
+D010972	Platelet activating factor
+C546919	
+C044327	
+C063968	N-[4-[1-[2-(6-methylpyridin-2-yl)ethyl]piperidine-4-carbonyl]phenyl]methanesulfonamide
+D004095	
+C097280	
+C009524	Tributyl phosphate
+C031721	Naphthalene
+C031307	
+C517016	Aspalathin
+C028994	Betamethasone phosphate
+D003439	
+C000600334	VO-OHpic
+C062698	
+C403315	Diquafosol
+C039661	
+C000588783	
+C579555	
+D017879	
+C032787	Isoalantolactone
+D019087	
+C080828	5-Oxo-6,8,11,14-eicosatetraenoic acid
+C109289	
+C033435	
+C474173	
+D004083	Dihydrocholesterol
+C094161	
+D000640	Amitrole
+C120871	
+C574454	
+C004480	
+C015409	
+D005466	CID 155293615
+C571852	
+C424427	
+C052143	
+C498978	
+C548956	
+C027652	Fructose-2,6-diphosphate
+C546417	
+D013501	
+C082137	Ibrolipim
+C047768	Nicainoprol
+C064142	
+C106876	3-(3-Fluorophenyl)-5,5-dimethyl-4-(4-methylsulfonylphenyl)furan-2-one
+C023885	Menadiol
+D014364	Tryptophan
+C021080	Olean-12-en-29-oic acid, 3-(3-carboxy-1-oxopropoxy)-11-oxo-, disodium salt, (3beta,20beta)-, mixt. with aluminum hydroxide (Al(OH)3), silicic acid (H2Si3O7) magnesium salt (1:1) and sodium hydrogen carbonate
+C053347	Prenylamine lactate
+C480543	Daporinad
+C026978	2,3-Butanediol
+C568345	
+D011692	Puromycin aminonucleoside
+C022826	Hydroxybutanoic acid, monolithium salt
+C416837	CID 3081484
+C120149	
+D000809	
+D015127	7,12-Dimethylbenz[a]anthracene
+D008062	
+C039123	
+C012647	
+C070941	
+C021151	
+C081137	
+C088196	Cyclo(D-alpha-aspartyl-3-((4-phenylpiperazin-1-yl)carbonyl)-L-alanyl-L-alpha-aspartyl-D-2-(2-thienyl)glycyl-L-leucyl-D-tryptophyl) disodium salt
+C078796	
+D017260	
+D000181	Acrylonitrile
+D011462	
+C120489	
+C071609	GR 89696 fumarate
+C078973	Interceptor flavor tabs
+C004528	Benzarone
+C482020	
+C063007	
+D012103	
+C024262	Norethindrone acetate
+C401312	2-[6-(4-Chlorophenoxy)hexyl]-1-cyano-3-pyridin-4-ylguanidine
+C001318	Guanidinosuccinic acid
+D011075	2,3,3',4,4',5'-Hexabromobiphenyl
+C002752	Ethyl 4-phenylpiperidine-4-carboxylate
+C021967	
+C035847	
+C050851	
+C119642	
+C009865	
+C492572	Olanzapine and fluoxetine hydrochloride
+C027820	Ligustilide
+C112654	
+C046659	Piroxantrone
+D001085	
+C015697	
+C050795	
+C024892	
+C015330	Lycorine
+C088464	4-(alpha-(4-allyl-2,5-dimethyl-1-piperazinyl)-3-methoxybenzyl)-N,N-diethylbenzamide
+C100204	Lenperone hydrochloride
+C031760	Thiocyanate
+C053241	
+C038949	
+C541987	
+D006388	
+C034534	Peretinoin
+C120519	
+C009139	
+C000594952	
+C115618	
+D010081	Oxazolone
+C051945	2-Methoxypropyl acetate
+C449401	
+C417603	
+C027113	Chrysophanol
+C525762	methyl 3,5-di-O-caffeoyl quinate
+D006433	
+C030058	Dermorphin
+C051263	Cystemustine
+C522342	
+C552419	
+D014502	Uranium nitrate
+C009591	
+C003316	
+C407023	
+C061977	
+D010695	Phlorizin
+C058411	
+C092028	Glufosfamide
+C007262	Deoxynivalenol
+C022022	5(S)-Hete
+C088643	Decahydro-6-(phosphonomethyl)-3-isoquinolinecarboxylic acid
+C005759	
+C423467	
+C513936	
+C000597426	N-((1,2,3,5,6,7-hexahydro-s-indacen-4-yl)carbamoyl)-4-(2-hydroxypropan-2-yl)furan-2-sulfonamide
+C006008	
+C528044	Luminespib
+C032456	Antimycin
+D011070	
+D001387	Azinphos-methyl
+C009374	Tabun
+C528831	
+C552724	
+C544831	Foretinib
+C439060	Sirtinol
+C030986	Pyrimidine
+D009353	Zinostatin
+C010775	
+C407151	Apomine
+D002083	2-tert-Butyl-4-methoxyphenol
+C096856	methyl (2S)-2-[[4-[[(2R)-2-amino-3-sulfanylpropyl]amino]-2-phenylbenzoyl]amino]-4-methylsulfanylbutanoate
+D006497	Heparitin, sulfate
+D004088	
+C530263	2-Methoxyoestra-1,3,5(10),16-tetraene-3-carboxamide
+C031292	Diclofensine
+D008743	Methyl parathion
+D000157	Aconitin
+C572868	Fluopyram
+C497677	
+C568512	Azd-4877
+C578055	Oleacein
+C581034	6,7,14-Trihydroxy-7,20-epoxykaur-16-en-15-one
+C055887	
+C480833	
+C542859	Aclidinium bromide
+C489443	(1R,9S,12S,15R,16E,18R,19R,21R,23S,24Z,26E,28E,30S,32S,35R)-1,18-dihydroxy-19,30-dimethoxy-12-[(2R)-1-[(1S,3R,4S)-3-methoxy-4-(tetrazol-1-yl)cyclohexyl]propan-2-yl]-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone
+D004399	Dynorphin
+D007495	
+C559284	
+C073419	
+D054358	Withanolide S
+C092451	1-methyl-3-[(E)-(4-oxo-3-prop-2-enyl-1,3-thiazolidin-2-ylidene)amino]thiourea
+D000496	Alloxan
+C100267	
+C058506	
+C017142	Cobinamide dihydrate
+C052659	beta-Guttiferin
+C120073	
+D013011	Sorbic acid
+C061872	(E,2Z)-4-Ethyl-2-hydroxyimino-5-nitro-hex-3-enamide
+C028521	Lanthanum(III) chloride
+D002230	Carbidopa
+C531972	CID 16202704
+C082026	Tebufenozide
+C008449	2-Amino-6-methoxypurine
+C048993	
+C059686	
+D011744	Pyrimidone (mixed isomers)
+C029624	
+C102825	
+C508239	
+C055118	
+C058744	[(16E)-17-ethyl-4,8-dihydroxy-3,7,11,13-tetramethyl-6,15-dioxononadeca-16,18-dien-2-yl] 3-hydroxy-3-(4-methyl-2,5-dioxofuran-3-yl)propanoate
+C473995	Oroxindin
+C029684	
+C451081	
+C585069	
+D013007	
+D007610	
+C097462	
+D013947	
+C093642	4-(4-Fluorophenyl)-2-(4-methylsulfinylphenyl)-5-(4-pyridyl)-1H-imidazole
+C570789	
+C475455	(2S,3R)-2-acetamido-3-hydroxy-4-methylpentanoate
+C033163	Spiramycin II
+C006253	Pirinixic acid
+D043168	
+C430623	Atrasentan
+C081308	
+C077479	
+C027784	Amezinium
+C543534	Losmapimod
+D015320	
+D011143	Vinyl Chloride
+C019135	
+D006827	Hydantoin
+C073269	
+C519312	
+C004658	4-Chloroaniline
+C085720	
+D020847	
+C018674	Tetrahydrofuran
+C012595	
+C063334	
+D004980	Ethane
+C569618	
+C021702	
+C071942	Arctigenin
+C007095	Cobalt protoporphyrin
+C018490	
+C037866	
+C000599459	
+C009558	
+C033225	Pediotic
+C036626	Lidocaine and prilocaine
+D011814	Quipazine
+C104511	
+C006739	
+C028998	
+C091888	Monoisoamyl-2,3-dimercaptosuccinate
+C041246	Cucurbitacin B
+C561234	Pacritinib
+D008760	Methylguanidine
+D001371	1,4-Cyclohexanedimethanamine, N,N'-bis((2-chlorophenyl)methyl)-, dihydrochloride, trans-
+C561960	
+C000591226	
+C049816	
+C031800	Acetic Anhydride
+C438846	
+C107558	
+C009674	
+D013853	Thioacetamide
+C019215	Mitonafide
+C011907	Melamine
+C003800	
+C018279	
+C043243	Methyl tert-butyl ether
+C020806	Tetrabromobisphenol A
+D018501	
+C055425	
+D011354	
+C047342	
+C459179	4-(4-(benzo[d][1,3]dioxol-5-yl)-5-(pyridin-2-yl)-1H-imidazol-2-yl)benzamide
+C500528	3'-Carbamoyl-[1,1'-biphenyl]-3-yl cyclohexylcarbamate
+D010716	
+D001554	Benzene
+C032368	Midaglizole
+C543949	
+D014814	Methylmethionine sulfonium chloride
+D009533	
+C056625	
+D015122	Mercaptopurine
+C040033	
+C003769	
+C434457	
+C577569	
+C502418	
+D013107	
+C539419	Ingavirin
+D011564	Psoralen
+C010238	Fomepizole
+C410216	Folfox
+C103850	
+C052736	CASPc
+C106526	Insulin glargine
+D006719	Homovanillic acid
+C000599718	
+C087283	Pargeverine
+C013123	5,10-Methylenetetrahydrofolic acid
+C499142	
+C516022	Delamanid
+C515270	
+C006584	1,5-Anhydro-D-glucitol
+C021747	Sodium selenate
+D008095	Lithocholic acid
+C031534	Imperatorin
+C506332	
+D002131	
+C028019	Cesium chloride
+D015946	1,2-Dibromoethane
+D005001	L-Ethionine
+C023035	3,3',4,4',5-Pentachlorobiphenyl
+C431665	
+D005897	Glafenine
+C104193	
+C044797	
+C057862	Microcystin-LR
+D010133	p-CHLOROAMPHETAMINE
+C041277	
+C482698	
+C583656	1-(4-(2-(4-(1-(3-(Trifluoromethyl)-7,8-dihydro-[1,2,4]triazolo[4,3-b]pyridazin-6-yl)piperidin-4-yl)phenoxy)ethyl)piperazin-1-yl)ethanone
+C055669	
+C100257	
+C500383	Zalypsis
+D014302	2,4,6-Trinitrobenzenesulfonic acid
+C437683	Xcytrin
+D009564	
+C029449	
+C038105	Cucurbitacin D
+C571151	
+D010875	
+C043348	
+D057073	
+C558666	(R)-3-(2,3-dihydroxypropyl)-6-fluoro-5-(2-fluoro-4-iodophenylamino)-8-methylpyrido[2,3-d]pyrimidine-4,7(3H,8H)-dione
+C006640	
+D000122	Acetylthiocholine
+C413122	
+C051122	Wedelolactone
+C085292	
+C060594	Zeniplatin
+C003677	Tomatidine
+D010675	
+C446952	
+D011791	Silicon Dioxide
+D007519	
+D015116	5,7-Dihydroxytryptamine
+C093924	
+D017263	
+D002246	Carbon disulfide
+C119130	4-(5-(4-chlorophenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl)benzenesulfonamide
+C051402	
+D002188	
+C077543	
+C571178	Buparlisib
+C030000	Stallimycin
+C047445	
+C006198	
+C045930	Pentisomide
+C061282	2-(4-(2-Carboxyethyl)phenethylamino)-5'-N-ethylcarboxamidoadenosine
+C553022	
+C011824	
+C574246	(2S)-N-[(1S)-1-cyclohexyl-2-[(2S)-2-[4-(4-fluorobenzoyl)-1,3-thiazol-2-yl]pyrrolidin-1-yl]-2-oxoethyl]-2-(methylamino)propanamide
+C068212	Cefquinome
+C487655	
+C031403	Benzyl isothiocyanate
+C488288	alpha-Tocopheryloxyacetic acid
+C475179	
+C088419	
+C076518	
+C025451	Sodium hydrosulfide
+C572463	Azd-4547
+D014638	
+C054577	
+D000112	
+C037917	
+C042829	Ponalrestat
+C043986	
+C038491	Diallyl sulfide
+C488084	
+C528113	
+C005084	
+D010909	Pituitrin
+C009281	Sodium cyanate
+C099587	
+C048388	
+C487049	Elocalcitol
+C501177	Nvp-aew541
+C011105	
+C425784	4-(5-Fluoro-1,3-benzothiazol-2-yl)-2-methylaniline
+C110453	Tilmacoxib
+D010936	
+C027020	
+D003287	
+C009564	Trilinolein
+C052228	Senazodan hydrochloride
+C550436	Morphine sulfate and naltrexone hydrochloride
+C020804	4,6-Dioxoheptanoic acid
+C400105	
+D011740	Cyclobutadithymine
+C520233	Budlein A
+C060921	Ukrain
+C067772	
+C100114	
+C518762	
+C004943	
+C433236	
+C406061	
+D011454	
+C112304	
+C085746	Rottlerin
+D004139	1-Fluoro-2,4-dinitrobenzene
+C058875	
+C002534	
+C411885	BX-471 free base
+C575086	
+C045950	Propiconazole
+C417052	
+C507889	
+C035342	1,4-Naphthoquinone
+C116173	
+D008635	Mescaline
+C093656	
+C523393	4-(6-Hydroxynaphthalen-2-yl)benzene-1,3-diol
+C029024	
+C008047	HMG-CoA
+D000517	3-Chloro-1,2-propanediol
+C054133	Casticin
+C442639	
+C045617	
+C038135	11b,17,21-Trihydroxy-3,20-dioxo-pregn-4-en-18-al
+C050883	
+C008548	Morin
+C530511	
+C527797	
+D018925	
+C040534	Lindane
+C493772	
+C522358	
+C030187	
+D015636	Magnesium Chloride
+C107676	Deguelin
+D000336	
+C024755	
+C571067	
+C528570	Metaflumizone
+C028330	Xanthurenic acid
+C518321	
+C050414	Celastrol
+C102070	Lumefantrine
+D003346	Corticoliberin
+C520506	
+C084062	
+C400142	
+D002706	Chlordane
+D015780	Carbapenem
+C095512	Tyrphostin B42
+C414830	
+D006496	
+C487202	
+C054080	
+D002338	alpha-Carotene
+C550600	
+D013963	Thyroid hormones
+D004051	Bis(2-ethylhexyl) phthalate
+D012310	
+C097880	Pyridinium, 1-ethyl-2-[[3-ethyl-5-(3-methyl-2(3H)-benzothiazolylidene)-4-oxo-2-thiazolidinylidene]methyl]-, chloride (1:1)
+C002511	Chaetocin a
+C031340	
+C472668	MnTDE-2-ImP5+
+C534922	4-(6,6-dimethyl-4-oxo-3-(trifluoromethyl)-4,5,6,7-tetrahydro-1H-indazol-1-yl)-2-((1r,4r)-4-hydroxycyclohexylamino)benzamide
+C059447	Methyl 6-methyl-3-(2-methylpropyl)-4-(3-nitrophenyl)-4,7-dihydrothieno[2,3-b]pyridine-5-carboxylate
+C106155	
+C007145	
+C543072	
+D005461	Fluorine
+C043297	
+C031843	Fluoromisonidazole
+C002284	Hydroxypropylmethylcellulose
+C017803	Zinc-protoporphyrin
+C035416	
+C043265	Tazobactam
+C076052	
+C059006	Tangeretin
+C465678	
+C013484	DI(Hydroxyethyl)ether
+C402179	Ladirubicin
+C005881	Zeaxanthin
+C530402	
+C533467	(3S,3'S,6S,6'S,10aS,10a'S)-N,N'-((1S,1'S)-((1,4-phenylenebis(butane-4,1-diyl))bis(1H-1,2,3-triazole-1,4-diyl))bis(phenylmethylene))bis(6-((S)-2-(methylamino)propanamido)-5-oxodecahydropyrrolo[1,2-a]azocine-3-carboxamide)
+D015025	Zearalenone
+C036670	Toltrazuril
+C011865	5-Hydroxymethylcytosine
+D010712	2-(Hexadecanoyloxy)-1-[(phosphonooxy)methyl]ethyl hexadecanoate
+C088919	
+C106532	
+D003849	2'-Deoxyguanosine
+D046934	
+C000592408	
+D017323	3-[13-[1-[1-[8,12-Bis(2-carboxyethyl)-17-(1-hydroxyethyl)-3,7,13,18-tetramethyl-21,24-dihydroporphyrin-2-yl]ethoxy]ethyl]-18-(2-carboxyethyl)-8-(1-hydroxyethyl)-3,7,12,17-tetramethyl-22,23-dihydroporphyrin-2-yl]propanoic acid
+C402066	
+C063993	
+C103442	Hispolon
+C010604	
+C032482	
+D002714	Chlorisondamine chloride
+D001576	Auramine O
+C007111	
+C108218	
+C038106	Cucurbitacin I
+C568849	
+D011140	Ethylurea
+C006862	4-tert-Butylphenol
+C028175	Metalaxyl
+C416545	Quinpirole hydrochloride
+C099142	
+C493688	
+C118656	
+C061187	
+D007539	Isonicotinic acid
+C053066	
+C034020	Anthracene
+C100207	
+C079963	
+C568850	
+C044894	Ethylcholine aziridinium
+C456499	
+C569666	
+C049454	
+C023435	
+C001746	4-(2-Aminoethyl)-2-methoxyphenol
+C403944	cynandione A
+C101544	
+D058924	
+C414029	
+C049626	Netobimin
+C010169	
+D004128	N-Nitrosodimethylamine
+C067713	Lactacystin
+C101670	2-[2-[4-(4-Nitrobenzyloxy)phenyl]ethyl]isothiourea mesylate
+D004996	Ethidium
+C028571	
+D005732	
+D010172	Palmitoylcarnitine
+C552333	
+D020106	Acrylamide
+C434247	Diphenyl ditelluride
+C533849	
+C090394	
+C062028	Albifylline
+C429426	
+C010098	
+C544261	3,5,7,8-Tetrahydro-2-[4-(trifluoromethyl)phenyl]-4H-thiopyrano[4,3-d]pyrimidin-4-one
+C106738	
+D019855	Ethylene Glycol
+C492079	
+C105196	Enfuvirtide
+C069631	
+C000601005	
+D010278	Parathion
+C109794	
+C017532	4-Methylumbelliferylguanidinobenzoate
+C489337	Potassium oxonate
+D013773	Tetramisole
+C506393	
+C049430	Mivacurium chloride
+D017830	Triton X-100
+D008689	
+D007454	Iodide ion
+C529784	
+D003548	Cysteinyldopa
+C009258	
+D005405	D-Ala2,MePhe4,Met5(O))enkephalinol
+C411623	
+C027493	Dehydroacetic acid
+C422924	Seretide
+D015123	Benzo(a)pyrene diol epoxide
+D001639	Bicarbonate
+C031349	7-(Dipropylamino)-5,6,7,8-tetrahydronaphthalen-2-ol
+C089938	
+C106674	Dolo-Spedifen
+D059805	
+C033250	
+C425931	Endurobol
+D003931	2,3-Butanedione
+C013282	
+C070046	Dotap
+C554862	
+C020445	
+C049507	
+C532454	
+C418262	Zidovudine
+C031096	Neplanocin A
+C559815	(R)-6-bromo-3-(1-methyl-1H-pyrazol-4-yl)-5-(piperidin-3-yl)pyrazolo[1,5-a]pyrimidin-7-amine
+C106882	
+C064273	
+C577924	3-[[2-[(methylaminosulfonyl)amino]-3-fluoropyridin-4-yl]methyl]-4-methyl-7-[(pyrimidin-2-yl)oxy]-2H-1-benzopyran-2-one
+D019268	9-Anthracenecarboxylic acid
+C505358	
+D002219	Carbamate
+C414205	
+C076251	Mozavaptan
+C510926	
+C050836	
+C523922	
+C084641	
+C030532	Falipamil
+C064874	Thiophene, 5-bromo-2-(4-fluorophenyl)-3-(4-(methylsulfonyl)phenyl)-
+D019377	12-Hydroxy-5,8,10,14-eicosatetraenoic acid
+C035723	
+C042171	
+C066632	Yessotoxin
+C104810	
+C013268	
+C048248	
+C547056	
+C473896	Taltobulin
+C043065	
+C572919	2-(4-amino-1-isopropyl-1H-pyrazolo[3,4-d]pyrimidin-3-yl)-1H-indol-5-ol
+C070081	Fulvestrant
+C002230	
+C509971	Alisporivir
+C030042	
+D015073	2-Acetylaminofluorene
+C100095	Azacyclonol
+C052305	
+D006629	Exhirud
+C097260	
+C021304	Hyperoside
+C041524	
+C013587	Leonurine
+C512301	
+C093412	
+D011220	
+C119872	Iseganan
+C587045	
+D017367	
+C079555	
+C072779	
+C014815	Fluoroacetic acid
+C097658	N-Hydroxy-2(R)-[[(4-methoxyphenyl)sulfonyl](3-picolyl)amino]-3-methylbutanamide hydrochloride
+C528276	
+C011724	7alpha-Hydroxycholesterol
+C018108	Morphine-3-glucuronide
+C054889	
+C062769	Abecarnil
+C040648	
+C052587	
+C456120	
+C533736	
+C001969	Acephate
+C070760	Sclareol
+D013343	
+C013786	
+C515357	
+C534735	Tetraarsenic tetrasulfide
+D008050	lipid A
+C540767	
+C045827	
+C075659	
+C083778	
+C097284	Mntbap
+C561454	Omipalisib
+D000629	3-Aminopropanenitrile
+D003983	Dibenamine
+D002734	CID 5748352
+D013645	Tartrazine
+C041791	
+C114623	
+C083806	Brucine
+D017638	Crocidolite Asbestos
+D002513	
+C105022	
+C048140	1H-Imidazole-4-ethanamine, N-methyl-
+C461480	Gentamicin sulfate mixture with paromomycin sulfate
+C005066	Borrelidin
+C487766	
+C541330	
+D005027	Ethylene Oxide
+D003375	Coumestrol
+C001016	
+C488833	
+D002069	Butaclamol hydrochloride
+C439284	
+C030168	
+C086184	Examorelin
+D014216	
+D014614	
+C105671	Fraxetin
+C550378	Apabetalone
+C017096	2-Butoxyethanol
+D015647	2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine
+C000600233	
+D005677	Ganglioside GM1
+C078281	
+D004441	20-Hydroxyecdysone
+C084683	
+C504718	7-methyl-2-morpholino-9-(1-(phenylamino)ethyl)-4H-pyrido[1,2-a]pyrimidin-4-one
+C045749	7-(3-((2-((Phenylamino)carbonyl)hydrazino)methyl)-7-oxabicyclo(2.2.1)hept-2-yl)-5-heptenoic acid
+C023666	Pyridine;perchlorate
+C465018	
+C528969	
+D010416	Pentachlorophenol
+C034140	
+D015084	2,4-Dichlorophenoxyacetic acid
+D002867	Chromone
+D052998	
+C076557	
+C059141	Verlukast
+C046215	8-Hydroxyguanosine
+C518399	
+C079117	
+C072115	
+C001329	Helenalin
+D004052	N-Nitrosodiethylamine
+C469787	
+D002308	Cardiolipin
+C533794	
+C086083	
+C065762	Amtolmetin guacil
+D015124	Bcamp
+C505531	
+C000599187	
+D008536	Meglumine
+C558899	Lopinavir and ritonavir
+C020269	
+C034643	Morphinan-6-one, 4,5-epoxy-3,14-dihydroxy-17-(2-propenyl)-, ((5alpha)-4,5-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-ylidene)hydrazone, (5alpha)-
+C052552	
+C044646	Phosphine
+C104334	1-(7-(4-Fluorophenyl)-8-(pyridin-4-yl)-3,4-dihydropyrazolo[5,1-c][1,2,4]triazin-2(1H)-yl)-2-phenylethane-1,2-dione sulfate
+C050501	
+C068644	
+D005070	C.I. Direct blue 53
+C556497	Verucerfont
+C016299	Chelerythrine
+C493154	alpha-GalCer
+C453902	5-[4-(4-Nitrophenyl)piperazin-1-yl]-5-(4-phenylphenyl)-1,3-diazinane-2,4,6-trione
+C035950	Fostedil
+D009285	1,4-Naphthoquinone
+C403079	
+C002994	Ethylene dimethanesulfonate
+C542292	
+C016599	2-(((2-Ethylhexyl)oxy)carbonyl)benzoic acid
+C118201	
+C034286	Boron gluconate
+C120578	
+D010836	Phytol
+D009840	Oligomycin
+C552409	Forsythoside B
+D012838	Silymarin
+C002769	Oleuropein
+D000175	
+C051353	
+C577980	
+C050643	
+C116605	
+C029297	Vinylidene chloride
+C083368	
+C487369	
+C477448	
+C448680	
+C558663	2-(4-(1-(quinolin-6-ylmethyl)-1H-[1,2,3]triazolo[4,5-b]pyrazin-6-yl)-1H-pyrazol-1-yl)ethanol
+C552302	
+C054974	3,9-Epoxy-3H-azirino(2,3-c)benzazocine-5-carboxaldehyde, 1-acetyl-7,9-bis(acetyloxy)-8-(((aminocarbonyl)oxy)methyl)-1,1a,2,8,9,9a-hexahydro-, (1aS,3S,8R,9S,9aS)-
+C001579	Astragalin
+C073106	
+C433771	No-ursodeoxycholic acid
+D044262	Prostaglandin h2
+C090309	
+C530925	1-(2-(1-Adamantyl)ethyl)-1-pentyl-3-(3-(4-pyridyl)propyl)urea
+D008768	
+C422362	
+C000601029	
+C553306	
+C522838	Olesoxime
+D064751	Ammonium
+C083675	
+C104411	
+C047330	Meisoindigo
+C099871	
+C065427	Losigamona
+C576407	
+C550182	
+C048599	N6-Cyclopentyladenosine
+C044295	1,2-Dioctanoylglycerol
+C514498	
+C013170	
+D015650	Secalciferol
+C561093	
+D003540	L-cystathionine
+C507035	Resatorvid
+C049934	
+C574776	
+C033600	
+D020122	Tert-butyl hydroperoxide
+D003974	Diatrizoate meglumine
+D003007	
+C058007	
+D000348	Aflatoxin G1
+D014414	Tungsten
+C016601	4-Hydroxytamoxifen
+C089796	1,2,5,6,9,10-Hexabromocyclododecane
+C003002	5-Thio-D-Glucose
+C005828	Methidathion
+C090816	
+C516879	
+D000119	Muramyl Dipeptide
+C063206	
+C476911	
+C095085	
+C022118	Dalamid
+C510748	Bunavail
+C077707	
+C033085	Phorbol
+C004409	
+C000847	Daunorubicinol
+C530108	4-(2-((4-(2-(Pyridin-2-yl)-5,6-dihydro-4H-pyrrolo[1,2-b]pyrazol-3-yl)quinolin-7-yl)oxy)ethyl)morpholine
+C409191	
+D017641	
+C550721	
+C518838	1-(Cyclopenta-1,4-dien-1-ylmethyl)-4-methoxybenzene;titanium(2+);dichloride
+C583128	
+C020754	Herbimycin a
+C012970	Fenclofenac
+C100240	
+C010423	Zinc pyridinethione
+C009479	Hinokitiol
+C432397	
+C568846	
+C540393	
+C560214	
+C514135	Sodium propionate
+C106407	Dihydromyricetin
+C052509	
+C009936	
+C585684	
+C550356	N-(4-((2-amino-3-chloropyridin-4-yl)oxy)-3-fluorophenyl)-4-ethoxy-1-(4-fluorophenyl)-2-oxo-1,2-dihydropyridine-3-carboxamide
+C081064	p-Cresol, 2,6-di-tert-butyl-alpha-(ethylamino)-
+C411255	
+D015240	Phorbol 12,13-dibutyrate
+C554657	
+C038345	Droloxifene
+C038879	
+D025381	
+D026422	S-nitrosoglutathione
+C521104	2-Methoxy-N-[(2E)-3-[4-[[3-methyl-4-[(6-methyl-3-pyridinyl)oxy]phenyl]amino]-6-quinazolinyl]-2-propen-1-yl]acetamide
+C462103	
+C571878	
+C113580	1,4-Diamino-2,3-dicyano-1,4-bis(o-aminophenylmercapto)butadiene
+C576807	
+D010432	
+C025589	Ochratoxin A
+C112774	
+D048628	
+C533410	Prima-1met
+C012102	Benzenemethanamine, 2-bromo-N-(2-chloroethyl)-N-ethyl-
+C071632	
+D044004	
+C008385	Methacrylonitrile
+C077810	
+C029217	n-Tert-butyl-alpha-phenylnitrone
+C018424	
+C030950	Tiquizium bromide
+C554292	
+C013147	Nervonic acid
+D019325	3-O-Methyl-d-glucose
+C555658	N-(4-(3-(2-aminopyrimidin-4-yl)pyridin-2-yloxy)phenyl)-4-(4-methylthiophen-2-yl)phthalazin-1-amine
+C434685	
+C533234	
+D002254	Carbonate Ion
+C089586	Saprisartan
+C066440	Loreclezole
+C109884	
+C091517	Sodium;1-[4-(1,3-benzodioxol-5-ylmethylamino)-6-chloroquinazolin-2-yl]piperidine-4-carboxylate
+C027172	Spaglumic acid
+C414222	
+C052929	
+C020602	
+C105874	
+C514334	Campothecin analog
+C120979	
+C009218	
+C048931	
+D008553	Epimelibiose
+D015295	
+C111194	
+C005969	4,4'-Diphenylmethane diisocyanate
+C493776	
+C558651	
+C514283	
+C093450	
+C058317	CID 15241817
+D004041	
+C016030	4-[(2,4-Dihydroxy-3,3-dimethylbutanoyl)amino]butanoic acid
+C039523	
+C487689	Peretinoin
+C005277	1-(1-Naphthyl)-2-thiourea
+C018579	
+C094351	
+C081971	
+C104547	
+C100496	
+C584543	Roxadustat
+C082152	
+C044617	
+C042726	
+C560087	Kirenol
+C539693	
+D051526	
+D015069	
+C515608	
+C026385	n-HEXANE
+C026563	Arachidonyl-coa
+C586094	Ombitasvir
+C028541	Zirconium dioxide
+C121414	
+C096595	
+C116532	
+C115855	
+C076715	Pervanadate
+C086539	BQ-788
+C508031	
+C064227	
+D008041	
+C085611	
+C476761	
+C041058	
+C061720	
+C492600	Metofluthrin [ISO]
+C044660	Tomelukast
+C514771	
+C106426	
+C117502	
+C031181	Phenanthrene
+C529090	
+C077155	Balofloxacin
+C015866	
+C512397	
+C047490	
+C053672	Selfotel
+C048324	Agri-Mek
+C005044	2-Hydroxyethyl methacrylate
+D022603	
+C081331	Norursodeoxycholic Acid
+C549566	
+C098751	2-Pyrrolino-dox
+D010705	Phosgene
+C040313	Phosphotrienin
+D014702	Veratrine
+C098793	
+C107086	(4-(N-hydroxyamino)-2R-isobutyl-3S-methylsuccinyl)-L-phenylglycine-N-methylamide
+C049568	
+C403304	Zerumbone
+C018145	Scoparone
+C403409	
+C105971	
+C543251	
+C546777	
+C058307	
+C479580	Procyanidin B2
+C473654	
+C008805	Perfluorodecalin
+C053783	
+C046488	Trimethyltin
+C523615	Levistilide A
+C511655	
+C036077	Nitrobenzene
+C001526	
+C112019	1-(2-Bromophenyl)-3-(2-hydroxy-4-nitrophenyl)urea
+C032036	Bromobenzene
+C009684	Withaferin A
+D000803	Angiotensin I
+C444299	3,3'-Diindolylmethane
+D014642	Vanillylmandelic acid
+C416531	[2-[(2S,4S)-4-[(2R,4S,5S,6S)-4-(2,3-dihydropyrrol-1-yl)-5-hydroxy-6-methyloxan-2-yl]oxy-2,5,12-trihydroxy-7-methoxy-6,11-dioxo-3,4-dihydro-1H-tetracen-2-yl]-2-oxoethyl] 5-[[(2S)-5-amino-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[2-[[(2S)-1-[[(2S)-1-[[(2S)-1-amino-4-methyl-1-oxopentan-2-yl]amino]-4-methylpentan-2-yl]amino]-3-(1H-imidazol-5-yl)-1-oxopropan-2-yl]amino]-2-oxoethyl]amino]-3-methyl-1-oxobutan-2-yl]amino]-1-oxopropan-2-yl]amino]-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-1,5-dioxopentan-2-yl]amino]-5-oxopentanoate
+C091584	Dopaminechrome
+C000596974	
+D006695	Holmium
+C416660	Actara
+C033585	Besigomsin
+C429533	2-[(4-Phenoxyphenyl)sulfonylmethyl]thiirane
+C095838	
+C518473	
+D011684	Nebularine
+C031186	
+C117218	
+C032854	Leupeptin
+C576296	
+C005231	Methanethiol
+C019074	
+C023845	N-Ethyl-N-(2-hydroxyethyl)nitrosamine
+C544478	Limbrel
+C088155	
+D002109	
+C586999	N-(2,6-dibromo-4-methoxyphenyl)-4-(2-methylimidazo[1,2-a]pyrimidin-3-yl)thiazol-2-amine
+C047902	
+D011526	
+C539721	
+C078266	Quiflapon
+C025191	Bromodichloromethane
+C076167	
+C000597465	
+C120234	
+C013418	Brodifacoum
+D002698	Chloralose
+C016063	Pinocembrin
+C067635	
+D017261	
+C008230	
+C090942	4-(4-Fluorophenyl)-2-(4-hydroxyphenyl)-5-(4-pyridyl)-1H-imidazole
+C046888	Butane
+C028337	Cadmium telluride
+C116439	
+C420352	
+D009581	
+C006633	
+D004071	
+C112144	
+C516355	
+D008746	Methanol, (methyl-ONN-azoxy)-, acetate (ester)
+C092985	
+C514351	
+C065700	
+C087411	
+C011269	2,5-Hexanedione
+C049115	
+D012524	Sarin
+C066851	Plicamycin
+C520139	
+D004026	Dieldrin
+C004777	Deanol acetamidobenzoate
+C006821	2,4'-Dibromoacetophenone
+D011886	Radon
+C518273	
+C473473	
+C076113	
+C070063	
+C477642	
+C418563	Tenofovir disoproxil
+C504058	
+C557213	
+D003897	Desmosterol
+C010914	2,4-Diaminotoluene
+C505036	
+C023055	
+C002754	
+C008876	Phorbol-12,13-didecanoate
+C109602	DY-9760E dihcl salt
+C553963	
+C079049	Volinanserin
+D000438	Ethanol
+C010925	2,5-Dihydroxybenzoic acid
+D037741	Buckminsterfullerene
+C118397	Eniporide
+C094503	2-Arachidonoylglycerol
+C553360	
+C040421	
+C068564	Phosphatidylbutanol
+C098657	2-(Furan-2-yl)-7-phenethyl-7H-pyrazolo[4,3-e][1,2,4]triazolo[1,5-c]pyrimidin-5-amine
+C010945	Embelin
+D016257	
+C087181	Trifazid
+C109763	Tebanicline
+C541449	
+C008378	
+C548140	Intepirdine
+D002264	Formic Acid
+C412383	3-(6-(Dimethylamino)-4-methylpyridin-3-yl)-2,5-dimethyl-N,N-dipropylpyrazolo[1,5-a]pyrimidin-7-amine
+C569361	
+C107494	
+D008456	(4-Chloro-2-methylphenoxy)acetic acid
+C027744	Carbamimidothioic acid, methyl ester
+C084773	Fazadinium
+D044005	1,2,3,4-Tetrahydroisoquinoline
+C419983	
+C003001	7-Ketocholesterol
+C063302	(S)-4-(2-(N-methylisoquinoline-5-sulfonamido)-3-oxo-3-(4-phenylpiperazin-1-yl)propyl)phenyl isoquinoline-5-sulfonate
+C020724	
+C038845	
+C015502	
+C022871	Isoborneol
+C074011	
+C050253	
+D020109	Devazepide
+C006757	4-Aminobiphenyl
+D014501	Uranium
+C110772	Z-Devd-fmk
+C516441	
+C478099	Gigantol
+C454647	(1R,3S,3'S,6R,8S,10R,12S,16R,18R,19S,20S,22R,25S,27R,29Z,32S,34R,36S,38R,40S,42R,43S,44S,45R,47S,48S,49S,50R,52S,54R,56R,58S,59R)-16-[(E,3S)-3,4-dihydroxybut-1-enyl]-43,44,49,54,58-pentamethylspiro[2,7,11,17,21,26,33,37,41,46,51,57-dodecaoxadodecacyclo[30.28.0.03,27.06,25.08,22.010,20.012,18.034,58.036,56.038,52.040,50.042,47]hexaconta-4,14,23,29-tetraene-45,5'-oxolane]-3',19,48,59-tetrol
+D011609	
+C028562	
+C002550	Bruceantin
+C067113	6-Chloro-2,3,4,5-tetrahydro-1-phenyl-1H-3-benzazepine-7,8-diol
+C538949	calphostin C
+C035932	Skimmianine
+C050563	
+D012428	Ruthenium
+C012122	
+C020946	Triethylene glycol dimethacrylate
+C049853	1(6H)-Pyridazinebutanoic acid, 6-imino-3-(4-methoxyphenyl)-, monohydrobromide
+C436624	
+C525733	
+C575430	2,5-dichloro-N-(2-methyl-4-nitrophenyl)benzenesulfonamide
+C014552	
+C521273	Azilsartan
+C025145	5-methoxy-3-(1,2,3,6-tetrahydropyridin-4-yl)-1H-indole
+D050111	
+D015638	cytochalasin D
+C053759	Eremomycin
+D007293	
+C096012	Nociceptin
+D011107	
+D012265	
+C488724	
+C030299	Phenylhydrazine
+C098009	Mivotilate
+C014416	Citreoviridin
+D007093	
+C103849	Panamesine
+D005668	
+C554954	Facinicline hydrochloride
+C573973	
+C089739	
+C002614	
+C015912	
+C531151	
+C480175	
+C012183	Benzeneacetic acid, alpha-hydroxy-alpha-(hydroxymethyl)-, 9-methyl-3-oxa-9-azatricyclo(3.3.1.02,4)non-7-yl ester, (7(S)-(1alpha,2beta,4beta,5alpha,7beta))-
+C007133	Hydrocortisone hemisuccinate
+C570806	
+C025541	Tri-O-cresyl phosphate
+C101345	
+C520022	Belnacasan
+C424723	
+C033681	
+C104129	
+C517414	
+D010590	Phalloidine
+C024098	6-Carboxyfluorescein
+C515148	
+D004286	
+C038805	
+D000607	Aminoacetonitrile
+C066998	Nemorubicin
+C051309	Doqualast
+C541789	
+C071191	
+C097672	
+C013785	4-Aminohex-5-ynoic acid
+C504233	
+C121465	2-Methyl-6-(phenylethynyl)pyridine
+C512801	
+C103788	(2S,3S)-3-[[3,5-bis(trifluoromethyl)phenyl]methoxy]-2-phenylpiperidine
+D013994	Tilorone
+C086242	
+C064849	
+C570634	Phenyl acetate
+C480579	
+C037689	Benzamide
+C080580	O-Desmethyltramadol
+C520164	2-(4-(3-(4-Acetyl-3-hydroxy-2-propylphenoxy)propoxy)phenoxy)acetic acid
+C029010	Cinnamic acid
+C487112	
+C068567	
+C032175	Benzaldehyde
+C004511	2(5H)-Furanone
+C045584	
+C063155	Violacein
+C023623	Brassinolide
+C108557	
+C072774	Lanoconazole
+C011566	Vinyl acetate
+C416677	
+C584204	
+C012457	N-Nitrosobis(2-hydroxypropyl)amine
+C119093	
+D016604	Aflatoxin B1
+C532429	
+C000596981	
+C077208	
+C052242	
+D003959	Hydrazine
+D006002	Glycodeoxycholic acid
+C005460	Uranyl acetate
+C015469	
+C568605	Osi-027
+C078547	
+C067413	
+C020711	Beryllium sulfate
+C092284	N-[2,6-di(propan-2-yl)phenyl]-2-tetradecylsulfanylacetamide
+C078626	
+C083175	Clinoptilolite
+D008724	Lannate
+C057451	Morusin
+C557717	
+D006020	Glycopeptide
+C037726	
+C002491	Fertilysin
+C058895	1-(2-Methoxyphenyl)-4-(4-(2-phthalimido)butyl)piperazine
+C406525	Cyclohexanol, 4-(4-(4-fluorophenyl)-5-(2-methoxy-4-pyrimidinyl)-1H-imidazol-1-yl)-, trans-
+C041060	
+C036116	Desethylamiodarone
+C010563	
+C086501	Nacystelyn
+D017640	Orthosilicate
+D020904	
+C524722	
+C418807	2H-1-Benzopyran-2-carboxamide, N-(6-amino-1,2,3,4-tetrahydro-3-methyl-2,4-dioxo-1-phenyl-5-pyrimidinyl)-3,4-dihydro-6-hydroxy-2,5,7,8-tetramethyl-, (2S)-
+C402665	Unii-IN3WH41H3A
+C030667	Methylazoxymethanol
+C051585	
+C047981	Arginyl-glycyl-aspartic acid
+C001207	
+C049811	Erucic acid
+C551027	2-[[3-[[2-(dimethylamino)phenyl]methyl]-2-pyridin-4-yl-1,3-diazinan-1-yl]methyl]-N,N-dimethylaniline
+C041341	
+C054523	
+C433984	Gimatecan
+C059303	Lazabemide
+C063250	
+C001864	Aluminum phosphide
+C487781	
+C012195	Isoelemicin
+C404221	
+C423222	Dicyclopenta(a,d)cyclooctene-1,5-diol, 1,2,3,3a,4,5,6,8,9,9a-decahydro-1-(methoxymethyl)-4-methyl-7-(1-methylethyl)-6-(((2S,3S,4aS,5R,7S,8R,8aR)-tetrahydro-8-hydroxy-5-(methoxymethyl)-3-methyl-3-((2S)-oxiranyl)-7H-2,4a-epoxy-5H-pyrano(3,4-b)-1,4-dioxin-7-yl)oxy)-, (1R,3aS,4R,5R,6R,9aR)-
+C034206	
+C078462	Fepradinol
+D008717	Methionine sulfoximine
+C040543	
+C066026	Losartan carboxylic acid
+C060526	
+C001599	Chlorite
+D004117	Dimethoate
+D014668	Vasotocin
+C501048	3-(4-Methylsulfonylphenyl)-4-phenyl-5-trifluoromethylisoxazole
+C082787	
+C028786	Triglycidyl isocyanurate
+C116676	
+C406663	
+C120099	(S)-2-(2-benzoylphenylamino)-3-(4-(2-(methyl(pyridin-2-yl)amino)ethoxy)phenyl)propanoic acid
+C558112	
+C552258	1-[(1S)-2-hydroxy-1-phenylethyl]-3-[4-(4-pyridinyl)phenyl]urea
+C509700	Elvitegravir
+C050815	
+D005840	Gentian violet
+C008705	
+C046627	Osthole
+D004745	Leucine enkephalin
+C003747	Urushiol
+C012729	2-Amino-4-phosphonobutyric acid
+C464745	Norisoboldine
+C075798	
+C037070	
+C550549	
+C516370	
+D008735	5-Methoxytryptamine
+D000613	2-Aminobutyric acid
+D001624	Betamethasone valerate
+C103280	Goniothalamin
+C030601	p-Hydroxymercuribenzoic acid
+D013458	Sulfur Dioxide
+C040369	Mitozolomide
+C022776	2-Bromohexadecanoic acid
+D017665	Hydroxyl radical
+C058819	Carbonic acid, 2-(12-(2-(benzoyloxy)propyl)-3,10-dihydro-4,9-dihydroxy-2,6,7,11-tetramethoxy-3,10-dioxo-1-perylenyl)-1-methylethyl 4-hydroxyphenyl ester
+D006150	
+C505765	
+C583616	Ipatasertib
+D004075	Diacylglycerol
+C029762	
+C097789	
+C049638	
+C021319	
+C048460	3-Deazaneplanocin
+C061997	
+C073608	
+C101954	N-hexanoylsphingosine
+C058024	
+C088580	
+D007295	Inositol 1-phosphate
+C061613	
+D003496	Cyclazocine
+D007735	Kynuramine
+C039613	
+C032668	1-Nitropyrene
+C518328	
+C010491	
+C012526	Quercitrin
+D001565	Benzoate
+D044949	
+C009068	Propylene oxide
+C072553	Z-Leu-leu-leu-al
+C011659	Angelicin
+C076253	Melarsomine
+C024986	Barium chloride
+C053267	Vantin
+C479501	
+C552340	
+C040115	Shogaol
+C548309	
+C001311	
+C006984	4-Chloro-3-methylphenol
+C570663	
+C574747	
+C437188	
+D000968	antimycin A1
+D014992	o-Xylene
+C078370	
+C422364	
+C106945	
+C065145	
+C046243	Indolo[2,1-b]quinazoline-6,12-dione
+C075010	Erucylphosphocholine
+C066750	Bis (2-Carboxyethylgermanium)sesquioxide
+C405765	
+D001708	Biopterin
+C061666	
+D007854	Lead
+C495122	Tetraarsenic hexaoxide
+C558473	
+C105049	
+C077129	
+C002107	
+C475587	Olomoucine II
+C020922	4-O-Methyl-12-O-tetradecanoylphorbol 13-acetate
+C517771	
+C005223	Methyleugenol
+C000593334	Telaglenastat
+D017438	Silux
+C531859	
+D047188	
+D064699	
+C010034	
+C032285	Sodium iodate
+C508478	
+C027655	
+C100807	CID 6442224
+C102012	
+D002298	Cardenolide
+C556225	
+C004718	
+C033394	4-(3-tert-Butylamino-2-hydroxypropoxy)benzimidazol-2-one
+C010410	6beta-Naltrexol
+D013657	Taurodeoxycholic acid
+C000595256	
+C521792	3,4,5,4'-Tetramethoxystilbene
+C048006	
+C070492	N-cyano-N'-(2-nitroxyethyl)-3-pyridinecarboximidamide methanesulfonate
+C434003	(E)-3-Tosylacrylonitrile
+C090717	
+C053519	
+C578068	
+C494379	
+C031282	
+C061935	
+C060090	
+D008357	
+C518775	
+C077975	
+C054920	Loracarbef
+C520389	Vintafolide
+C468008	
+C530773	3,5-Pyridinedicarboxylic acid, 1,4-dihydro-2,4,6-trimethyl-, diethyl ester
+C534628	(R)-2,3,4,5-Tetrahydro-8-chloro-3-methyl-5-phenyl-1H-3-benzazepin-7-ol
+C557643	
+C488401	
+C559761	
+C505207	
+C098310	
+C046114	
+C549725	
+C449521	
+C094817	
+C034163	Gallium trichloride
+C028934	
+C511389	
+D000105	Acetyl coenzyme A
+C035520	
+C000592454	
+C038518	6-Acryloyl-2-dimethylaminonaphthalene
+C472349	
+C076994	Perfluorooctanesulfonic acid
+C010210	Tetracosanoic acid
+C015357	methylmalonyl-CoA
+C007318	1,2-Dibromo-3-chloropropane
+C567989	N-(3-(4-methylpiperazin-1-yl)phenyl)-8-(4-(methylsulfonyl)phenyl)-[1,2,4]triazolo[1,5-a]pyridin-2-amine
+C011686	Boldine
+C060492	
+C042123	
+C032149	
+C485838	
+C062865	2,3-Dioxo-6-nitro-7-sulfamoylbenzo(f)quinoxaline
+C059048	
+D002329	Carminic acid
+C469818	
+C063471	Pegorgotein
+C045257	
+D015060	
+C029876	Benzidine
+D004227	
+C023888	Lindane
+C096898	propan-2-yl (2S)-2-[[2-[(2S,3S)-2-[[(2R)-2-amino-3-sulfanylpropyl]amino]-3-methylpentoxy]-3-phenylpropanoyl]amino]-4-methylsulfonylbutanoate
+C066806	
+D010853	Picryl chloride
+C501899	
+C025484	
+C505405	
+C074080	
+C043037	
+C053442	Annonacin
+C000228	Aristolochic acid
+C527551	
+D010095	Oxotremorine
+D012862	3-Methylindole
+C428064	
+C002997	Pyrazofurin
+C087963	Safranal
+C005095	Malachite green
+D036563	cyclic ADP-ribose
+D044503	5-Methylcytosine
+C481982	
+C094621	
+C073944	
+C005452	
+C483032	Radequinil
+C578687	
+D008752	Methylene Chloride
+D010664	Phenylmethylsulfonyl fluoride
+C022944	
+C012546	
+C082246	4-(N-Ethyl-N-phenylamino)-1,2-dimethyl-6-(methylamino)pyrimidinium chloride
+C439285	1H-Indene-3-acetamide, 5-fluoro-2-methyl-N-(phenylmethyl)-1-(4-pyridinylmethylene)-, monohydrochloride, (1Z)-
+D015040	Zirconium
+C106592	3,9-Bis((ethylthio)methyl)-K-252a
+C105311	(E)-3-(6-acetamidopyridin-3-yl)-N-[2-[2,4-dichloro-N-methyl-3-[(2-methylquinolin-8-yl)oxymethyl]anilino]-2-oxoethyl]prop-2-enamide
+D007051	Ibotenic acid
+C524188	
+C553817	
+D019355	Calcium citrate
+C034818	Methyl 6,7-dimethoxy-4-ethyl-beta-carboline-3-carboxylate
+C016152	
+D043169	Endostatin
+D003633	p,p'-DDE
+C007409	Dihydrolipoamide
+C008363	3-Mercaptopicolinic acid
+C014024	2,2',4,4',5,5'-Hexachlorobiphenyl
+D047348	1,3,6-tri-O-galloyl-beta-D-glucose
+C061097	Breviscapine
+C077144	Bromperidol decanoate
+C060893	3-[3-Tert-butylsulfanyl-1-[(4-chlorophenyl)methyl]-5-propan-2-ylindol-2-yl]-2,2-dimethylpropanoic acid
+C027078	
+D004918	Erythromycin estolate
+C101943	2-(2-imidazolin-2-yl)-1-phenyl-1H-indole
+C029065	
+D013013	D-sorbose
+C521787	ganoderol B
+C040810	delta-12-Prostaglandin J2
+C034912	Oxyresveratrol
+C512248	
+C021096	meso-Tetrakis(2-N-methylpyridyl)porphine
+D014476	
+D013891	4-Thiouridine
+C422648	
+C036893	
+C006791	
+C555517	
+C005575	Methyl linoleate
+C576396	
+C004471	Allyl isothiocyanate
+C425328	
+D052243	
+C515166	1H-Benzimidazol-2-amine, N-((1R)-1,2,3,4-tetrahydro-1-naphthalenyl)-
+D006893	
+C053400	Cafestol
+C007164	Cumene hydroperoxide
+C419162	
+C027703	
+C538783	
+C100058	Vanillin
+C113759	
+C582924	
+C001209	N-phenylanthranilic acid
+C568644	
+C401341	
+C030051	
+D002393	
+C097661	
+C471998	1-(2,6-Dichloropyridin-4-yl)-3-[(1,3-dimethyl-4-propan-2-ylpyrazolo[3,4-b]pyridin-6-yl)amino]urea
+C072429	
+C073333	Morphocycline
+C031388	Lidocaine
+C074528	
+C054724	Senktide
+C022909	Bergapten
+C007368	
+C006863	Tribufos
+C028513	4'-Chlorodiazepam
+C000294	
+C048577	
+C050408	alpha-(4-Fluorophenyl)-4-(5-fluoro-2-pyrimidinyl)-1-piperazine butanol
+C070736	
+C001789	4-Nitrobenzylthioinosine
+D002351	
+C025391	
+D010743	
+D053772	
+D019807	Iodoacetic acid
+D003102	
+C110702	5-(1-Adamantylmethylamino)pentyl-trimethylazanium;bromide;hydrobromide
+C024504	
+C446504	
+D003534	Cyproterone
+C052518	Apafant
+C028473	Acetimidoquinone
+C007639	Ethaverine
+D000116	N-Acetyl-D-Galactosamine
+D037341	
+C482292	Darunavir
+C118180	Sodium 2-(4-((7-chloro-2-quinoxalinyl)oxy)phenoxy)propionate
+C506514	
+C049855	Ono-3708
+C012541	Ruscogenin
+C034384	Coptisine
+C043636	Zatebradine hydrochloride
+C042354	
+D019830	5'-N-Ethylcarboxamidoadenosine
+C045305	2,4-dinitrofluorobenzene Sulfonic Acid
+C005557	
+C044868	
+C452139	Doramapimod
+C061316	
+C009689	Xanthone
+C018381	Carnosic acid
+C438206	
+C118279	
+C065600	
+D015054	(2R,3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+C023710	Abietic acid
+C024070	
+C073331	Neosalvarsan
+C571460	
+C100038	Ethion
+C098468	Copper Histidine
+C015660	3-Butenenitrile
+D011113	Polymyxin
+C013690	Styrene oxide
+D014051	2,4-Diisocyanato-1-methylbenzene
+C013173	Sodium oleate
+C045384	
+C088649	
+C475474	
+D014112	Toxaphene
+C027600	
+C002659	
+C561429	
+C554430	4-(6-(4-(Piperazin-1-yl)phenyl)pyrazolo[1,5-a]pyrimidin-3-yl)quinoline
+C108518	(2'-Methyl-4'-(5-methyl-1,2,4-oxadiazol-3-yl)-[1,1'-biphenyl]-4-yl)(1'-methyl-6,7-dihydrospiro[furo[2,3-f]indole-3,4'-piperidin]-5(2H)-yl)methanone
+C045761	(3r)-3-Amino-4-(trimethylammonio)butanoate
+C066688	
+C015462	
+C082828	[(4R)-2,6-dimethyl-4-(3-nitrophenyl)-5-[2-(pyridin-1-ium-3-carbonylamino)ethoxycarbonyl]-4H-pyridin-3-ylidene]-[3-[hydroxy(oxo)azaniumyl]oxypropoxy]methanolate
+C027513	N6-Cyclohexyladenosine
+C005218	Bromomethane
+D012997	
+C477523	4-Amino-[2,3'-bithiophene]-5-carboxamide
+D054378	
+C031563	17-N,N-Diethylcarbamoyl-4-methyl-4-azaandrostane-3-one
+C025256	2-Nonylphenol
+C004506	4-Bromophenylacetylurea
+D008676	Metanephrine
+C032710	Rubidium chloride
+C038839	
+C026659	Edelfosine
+C121153	Arvanil
+C051113	
+C517826	2,2',4,4'-Tetrabromodiphenyl ether
+C103231	Avitriptan fumarate
+C118855	
+C529765	5-(4-Chlorophenyl)-1-(2,4-dichlorophenyl)-4-methyl-1H-pyrazole-3-carboxamide
+D005200	Fanft
+C498077	Piperlongumine
+C020176	
+C075391	Fraxinellone
+C552150	(3R,4R)-4-Amino-1-[[4-[(3-methoxyphenyl)amino]pyrrolo[2,1-f][1,2,4]triazin-5-yl]methyl]piperidin-3-ol
+C026308	3,4-Dihydrocoumarin
+C011329	
+D002218	Carbadox
+C038823	
+C080945	
+C115717	
+C440193	
+C052075	Thioperamide
+C105488	2-[[5-[2-[(E)-[phenyl(pyridin-3-yl)methylidene]amino]oxyethyl]-7,8-dihydronaphthalen-1-yl]oxy]acetic acid
+C034904	
+C517803	
+D005678	Ganglioside GM2
+D037201	
+D019811	
+C495475	
+C040476	
+C035638	
+C404391	
+C023342	Closantel
+C526287	
+C530878	
+D005985	Glyceraldehyde
+C071738	2-(4-Morpholino)ethyl-1-phenylcyclohexane-1-carboxylate
+C004919	Ethylene glycol dimethacrylate
+C000594178	
+C062557	
+C015429	Phenidone
+D013925	
+D054709	
+C568282	
+D010616	
+C010902	Decabromodiphenyl oxide
+D015055	
+C005685	
+D003350	Cortodoxone
+C063964	Bepafant
+C404763	
+C054634	[3H]methyllycaconitine
+C561943	
+C055284	
+C065599	4-[[(1R)-2-[[(2R)-2-(2-adamantyloxycarbonylamino)-3-(1H-indol-3-yl)-2-methylpropanoyl]amino]-1-phenylethyl]amino]-4-oxobutanoic acid
+C042315	Asulacrine
+C025741	Caffeine benzoate
+C034582	
+C040442	Helodermin
+D015081	2-Naphthylamine
+D042462	4-Hydroxyquinoline
+C018619	
+C000956	
+C024224	
+C066686	Rocepafant
+C520337	2-Hydroxy-4-(2-(tosyloxy)acetamido)benzoic acid
+C054334	
+C034275	
+D004246	1,1-Dimethyl-4-phenylpiperazinium iodide
+C009042	Pristane
+C027618	Fructose-6-phosphate
+D009074	
+C584312	
+C119368	
+C028210	
+C095427	Benzo(f)thieno(2,3-c)quinoline-9,10-diol, 4,5,5a,6,7,11b-hexahydro-2-propyl-, hydrochloride, (5aR,11bS)-rel-
+D007648	
+C074702	Chromium(6+)
+C588062	
+C000596495	
+C540525	
+C477728	Motixafortide
+C118846	
+C003884	
+C520365	
+C009816	
+D004952	
+C526070	
+C426249	
+C050386	1-Methyl-1,2,3,4-tetrahydroisoquinoline
+C054513	
+D010226	4-Hydroxybenzoic acid
+C040897	
+C459212	
+C118197	
+C088817	
+C568606	
+C084684	
+D048288	
+C121094	
+D004079	Dihydro-beta-erythroidine
+D000577	
+C411447	
+C083174	Erionite
+C078795	
+C031477	Umbelliferone
+C096277	Tetrahydrocurcumin
+C023728	Acetaldehyde oxime
+C113831	
+C114384	
+C482828	
+C100917	
+C047686	Plaunotol
+C028423	CID 107725
+D001386	Azide ion
+C033234	
+C030816	Chloramine
+C012037	Purapuridine
+C581974	
+D011190	Potassium cyanide
+C588372	
+C081293	N-tert-Butyl-3-(4-(2-methoxyphenyl)-piperazin-1-yl)-2-phenylpropanamide
+D015058	1-Naphthyl isothiocyanate
+C504156	
+C030265	n-(1-Benzyl-2-methylpyrrolidin-3-yl)-5-chloro-2-methoxy-4-(methylamino)benzamide
+C011439	1,2,3-Propanetriol, diacetate
+C041113	
+D009570	4'-Methanesulfonyl-biphenyl-2-carbonitrile
+C528559	
+C050877	
+D011083	
+C039188	
+C559614	
+C007488	Dinitrobenzene sulfonic acid
+C559089	1-(3-(Dimethylamino)propyl)-1-(4-methoxyphenyl)-1,3-dihydro-5-isobenzofurancarbonitrile
+C412823	
+C508488	VEGF receptor tyrosine kinase inhibitor III
+C057625	
+C028694	
+D010393	Pempidine
+D026121	
+C082360	Fipronil
+C018387	
+D015039	Ziram
+C121203	
+C084611	
+C054016	
+C025614	
+C038259	
+C410958	Sauchinone
+C025759	
+C013641	
+C002302	Omethoate
+C097674	
+C013765	H-Met(O2)-Glu-His-Phe-D-Lys-Phe-OH
+D000521	Tridecactide
+C004504	2-Bromoethylamine
+C001335	Hexachlorobutadiene
+C010766	
+C070840	Licochalcone a
+C014568	Genkwanin
+C063159	1-(2-(3-(4-Methoxyphenyl)propoxy)-4-methoxyphenylethyl)-1H-imidazole hydrochloride
+C485107	N-(2-acetyl-4,6-dimethylphenyl)-3-(3,4-dimethylisoxazol-5-ylsulfamoyl)thiophene-2-carboxamide
+C010313	1,2,4-Trimethylbenzene
+D009573	Nitrite
+C005959	2,4-Diaminobutyric acid
+C410590	
+C500692	
+C043966	
+C045188	Suricainide maleate
+D012500	Santonin
+C507659	
+C100231	Azaribine
+C055137	
+D002255	Carbonic Acid
+D007460	Iodoacetamide
+C090859	1-((4-Methylsulfonyl)phenyl)-3-trifluoromethyl-5-(4-fluorophenyl)pyrazole
+D001089	
+C511928	
+C436740	Nps-2143
+C056557	
+C000592931	
+D019900	trans-3,4-Dichloro-N-methyl-N-[2-(1-pyrrolidinyl)cyclohexyl]-benzeneacetamide
+C041877	Eumelanins
+C057923	Sulperazone
+D001148	Thiacetarsamide
+C063230	Gelsemin
+C094432	3-Acetyl-11-keto-beta-boswellic acid
+C472384	
+C005556	Propionaldehyde
+D000179	Acrylic acid
+C115705	Ciproxifan
+C093447	
+C587032	
+C102521	(S)-methyl 2-(4-(((R)-2-amino-3-mercaptopropyl)amino)-2-(naphthalen-1-yl)benzamido)-4-methylpentanoate
+C051731	Chlorethylclonidine
+D014343	Trypan blue
+C019003	Methaneselenol
+C003915	Diminazene aceturate
+C070974	Selenium tetrachloride
+D011333	
+C026690	Cerium trichloride
+C067181	N'-(1,6-Dihydro-6-oxo-2-pyridinyl)-N,N-dipropylmethanimidamide
+D013750	Tetrachloroethylene
+C511004	2-(5-chloro-2-fluorophenyl)-N-(pyridin-4-yl)pteridin-4-amine
+D051219	
+C006065	
+C033020	1-Aminobenzotriazole
+C014476	Diethyl maleate
+C425324	Methylprotodioscin
+C072212	PR39 proline-arginine-rich peptide
+C038753	Leptomycin B
+C444645	
+C039923	Biriperone
+D054428	
+C121164	
+C545606	(S)-5-chloro-N2-(1-(5-fluoropyrimidin-2-yl)ethyl)-N4-(5-methyl-1H-pyrazol-3-yl)pyrimidine-2,4-diamine
+C010972	Glycolaldehyde
+C042253	Bemesetron
+C072687	
+C034039	Viskaldix
+D004151	(2s)-2-[[(2s)-2-Acetamido-5-[[n-(Methylcarbamoyl)carbamimidoyl]amino]pentanoyl]-Methyl-Amino]-3-Phenyl-Propanoic Acid
+C578899	Niferidil
+C032720	
+D015288	Substance K
+C032159	Acetonitrile
+C410027	1-Pyrrolidinecarboxaldehyde, 3-(1,3-benzodioxol-5-ylmethylene)-2-oxo-
+C022950	
+C028610	Flavanone
+C045816	
+C106790	
+C001546	Limonin
+C025343	
+C584666	
+C065286	Sdz eaa 494
+C517978	
+C518275	
+C077265	Butanoic acid, 2,2-diethyl-4-((3-(2-(4-(1-methylethyl)-2-thiazolyl)ethenyl)phenyl)amino)-4-oxo-, (E)-
+C543998	Pratensein
+C082299	
+C424804	Atractylenolide I
+C410263	
+D006213	
+C470045	N-(3,5-dichloropyrid-4-yl)-(1-(4-fluorobenzyl)-5-hydroxy-indole-3-yl)glyoxylic acid amide
+C080903	
+C007957	DL-Homocysteine thiolactone
+C073710	Bilobalide
+C577776	
+C071363	Ccris 6547
+C045114	
+C559681	
+D007523	
+D016644	Canthaxanthin
+C009900	Lipoteichoic acid
+C121358	4-Phenylbutylamine
+C545555	5-Amino-3-(2-aminoacetyl)-2-[(2-amino-4-carboxybutanoyl)-butoxycarbonylamino]-3-(4-amino-2-methyl-6-methylsulfanyl-3-oxohexan-2-yl)-2-(2-amino-3-sulfanylpropanoyl)-4-oxoheptanedioic acid
+C415002	
+C024633	
+D009848	
+C102659	3-[(1R)-1-[[(2S)-3-(cyclohexylmethyl-hydroxyphosphoryl)-2-hydroxypropyl]amino]ethyl]benzoic acid
+D001966	Bromine
+C511295	2,2',4,4'-Tetrabromodiphenyl ether
+C046391	
+C026240	
+C073892	
+C028031	Cadmium acetate
+C545990	Bms-754807
+D005038	1-Ethyl-1-nitrosourea
+C559817	
+C499487	
+C041528	Fluperlapine
+C011769	
+C419063	Aglepristone
+C552888	2-(1,3-dimethyl-2,6-dioxo-1,2,3,6-tetrahydro-7H-purin-7-yl)-N-(4-isopropylphenyl)acetamide
+C072260	
+D007632	Keratan
+C511621	CH-223191
+D010715	Phosphatidyl glycerol
+C081506	
+C439071	
+C090806	
+C499693	8-(4-Dibenzothienyl)-2-(4-morpholinyl)-4H-1-benzopyran-4-one
+C072239	Methyl jasmonate
+C067749	Fedotozine
+C088563	Fomesafen
+C044850	
+C465904	
+D011741	
+C073402	(6S)-1-[4-(dimethylamino)-3-methylbenzyl]-5-(diphenylacetyl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine-6-carboxylic acid
+C086920	
+C054649	2-[(1r,2r,5r)-5-Hydroxy-2-(3-hydroxypropyl)cyclohexyl]-5-(2-methyloctan-2-yl)phenol
+C033901	BzATP
+D020111	Aroclor 1254
+C094428	Banoxantrone
+C530605	8-[Bis(2-methylphenyl)methyl]-3-phenyl-8-azabicyclo[3.2.1]octan-3-ol
+C089595	2,4(1h,3h)-pyrimidinedione, 6-((R)-hydroxy((2AS,3R,4S,5AS,7R)-2,2A,3,4,5,5A,6,7-octahydro-3-methyl-4-(sulfooxy)-1h-1,8,8B-triazaacenaphthylen-7-yl)methyl)-
+C070729	
+C006972	Chloroacetic acid
+C105427	Phleomycin D1
+C555097	
+C119108	
+C002741	N-Nitrosomorpholine
+C000595455	
+C031818	
+D010767	Choline phosphate
+C084586	
+D001549	
+C091420	
+C031466	
+D004852	
+D003984	
+D014976	
+C009055	DL-Propargylglycine
+C012606	4-Vinyl-1-cyclohexene dioxide
+D053260	Carbon
+C026105	Butylidenephthalide
+C041712	
+D004376	
+C074965	Trilazad mesylate
+C119369	N,N-Dimethyl-N-(4-(((2-(4-methylphenyl)-6,7-dihydro-5H-benzocyclohepten-8-yl)carbonyl)amino)benzyl)tetrahydro-2H-pyran-4-aminium chloride
+C088115	2-Hydroxy-6-(8,11,14-pentadecatrienyl)benzoic acid
+C082868	
+C085566	
+C510077	
+C006692	
+C100435	Chicoric acid
+C006923	Carvone
+C522133	
+C499293	(2S)-4-amino-N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-2-[(4-methylnaphthalen-1-yl)sulfonylamino]butanamide
+C468754	Isobavachalcone
+C529637	Lucidone
+C117038	
+C025340	
+C056640	Nebracetam
+C492806	
+C054551	N-(1-(4-(4-Fluorophenoxy)butyl)-4-piperidinyl)-N-methyl-2-benzothiazolamine
+C051844	Norbinaltorphimine
+C100495	
+C028911	
+C007931	Ferricyanide
+C534368	Fipronil sulfone
+C011175	Betamethasone dipropionate
+C039686	Piroximone
+C541923	
+C494644	
+C025518	
+D002243	
+C119247	
+C015484	
+C528328	(S)-4-(2-(4-Amino-1,2,5-oxadiazol-3-yl)-1-ethyl-7-(piperidin-3-ylmethoxy)-1H-imidazo[4,5-c]pyridin-4-yl)-2-methylbut-3-yn-2-ol
+C539487	
+C010013	Doxorubicinol
+D019813	1,2-Dimethylhydrazine
+C114033	
+C009409	
+C045918	2-Methyl-5-hydroxytryptamine
+C514160	
+D004232	
+C014707	N-methyl-n-benzylnitrosamine
+D018750	6-Cyano-7-nitroquinoxaline-2,3-dione
+C077532	
+D005679	G(M3) Ganglioside
+C038300	
+D000246	
+C086528	
+C419982	Fandosentan potassium
+D003980	6-diazo-5-oxo-L-norleucine
+C000543	
+D003571	Cytochalasin B
+C109960	
+C028042	Dolomite
+C023614	Dibenzofuran
+C423646	
+C030516	Meglitinide
+C010590	4-Hydroxyphenylpyruvic acid
+C073829	
+C055550	
+D004732	Hexadrin
+C048161	Pranidipine
+C099796	
+D012531	N'-acetyl-3-chloro-6H-benzo[b][1,4]benzoxazepine-5-carbohydrazide
+C480588	Cinaciguat
+C510365	
+C019123	O,O,S-Trimethyl phosphorothioate
+C543412	Bms-641988
+C024348	13-Hydroxy-9,11-octadecadienoic acid
+C020735	Dibutyltin dichloride
+D003958	Diamide
+D006144	
+C507866	(1S,2S)-1,2-dihydronaphthalene-1,2-diol
+C025449	Lysophosphatidylinositol
+C499748	Talmapimod
+C417268	
+C097767	
+D010171	palmitoyl-CoA
+C466065	
+C025964	
+C496951	Cyclo(-D-Tyr-Arg-Arg-Nal-Gly-)
+C049235	11-Dehydro-thromboxane B2
+C046245	Mollugin
+D012794	Sialic acids
+D011725	2-Amino-4-chloropyridine
+D006914	
+C017963	Vinyl carbamate
+C471435	
+C549312	
+C545608	
+D006028	
+C078588	Microcystin
+C023336	Trimethylamine
+D009768	Obidoxime chloride
+C040073	
+C046728	2,2'-Azobis(2-amidinopropane)
+D005742	
+C458888	
+C055732	
+C037330	
+D012065	
+C528810	
+D014233	
+C572573	Urea, 1-nitroso-1,3,3-tris(2-chloroethyl)-
+C016349	
+C039242	Dazmegrel
+D020355	Cholic acid
+C023036	Perfluorooctanoic acid
+C039614	Ethylisopropylamiloride
+C121181	
+C509060	
+C004632	Cyanuric acid
+C042400	Ethylphenidate
+C072876	Teriflunomide
+C036150	beta-Carboline-3-carboxylic acid methyl ester
+C024566	1,1,1-Trichloroethane
+C103329	
+C007540	
+D007609	Kallidin
+C029222	1,3,5-Trinitrobenzene
+C023698	Allyl chloride
+C074636	Amyloid Beta-peptide (25-35) (human)
+C415745	
+C058272	Norclozapine
+C102991	
+C554102	
+D002995	Clofibric acid
+C576258	
+C482791	
+C052159	
+D013447	Sulfite
+C507921	
+C100448	
+C061072	
+C053673	
+C058414	
+C083228	
+C048738	Tocophersolan
+D008741	Methyl methanesulfonate
+C050898	Ditekiren
+C518545	
+C013567	10-Hydroxynortriptyline
+C505144	5-Quinoxalin-6-ylmethylene-thiazolidine-2,4-dione
+C473205	Peonidin
+C022186	Xanthatin
+C435072	N-(6-ethoxy-1,3-benzothiazol-2-yl)-2-(8-ethoxy-2,2,4-trioxo-[1,2,4]thiadiazino[3,4-b][1,3]benzothiazol-3-ylidene)-2-hydroxyethanesulfonamide
+C053876	6-Isopropoxy-9-oxoxanthene-2-carboxylic acid
+C010581	
+C004503	Brinerdine
+C040776	5,6-Epoxy-8,11,14-eicosatrienoic acid
+C572935	
+C001996	Myriocin
+C075347	
+C515073	
+C056068	Theaflavine
+C464577	
+C091874	
+C080378	
+C462034	
+C476094	
+C039537	N-(1-Oxoheptyl)-D-gamma-glutamyl-(6R)-6-carboxy-L-lysyl-D-alanine
+C524446	
+C527741	
+C047586	
+C106485	
+C485800	Osajin
+C028677	
+C114785	
+C048796	
+C110307	
+D016232	
+C073339	Usnic acid
+C482205	
+C031649	Mesulergine
+C005566	
+C070379	1,2-Bis(2-aminophenoxy)ethane N,N,N',N'-tetraacetic acid acetoxymethyl ester
+C555233	
+D014215	Triacetin
+C032171	4-Hydroxycinnamic acid
+C043377	Acetochlor
+C529348	4,4'-(1E,1'E)-2,2'-(1-Phenyl-1H-pyrazole-3,5-diyl)bis(ethene-2,1-diyl)bis(2-methoxyphenol)
+D010798	
+C499843	Chromium histidinate
+C543891	
+C020895	
+C067601	Piperacetazine
+C054938	Methoctramine hydrochloride
+C050295	Brazilein
+C033936	
+C012343	
+D004136	Benzene, dinitro-
+C064672	Dezinamide
+C526863	Hopeahainol A
+C041069	
+C108025	
+C501717	
+C402798	
+D004873	Ergoline
+C015952	1-(4-Iodo-2,5-dimethoxyphenyl)propan-2-amine
+C101628	butyl-(2,5-dimethyl-7-(2,4,6-trimethylphenyl)-7H-pyrrolo(2,3-d)pyrimidin-4-yl)ethylamine
+C006261	3beta-(2-Diethylaminoethoxy)androst-5-en-17-one hydrochloride
+C029350	1-Naphthol
+D006064	
+D012530	Saxitoxin
+C067529	
+C086889	
+C103110	Eupatorin
+C576188	
+C498513	Benzamide, N-(3R)-1-azabicyclo[2.2.2]oct-3-yl-4-chloro-
+C047235	N-(1-Methyl-2-phenylethyl)adenosine
+C114168	
+C059590	4-(7-hydroxy-6,7-dihydro-5H-cyclopenta[d]pyrimidin-4-ylamino)benzonitrile
+C117158	ethyl 2-((S)-8-((R)-2-(3-chlorophenyl)-2-hydroxyethylamino)-6,7,8,9-tetrahydro-5H-benzo[7]annulen-2-yloxy)acetate
+C085699	
+C053321	
+C575982	
+C524788	
+C055785	Jatrorrhizine
+C059873	Sulfamethoxazole hydroxylamine
+C513449	Baohuoside I
+C092108	[[[[(2R,3S,4R,5R)-5-(6-amino-2-propylsulfanylpurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]-difluoromethyl]phosphonic acid
+C054659	
+C050465	
+C064093	Phlorofucofuroeckol A
+C542398	3-(3-Bromo-4-((2,4-difluorobenzyl)oxy)-6-methyl-2-oxopyridin-1(2H)-yl)-N,4-dimethylbenzamide
+C008110	3,3'-Iminodipropionitrile
+C084811	Bunitrolol
+C020326	Ferric nitrilotriacetate
+C068811	
+C439304	1H-Purine-2,6-dione, 7-(2-(4-(2-chlorophenyl)-1-piperazinyl)ethyl)-3,7-dihydro-1,3-dimethyl-
+C408068	
+C420062	1-(2-Methylbenzo[d]oxazol-6-yl)-3-(1,5-naphthyridin-4-yl)urea
+C013099	zinc;manganese(2+);N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate
+D013691	Tellurium
+C484195	Sativex
+D008233	
+C071834	Glycidamide
+C528407	N-(3-(5-chloro-1H-pyrrolo[2,3-b]pyridine-3-carbonyl)-2,4-difluorophenyl)propane-1-sulfonamide
+C089294	Cereulide
+C008261	Lead acetate
+C004369	2-Phenylphenol
+C041130	Azidopine
+C011440	
+C450679	
+C077458	Ginkgetin
+C571281	
+C002454	
+C026064	
+C421782	
+D011137	Styrene
+C054558	
+C029900	Adipic Acid
+C032833	
+C064279	
+C031468	Mesoporphyrin IX
+C017069	Bicuculline methiodide
+C046552	
+C096486	4-[(4-Bromophenyl)methyl-(1,2,4-triazol-4-yl)amino]benzonitrile
+C525846	[(pF)Phe4Aib7Arg14Lys15]N/OFQ-NH2
+D003031	Alumanylidynecobalt
+C113538	
+C010178	Heliotrine
+C071400	
+C058118	2'-Deoxyadenosine
+C091101	
+C112452	
+C487214	
+C026398	Dictamnine
+D004237	Diuron
+D001500	
+C530235	
+C573314	
+C040833	Ethyl acrylate
+C062047	Chelidonine
+C075425	
+D004975	Ethacridine lactate
+C007268	
+D005406	Bis((hexahydro-4-methyl-1H-1,4-diazepin-1-yl)thiocarbonyl)disulfide
+C011512	alpha-Naphthoflavone
+C095677	
+C103505	1-(2,4-dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-(piperidin-1-yl)-1H-pyrazole-3-carboxamide
+C110481	Yangonin
+D060172	Morpholine
+C095905	ZD 7155 hydrochloride
+D004178	Diquat
+C512984	(5Z)-5-(quinolin-6-ylmethylidene)-2-[(thiophen-2-ylmethyl)amino]-1,3-thiazol-4(5H)-one
+C046651	
+C027728	
+C523668	3-((5-(2,3-dichlorophenyl)-1H-tetrazol-1-yl)methyl)pyridine
+C035476	2,2',4,4'-Tetrahydroxybenzophenone
+C005877	Pholedrine
+C015304	Isopimpinellin
+C015101	
+C059910	
+D002475	
+C098565	
+C545363	
+C558219	Cyantraniliprole
+C447031	Tyrphostin AG 1024
+C061519	
+C073517	
+C011828	Crotepoxide
+C071423	Capsazepine
+C007160	
+C409106	
+C570662	PF-04691502
+C090413	Cyclohexanecarboxamide, n-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-n-2-pyridinyl-
+C076570	
+C082453	
+C001809	Anguidine
+C008313	
+C007619	Eriodictyol
+C017674	Procyanidin
+D013265	Stigmasterol
+C004194	Glycylsarcosine
+C018086	Isobutyl nitrite
+C007517	Diphenyleneiodonium
+D001615	
+C000601106	N-(2-methoxybenzyl)-2-(4-chloro-2,5-dimethoxyphenyl)ethanamine
+C408472	
+C046573	
+C054989	
+C516686	
+C007915	
+C570630	
+C060229	1-(6-((3-Methoxyestra-1,3,5(10)-trien-17-yl)amino)hexyl)-1H-pyrrole-2,5-dione
+C043247	3-Acetyldeoxynivalenol
+C505440	3-Quinolinecarboxylic acid, 7-((3R)-3-(1-aminocyclopropyl)-1-pyrrolidinyl)-1-((1R,2S)-2-fluorocyclopropyl)-1,4-dihydro-8-methoxy-4-oxo-
+C023785	2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole
+C469845	
+C020365	Hydroxyprogesterone caproate
+D013402	
+C489556	Isoline
+C489897	
+C044612	
+C540323	L-Lysinamide, N2,N6-bis(L-lysylglycyl-L-valyl-L-seryl-L-leucyl-L-seryl-L-tyrosyl-L-arginyl)-
+D001546	Montmorillonite
+C095471	
+C101318	
+C071542	
+C439263	(2-iodo-5-nitrophenyl)(1-((1-methylpiperidin-2-yl)methyl)-1H-indol-3-yl)methanone
+D011748	Pyrogallol
+C587178	(R)-1-(2-oxo-2-(4-(4-(pyrimidin-2-yl)phenyl)piperazin-1-yl)ethyl)-N-(3-(pyridin-4-yl)-1H-indazol-5-yl)pyrrolidine-3-carboxamide
+C556284	Unii-A5ZX7J376H
+C034473	Satranidazole
+C449179	
+C038625	5-Mercapto-1-methyltetrazole
+D000502	Allylisopropylacetamide
+C025313	
+C006153	1(2H)-Phthalazinone, (1,3-dimethyl-2-butenylidene)hydrazone
+C071693	7,7-Diphenyl-2-(1-imino-2-(2-methoxyphenyl)ethyl)perhydroisoindol-4-one
+C089987	(S)-2-Biphenyl-4-yl-1-(1H-tetrazol-5-yl)ethylaminomethyl phosphonic acid
+C561573	(R)-5-(6-((4-methylpiperazin-1-yl)methyl)-1H-benzo[d]imidazol-1-yl)-3-(1-(2-(trifluoromethyl)phenyl)ethoxy)thiophene-2-carboxamide
+C060974	
+C113043	2-Methylthio-adenosine-5'-diphosphate
+C031294	Chlorobenzene
+C030665	Triphenyltin hydride
+C002503	Betulin
+C403246	
+C008846	1-Phenylbiguanide
+C477638	Erianin
+C037304	Cyhalothrin
+C015047	4-tert-Butylcatechol
+C494355	Desisobutyrylciclesonide
+C018430	
+D011685	
+C044630	1-[2-(Diphenylmethoxy)ethyl]-4-(3-phenylpropyl)piperazine
+C501517	High Temperature Requirement A2 Inhibitor I
+C452428	
+C051786	Metolachlor
+C055492	Endoxifen
+C019101	2,2':5',2''-Terthiophene
+C497857	
+C508220	
+C061043	
+C414782	
+C055755	
+C027009	Terpinolene
+C002743	N-Nitrosopiperidine
+C000458	
+D000861	Anserine
+C581752	
+C541938	
+C029341	Phenylarsine oxide
+C039281	Furan
+D008314	
+D013327	Strophanthidin
+C062137	6-(6-(3-Hydroxy-1,5-undecadien-1-yl)-2-pyridinyl)-1,5-hexanediol
+C026885	Plutonium dioxide
+D036341	
+D002922	Pacific ciguatoxin 1
+C029676	
+C106487	Flumioxazin
+C060128	
+C094728	
+C025483	Estradiol-17beta-glucuronide
+D012982	
+C034103	
+C036628	
+C524858	
+C005151	Thiosemicarbazide
+C524653	nectandrin-B
+C542058	4-O-Methylhonokiol
+C033689	18-Hydroxycortisol
+C000601736	
+C488351	
+C018541	Falcarinol
+C573791	1'-[2-[4-(trifluoromethyl)phenyl]ethyl]spiro[1H-3,1-benzoxazine-4,4'-piperidine]-2-one
+C560865	N-[(1S)-3-[(2Z)-2-[(4R)-3,4-Dimethyl-1,3-thiazolidin-2-ylidene]hydrazinyl]-1-(oxan-4-yl)-2,3-dioxopropyl]cycloheptanecarboxamide
+C058858	5,7,11-Tridecatriene-3,4-diol, 3,8,12-trimethyl-
+C587575	
+C090720	
+C035934	Dauricine
+C006384	
+C057364	Nitecapone
+C006131	
+D014248	
+C523409	
+C037065	
+C468227	
+C041509	Fluorene
+D015049	Zoxazolamine
+C084824	Syrosingopine
+C054531	Indolophenanthridine
+D001564	Benzo[a]pyrene
+D014203	Tremorine
+C550121	
+C035115	
+C004809	Isopentenyl pyrophosphate
+C010574	Biphenyl
+C424388	Flindokalner
+C005004	Glaucine
+C045913	
+C475768	
+C015559	Trimellitic anhydride
+C006463	Allyl alcohol
+C028451	3,3',4,4'-Tetrachlorobiphenyl
+D004876	
+C524648	
+C041715	6-Anilino-5,8-quinolinedione
+C037786	
+C030514	Hippuric acid
+C496130	
+C088633	
+C057986	Echistatin beta
+D015844	
+C009941	Potassium thiocyanate
+D010728	Phosphoenolpyruvate
+C060980	[(2R)-2-hexadecanoyloxy-3-[hydroxy-[(1S,2R,3R,4S,5S,6S)-2,3,6-trihydroxy-4,5-diphosphonooxycyclohexyl]oxyphosphoryl]oxypropyl] hexadecanoate
+C101867	
+C579558	(1Z)-2-(5-tert-butyl-1,2-oxazol-3-yl)-N-(3-chloroanilino)-2-oxoethanimidoyl cyanide
+C519076	
+C088060	Bisindolylmaleimide IV
+C105832	Auraptene
+C473643	Sulforaphene
+C061087	1-Nitroso-1-methyl-3-ethylurea
+C024318	Pirmenol
+C415424	N3-cyclopropyl-7-[(4-propan-2-ylphenyl)methyl]pyrrolo[3,2-f]quinazoline-1,3-diamine
+C056904	
+C449302	GW 6471
+C518829	N-(4-(4-Methyl-1-piperazinyl)phenyl)-9-acridinamine
+C437004	
+C059428	
+C028044	
+D006038	
+C403720	
+C037112	prostaglandin J2
+C531461	
+C419332	
+C028429	
+C032788	Thiocarbanilide
+C012997	Gentiopicroside
+C018394	
+C060553	Sodium bromate
+C459360	
+C060114	
+C032727	Piperidine
+D004140	
+C017690	Fenvalerate
+C423914	6-(1-(3,5,5,8,8-Pentamethyl-5,6,7,8-tetrahydronaphthalen-2-yl)cyclopropyl)nicotinic acid
+C098387	
+C032058	
+C056218	1-((5-Chloronaphthalen-1-yl)sulfonyl)-1,4-diazepane hydrochloride
+C028009	Diallyl disulfide
+C512407	
+C026560	
+C539427	N-{3-[(2-Hydroxy-naphthalen-1-ylmethylene)-amino]-phenyl}-2-phenyl-propionamide
+D017705	Lignan
+C044362	Brazilin
+C032773	Ethyl caffeate
+C117291	
+C078793	NO-711 hydrochloride
+D016264	Benzocaine
+C029322	Phenyl-p-benzoquinone
+C007088	
+C534469	
+C027955	Aflatoxin G1
+C524822	
+D001580	Benzo[a]pyrene
+C013352	Indacrinone
+C111914	[2-[(Hydroxy-oxidophosphoryl)oxymethyl]-5-(6-methylaminopurin-9-yl)oxolan-3-yl] hydrogen phosphate
+C020777	
+C040475	
+C570585	
+C074279	Lexacalcitol
+C055525	[(2R)-2-hexadecanoyloxy-3-[hydroxy-[(1S,2R,3S,4S,5R,6R)-2,3,4,6-tetrahydroxy-5-phosphonooxycyclohexyl]oxyphosphoryl]oxypropyl] hexadecanoate
+C049574	
+C570894	3,5-Dithiocyanatopyridine-2,6-diamine
+C043443	
+D013725	
+C050475	
+C023491	
+C016614	1-Nitronaphthalene
+D008917	Mirex
+C037652	Hexanoic acid
+C092297	
+D002258	(3-Chlorophenyl)hydrazonomalononitrile
+D018130	
+C557973	N-3-Pyridinyl-4-[[3-[[5-(trifluoromethyl)-2-pyridinyl]oxy]phenyl]methyl]-1-piperidinecarboxamide
+D011407	Propane
+C020733	Diadenosine tetraphosphate
+D013373	
+C525022	
+C049096	Corilagin
+C053492	
+C010395	Solusprin
+C020394	
+D006841	
+D014752	Vinyl Chloride
+C041048	
+C471050	
+C075631	Anpirtoline hydrochloride
+C022193	
+C004921	
+C487380	
+C017947	Sodium arsenite
+C068051	Tripchlorolide
+C052697	
+C109340	
+C070646	Cathelicidin
+C091451	
+C000591680	
+C069045	
+C007220	Chlorthal-dimethyl
+C555905	
+C552098	
+C093387	
+D008737	Chloromethane
+C028007	Nickel oxide
+C545813	
+C084079	Triptonide
+D013658	Taurolithocholic acid
+C026708	(2R,3R,4S,5R)-2-(6-Amino-2-(phenylamino)-9H-purin-9-yl)-5-(hydroxymethyl)tetrahydrofuran-3,4-diol
+C029743	2-Oxoglutaric acid
+C026609	beta-Solamarine
+C093124	6-methyl-5,6-dihydro-4H-1,3-thiazin-2-amine
+C108799	2-[[3-[[2'-(1H-Tetrazol-5-yl)-1,1'-biphenyl-4-yl]methyl]-5-ethyl-1,3,4-thiadiazol-2(3H)-ylidene]carbamoyl]-1-cyclopentene-1-carboxylic acid potassium salt
+C486980	
+C011049	
+C029892	Cupric chloride
+C550692	
+C515329	
+C010745	
+D017446	Impromidine
+C087220	(2R)-2-[[(2R)-2-[[(2S)-2-(azepane-1-carbonylamino)-4-methylpentanoyl]amino]-3-(1-formylindol-3-yl)propanoyl]amino]-3-(1H-indol-3-yl)propanoic acid
+C556941	
+C004322	Cetrimonium
+C424422	Zoniporide
+C059178	Flosulide
+C479979	{4-[({2-[3-Fluoro-4-(Trifluoromethyl)phenyl]-4-Methyl-1,3-Thiazol-5-Yl}methyl)sulfanyl]-2-Methylphenoxy}acetic Acid
+C061752	
+D013729	Terpin
+C012776	Felbinac
+C000591020	
+C533373	
+C046508	2,6-Di-tert-butyl-4-hydroperoxy-4-methyl-2,5-cyclohexadienone
+C053356	Pregna-1,4,9(11)-triene-3,20-dione, 21-(4-(3,6-bis(diethylamino)-2-pyridinyl)-1-piperazinyl)-16-methyl-, hydrochloride, (16alpha)-
+C577242	
+C581282	
+C011819	
+C060213	Tryptamine-4,5-dione
+C553295	2-Amino-5,6,7,8-tetrahydro-4-(4-methoxyphenyl)-7-(naphthalen-1-YL)-5-oxo-4H-chromene-3-carbonitrile
+C570852	
+D053644	1,8-Naphthalimide
+C432747	(6AR,10AR)-3-(1,1-Dimethylbutyl)-6A,7,10,10A-tetrahydro-6,6,9-trimethyl-6H-dibenzo[B,D]pyran
+C020375	Isaxonine
+D017666	
+C017528	
+C036200	Dynorphin B
+C106250	6,7-Dimethoxy-2-phenylquinoxaline
+C414210	
+C012001	
+C411295	
+D016314	
+C005696	Salicin
+C430898	2,4-Pentadienoic acid, 3-methyl-5-((1S,2S)-2-methyl-2-(5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-naphthalenyl)cyclopropyl)-, (2E,4E)-
+C489251	5-Iodo-3-[(3,5-dibromo-4-hydroxyphenyl)methylene]-2-indolinone
+C065380	5,6-Dihydroxy-3-phenyl-1-aminomethylisochroman
+C587444	
+C087551	1H-Indene-2-carboxylic acid, 1-(1,3-benzodioxol-5-yl)-3-(2-(carboxymethoxy)-4-methoxyphenyl)-2,3-dihydro-5-propoxy-, (1S,2R,3S)-
+C557493	
+C066906	
+C499717	
+C433143	
+C552933	
+D009585	Nitrogen Dioxide
+C517623	Gypenoside XLIX
+C523027	
+C052564	
+C102643	
+C091325	
+C006189	
+C065942	
+C105294	Endomorphin 2
+C015202	Ethyl phenylpropiolate
+C048193	
+C105661	
+C024711	N-[3-[(3-amino-3-oxoprop-1-en-2-yl)amino]-3-oxoprop-1-en-2-yl]-2-[(8R,11Z,15S,18S,25S,26R,35S,37R,46S,53R,59R)-18-[(2S,3R)-2,3-dihydroxybutan-2-yl]-11-ethylidene-59-hydroxy-8,31-bis[(1R)-1-hydroxyethyl]-26,46-dimethyl-40,43-dimethylidene-6,9,16,23,28,38,41,44,47-nonaoxo-37-propan-2-yl-27-oxa-3,13,20,56-tetrathia-7,10,17,24,36,39,42,45,48,52,58,61,62,63,64-pentadecazanonacyclo[23.23.9.329,35.12,5.112,15.119,22.154,57.01,53.032,60]tetrahexaconta-2(64),4,12(63),19(62),21,29(61),30,32(60),33,51,54,57-dodecaen-51-yl]-1,3-thiazole-4-carboxamide
+D011422	Propionate
+C102326	Cucurbitacin E
+D008543	Melanin
+C568923	
+C533800	(5alpha)-3-Oxocholestan-26-oic acid
+C053079	CID 3034761
+C550631	
+C020401	
+C069837	Buckminsterfullerene
+C025543	Psorospermin
+C068623	Carnosol
+C014036	4-Hydroxyestradiol
+C015499	gomisin N
+C046736	
+C412811	Maslinic acid
+C020170	
+C098756	
+C532251	
+C066926	beta-Ureidoisobutyric acid
+C101791	
+C553326	
+C029054	
+C018627	
+C031808	
+C100297	Rubratoxin B
+C572617	
+C076903	Zankiren
+C017136	Clometacin
+C408604	4-(4-Fluorophenyl)-2-(4-nitrophenyl)-5-(4-pyridyl)-1H-imidazole
+C090014	Befloxatone
+C121876	Imisopasem manganese
+C055393	
+C094142	3-[(4aS,12aR)-2-methyl-1,3,4,5,12,12a-hexahydropyrido[3,4-b]acridin-4a-yl]phenol
+C007215	
+C025160	3-Aminobenzamide
+C009978	
+C508738	
+C028328	3,4-Dichloronitrobenzene
+C020962	
+C107594	(5Z,8Z,11Z,14Z)-N-(4-hydroxyphenyl)icosa-5,8,11,14-tetraenamide
+C004600	
+C417047	
+C018802	
+D008634	Mersalyl
+C108642	
+C456621	
+C076297	Phytolaccoside E
+D004114	Dimethadione
+C560621	
+C029891	Lead chloride
+C082497	Neoandrographolide
+D008731	Methoxychlor
+C009169	
+C005413	Palmatine
+C010059	Semicarbazide
+C006624	Arcaine
+C031025	Formocresol
+C021315	S-Nitrosocysteine
+C064714	
+C037055	Nerolidol
+C045444	n-Methyl-2-phenyl-n-[(5r,7s,8s)-7-(pyrrolidin-1-yl)-1-oxaspiro[4.5]dec-8-yl]acetamide
+C474179	
+C021756	Palmoxiric acid
+C409648	
+C013270	Swertiamarin
+C475527	
+C076259	Nifekalant hydrochloride
+C095215	
+C017662	
+C496138	
+C062940	Quinupristin and dalfopristin
+C054694	Palmitoleoyl Ethanolamide
+C534070	
+C507406	
+C008170	
+C479838	[Nphe1,Arg14,Lys15]nociceptin-NH2
+C458508	2-Chloro-5-nitro-N-4-pyridinylbenzamide
+C574667	
+C496401	1400W dihydrochloride
+C485576	
+C008501	2-Mesatp
+C056424	Velnacrine
+C013221	Proanthocyanidin
+C053381	
+C083877	4-[(R)-[(2S,5R)-2,5-dimethyl-4-prop-2-enylpiperazin-1-yl]-(3-hydroxyphenyl)methyl]-N,N-diethylbenzamide
+C577756	4,6-dimorpholino-N-(4-nitrophenyl)-1,3,5-triazin-2-amine
+C530049	Inflexinol
+C064719	Iberiotoxin
+D011710	Pyocyanine
+C044568	
+C549162	
+C116340	
+C552206	
+C037178	Phosphatidylinositol-4-phosphate
+D004731	Endotoxin
+C000591844	
+D008771	Levonordefrin
+C040533	Trimethyltin chloride
+C017251	Dioleoyl lecithin
+C502355	5-(3-Phenylmethoxyphenyl)-7-[3-(pyrrolidin-1-ylmethyl)cyclobutyl]pyrrolo[2,3-d]pyrimidin-4-amine
+C087322	
+C015802	2,6-Dichloro-4-nitrophenol
+D000499	Allylamine
+C033270	
+D004440	Ecdysone
+D001958	
+C080703	3-Methyl-6-chloro-2,3,4,5-tetrahydro-7,8-dihydroxy-1-(3-methylphenyl)-1H-3-benzazepine
+C040756	1,2-Naphthoquinone
+D026403	Thionitrous acid
+C037500	Mastoparan
+C093555	2-Piperazinyl-8-phenyl-4H-1-benzopyran-4-one
+C544595	
+C009735	
+C096294	Osemozotan
+C036866	
+C578155	
+C456740	2-(7-Chloro-5-methyl-4-oxo-3-phenyl-4,5-dihydro-3H-pyridazino[4,5-b]indol-1-yl)-N,N-dimethylacetamide
+C049777	
+C036535	1,6-Bis(cyclohexyloximinocarbonyl)hexane
+C056080	
+C470754	5-(6-Aminopurin-9-yl)-4-fluoro-3-(hydroxymethyl)cyclopent-3-ene-1,2-diol
+C519885	(S,E)-3-(6-Bromopyridin-2-yl)-2-cyano-N-(1-phenylethyl)acrylamide
+C062025	9,9'-[(2r,3r,3as,5s,7ar,9r,10r,10as,12s,14ar)-3,5,10,12-Tetrahydroxy-5,12-Dioxidooctahydro-2h,7h-Difuro[3,2-D:3',2'-J][1,3,7,9,2,8]tetraoxadiphosphacyclododecine-2,9-Diyl]bis(2-Amino-1,9-Dihydro-6h-Purin-6-One)
+C047088	Phenamil
+C505749	
+C435606	(2S)-4-amino-2-[[(2S)-2-[[1-[(2,6-dichlorophenyl)methyl]-3-(pyrrolidin-1-ylmethyl)indol-6-yl]carbamoylamino]-3-(3,4-difluorophenyl)propanoyl]amino]-N-(phenylmethyl)butanamide
+C499475	
+C049032	Pinosylvin
+C569030	N'-(2-(3,5-difluorophenyl)-2-hydroxyacetyl)-2-ethyl-4-hydroxy-3-methylbenzohydrazide
+C034499	Allyl formate
+D002093	1,5-Bis(4-allyldimethylammoniumphenyl)pentan-3-one dibromide
+C028326	
+C473027	3-(3-(N-(2-Chloro-3-trifluoromethylbenzyl)(2,2-diphenylethyl)amino)propoxy)phenylacetic acid
+C000593569	
+C032794	Fenobam anhydrous
+C085355	
+C534553	
+C007042	
+C042804	
+C070279	2'-Cyano-2'-deoxyarabinofuranosylcytosine
+C560412	
+C120710	
+C055075	
+C113888	2-Bromo-4-[(6,7-dimethoxyquinazolin-4-yl)amino]phenol
+C075357	Odapipam
+C110258	RV4Pvu9V2A
+C004297	3-Hydroxybenzylhydrazine
+C024915	Ethyl beta-carboline-3-carboxylate
+C076760	
+C046926	(4Z)-7-[(1S,2S,5R)-5-[([1,1'-biphenyl]-4-yl)methoxy]-2-(morpholin-4-yl)-3-oxocyclopentyl]hept-4-enoic acid
+C121546	Ono-AE-248
+C093323	Salirasib
+C089698	1-(3-(4-Phenylbenzyl)-4-hydroxychroman-7-yl)cyclopentane-1-carboxylic acid
+C060678	
+C107016	14,15-dihydroxy-5Z,8Z,11Z-eicosatrienoic acid
+D003488	
+C098227	
+C076523	
+C000944	Dicrotophos
+C053734	
+D047309	
+D034261	Epothilone
+C037137	
+C569113	Methoxetamine
+C579117	
+C103016	Antalarmin
+C010030	9-Anthracenecarboxylic acid
+C420262	
+C012780	
+C013318	Triphenyl phosphite
+C033660	
+C018511	1,4-Dichlorobenzene
+C504129	
+C515630	3-(4-((3-Phenoxybenzyl)amino)phenyl)propanoic acid
+C083510	Taurohyodeoxycholic acid
+C010522	Tryptoquivaline
+C474055	Phenol, 2-octyl-
+C086401	
+C442244	
+C064617	Glutathionylcobalamin
+C015019	Enocitabine
+C528671	
+C527042	10-Hydroxycamptothecin
+C066957	Pelargonidin chloride
+C453744	
+C496616	
+C042577	Diallyl trisulfide
+C069297	
+C070629	
+D007067	
+C104181	4-(5,7,7,10,10-Pentamethyl-8,9-dihydronaphtho[2,3-b][1,5]benzodiazepin-12-yl)benzoic acid
+C112343	Chlorimuron-ethyl
+D005015	Ethoxyquin
+C094747	
+C420684	3-Methoxy-L-tyrosine
+C044643	
+C009226	Selenocystine
+D002700	
+D010119	
+C006712	Benzohydrazide
+C034379	Heptadeca-1,9-dien-4,6-diyne-3,8-diol
+C521840	
+C047702	
+C025984	15-Hydroxy-5,8,11,13-eicosatetraenoic acid
+C090701	2'-Methyl-4'-(5-methyl-(1,2,4)-oxadiazol-3-yl)biphenyl-4-carboxylic acid (4-methoxy-3-(4-methylpiperazin-1-yl)phenyl)amide
+C031283	
+C058487	
+D003524	
+C402783	
+C082827	
+C495512	Sodium 2-(4-methoxyphenoxy)propanoate
+C453560	8-Hydroxyguanine
+C511179	2-(3-Benzyltriazolo[4,5-d]pyrimidin-7-yl)sulfanyl-1,3-benzoxazole
+C573330	
+C097564	
+C449400	
+C103736	2-Bromopropane
+C012877	Angiotensin IV
+C049763	2-Hydroxy-5-[2-[[2-hydroxy-3-[4-[1-methyl-4-(trifluoromethyl)imidazol-2-yl]phenoxy]propyl]amino]ethoxy]benzamide
+C421454	
+C104418	2-(5-(2,6-Dimethoxyphenyl)-1-(4-((3-(dimethylamino)propyl)(methyl)carbamoyl)-2-isopropylphenyl)-1H-pyrazole-3-carboxamido)adamantane-2-carboxylic acid hydrochloride
+C552719	2-{[4-(5-Ethylpyrimidin-4-Yl)piperazin-1-Yl]methyl}-5-(Trifluoromethyl)-1h-Benzimidazole
+D001562	
+C552361	
+C048792	1,2-Diacetylbenzene
+C511871	
+C072105	Methoxybenzene-sulfonamide
+C049453	
+C085632	N-(4-((5-(3-(2-Aminoethyl)-1H-indol-5-yl)-1,2,4-oxadiazol-3-yl)methyl)phenyl)methanesulfonamide
+C047008	
+C482884	Panduratin A
+C000594749	
+C505456	2-((2-piperidin-1-ylethyl)thio)quinazolin-4(3H)-one
+C119284	
+D012451	Safrole
+C033132	Aziridine
+C053428	8-(2-[4-(2-Methoxyphenyl)-1-piperazinyl]ethyl)-8-azaspiro[4.5]decane-7,9-dione
+D001577	
+C052475	
+D011804	
+C005503	5,8-Dihydroxy-1,4-naphthoquinone
+C512408	4-Hydroxy-3-(2'-hydroxy-[1,1'-biphenyl]-4-yl)-6-oxo-6,7-dihydrothieno[2,3-b]pyridine-5-carbonitrile
+C034211	Mercuric sulfide
+C539263	Iron Chelator, Dp44mT
+C024015	Cryptolepine
+D004768	
+C102005	
+C029620	Glycerophosphoric acid
+C529769	Methyl 3-[(4-anilino-2-methoxyphenyl)sulfamoyl]thiophene-2-carboxylate
+C490483	Icilin
+C020283	Diethanolamine
+C044708	
+C038627	
+C028764	
+C503204	
+C576118	
+C030961	
+C549055	
+C552597	1-Pentyl-3-(1-naphthoyl)indole
+C079415	(1R,3S)-3-(adamantan-1-yl)-1-(aminomethyl)-3,4-dihydro-1H-isochromene-5,6-diol
+C034192	Ellipticine
+C106872	Aclonifen
+C021595	
+C000601472	
+C483891	
+D006888	
+C044997	Pancratistatin
+C024564	2,4,6-Trichlorophenol
+C522060	
+C053692	
+C115642	(1R,35R,38R,55S)-6,7,8,11,12,23,24,27,28,29,37,43,44,45,48,49,50-heptadecahydroxy-2,14,21,33,36,39,54-heptaoxaundecacyclo[33.20.0.04,9.010,19.013,18.016,25.017,22.026,31.038,55.041,46.047,52]pentapentaconta-4,6,8,10,12,16,18,22,24,26,28,30,41,43,45,47,49,51-octadecaene-3,15,20,32,40,53-hexone
+D022882	Thymidine
+C404922	(R)-3-((2-(2-(4-Methylpiperidin-1-yl)ethyl)pyrrolidin-1-yl)sulfonyl)phenol
+C031021	3-Methylcyclopentadecanone
+C006183	2-(2-Aminoethyl)pyridine
+C560931	
+C052026	6-(4-Fluorophenyl)-2,3-dihydro-5-(4-pyridinyl)imidazo(2,1-b)thiazole
+C075569	(2E)-2-[(4,5-dimethoxy-2-methyl-3,6-dioxocyclohexa-1,4-dien-1-yl)methylidene]undecanoic acid
+C572045	Apalutamide
+C100573	prostaglandin A1
+C004474	
+C056911	
+C001598	Chetomin
+C039202	
+C016583	4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanone
+C044888	
+C044128	
+C060814	
+C089020	Brassinin
+C576694	2-(2-Chlorophenyl)-4-(3-(dimethylamino)phenyl)-5-methyl-1H-pyrazolo[4,3-c]pyridine-3,6(2H,5H)-dione
+C074798	
+C044594	Plethoryl
+C044846	8-Bromo-3-methyl-5-phenyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-7-ol
+C004931	2,2-Diphenyl-1-picrylhydrazyl
+C057792	Cosmosiin
+C549635	
+C521340	
+C024321	
+D002235	Carbofuran
+C501333	
+C001024	
+C470197	Telomerase Inhibitor IX
+C010355	
+C031375	Pepstatin
+C054179	
+C107873	Tecalcet hydrochloride
+C026795	
+C031287	2-Isothiocyanatonaphthalene
+C037553	
+C520671	
+C061319	
+C042703	
+D010627	
+C534649	
+C080362	
+C108798	
+D012545	Schiff base
+C539237	
+C046855	Epostane
+C079574	D-Alanine, N-((hexahydro-1H-azepin-1-yl)carbonyl)-L-leucyl-1-methyl-D-tryptophyl-3-(2-pyridinyl)-
+C513933	
+C080938	Tris(2-carboxyethyl)phosphine
+D007203	Indigotindisulfonic acid
+C055986	19-Hydroxy-5,8,11,14-eicosatetraenoic acid
+C069424	
+C122096	
+C004580	
+C000978	
+C007510	
+C014055	Iodomethane
+C032623	Pheophorbide a
+D012992	
+C438957	
+C096972	
+C104753	(1S,2S,5R,6S)-2-aminobicyclo[3.1.0]hexane-2,6-dicarboxylic acid
+D000167	Acriflavine
+C045038	3-Hydroxy-3-methyl-5-phosphonooxypentanoic acid
+C018406	1-[3-(Trifluoromethyl)phenyl]piperazine
+D039823	15-Demethyl plumieride
+C012906	Dihydrocapsaicin
+C458523	(E)-2-(3-(naphthalen-2-yl)but-2-enamido)benzoic acid
+C410732	
+C105620	Fukugetin
+C049325	3H-1,2-Dithiole-3-thione
+C487956	
+D055333	
+C060500	
+C000430	
+C060209	Delt II
+C045673	Manoalide
+C108255	Levormeloxifene
+C419604	
+C085667	
+C499781	
+C511704	Xestospongin c
+C523652	
+C058451	
+C407684	
+C100082	Malaoxon
+C028889	Morphiceptin
+C085989	(S)-3-(8-(Dimethylaminomethyl)-6,7,8,9-tetrahydropyrido(1,2-a)indol-10-yl)-4-(1-methyl-3-indolyl)-1H-pyrrole-2,5-dione hydrochloride
+C510288	
+C103552	
+C026133	Purpurogalline
+C099958	(1R,4aR,7S)-1,4a,7-Trimethyl-7-vinyl-1,2,3,4,4a,6,7,8,8a,9,10,10a-dodecahydro-phenanthrene-1-carboxylic acid
+C020947	
+C070375	9-Hydroxyoctadecanoic acid
+D015085	2,4,5-Trichlorophenoxyacetic acid
+C014945	Estrone acetate
+D009555	
+D013778	
+C472829	CDDO-Im
+D013770	Diphosphoramide, N,N',N'',N'''-tetrakis(1-methylethyl)-
+C007165	
+C086374	
+C560402	A-967079
+C116774	
+C065012	2-Ethynylnaphthalene
+C016705	7-Dehydrocholesterol
+C037219	Quinoline
+C061189	
+C561367	
+C506365	Cyclohexane
+D006426	Hemicholinium-3
+C501856	
+C115945	Rhododendrol
+C041364	
+C033541	Afloqualone
+C053411	
+C581325	1-(3-((((2R,3S,4R,5R)-5-(4-Amino-7H-pyrrolo[2,3-d]pyrimidin-7-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methyl)(isopropyl)amino)propyl)-3-(4-(tert-butyl)phenyl)urea
+C006359	
+C560620	N-pyridazin-3-yl-4-[[3-[5-(trifluoromethyl)pyridin-2-yl]oxyphenyl]methylidene]piperidine-1-carboxamide
+C474918	
+C055793	Selenic acid
+D003486	Cyanide ion
+D008054	
+C072125	2-((4,5-Dihydro-1H-imidazol-2-yl)methyl)-2,3-dihydro-1-methyl-1H-isoindole
+C547185	Riccardin D
+C042712	
+C015469	
+C109860	N-3-Oxo-Dodecanoyl-L-Homoserine Lactone
+C026539	3-(1-Propyl-3-piperidinyl)phenol
+C423404	
+C454676	2,4,6(1H,3H,5H)-Pyrimidinetrione, 5-ethyl-5-phenyl-1-(phenylmethyl)-
+C046945	Triphenylmethane
+C000597114	
+C521108	3,4-Dihydro-6-[[4-[[[3-(methylsulfonyl)phenyl]methyl]amino]-5-(trifluoromethyl)-2-pyrimidinyl]amino]-2(1H)-quinolinone
+C118235	
+C109112	3-methyl-2-phenyl-N-[(1S)-1-phenylpropyl]quinoline-4-carboxamide
+C482885	
+D000805	
+D000487	Allethrin
+C098874	4,5-Dianilinophthalimide
+C475919	4-Hydroxytamoxifen
+C534615	7-Hydroxy-2,3,4,5-tetrahydro-1H-benzofuro[2,3-c]azepin-1-one
+C468271	N-methyl-n-benzylnitrosamine
+C096760	
+C065046	3-(1,2,5,6-Tetrahydropyrid-4-yl)pyrrolo(3,2-b)pyrid-5-one
+C081174	2-(N-Propyl-N-((2'-(1H-tetrazol-5-yl)biphenyl-4-yl)methyl)amino)pyridine-3-carboxylic acid
+C510589	
+C038649	13-Hpode
+C580748	Hydroxybupropion
+C057718	
+C051084	TBMS1 saponin
+C487948	3-Iodothyronamine
+C400802	(3S,4aR,6S,8aR)-6-[(4-carboxyphenyl)methyl]-decahydroisoquinoline-3-carboxylic acid
+C006014	8-(Diethylamino)octyl 3,4,5-trimethoxybenzoate
+C062714	
+C013706	
+C005846	Dicalcium;pentamagnesium;[dioxido-[oxo(trioxidosilyloxy)silyl]oxysilyl]oxy-[[dioxido-[oxo(trioxidosilyloxy)silyl]oxysilyl]oxy-oxosilyl]oxy-dioxidosilane;dihydroxide
+C086563	
+D011099	Glutamic Acid
+C019132	3-Amino-1,4-dimethyl-5H-pyrido(4,3-B)indole
+D009012	Mopidamol
+C470478	
+C432447	(1S,3E,5R,9S,12E)-3,12-dimethyl-8-methylidene-6,18-dioxatricyclo[14.2.1.05,9]nonadeca-3,12,16(19)-triene-7,17-dione
+C116250	
+C001873	
+C024829	8-Hydroxyguanine
+C082874	1,2,3,4-Oxatriazolium, 5-amino-3-(3,4-dichlorophenyl)-, inner salt
+C505875	
+C107754	Nepadutant
+C518327	Aloe-emodin
+C569662	
+C466758	
+C580579	
+C008189	
+C057914	
+C434666	
+C069868	
+C571720	5-(furan-2-yl)-N-(3-imidazol-1-ylpropyl)-1,2-oxazole-3-carboxamide
+C548875	Sapitinib
+C523198	
+C019286	Camphene
+C474557	
+C005216	1-Methoxy-2-propanol
+C109986	2-Aminoethyl diphenylborinate
+C045041	
+C047975	Cyanopindolol
+C006007	
+C031618	Sodium Nitrate
+C014063	
+C031209	
+C462679	
+D002221	Carbamoyl phosphate
+D003997	3,5-Pyridinedicarboxylic acid, 1,4-dihydro-2,4,6-trimethyl-, diethyl ester
+C526005	Nolpitantium besilate
+C121506	
+C002963	Geranylgeranyl diphosphate
+C404062	
+D004124	4-(Dimethylamino)azobenzene
+D010797	
+C418062	
+C019279	
+C044445	
+C016571	
+C526583	CID 9914457
+C029497	3,4-Bis[(3-hydroxyphenyl)methyl]oxolan-2-one
+D004092	(20S)-20-Hydroxypregn-4-en-3-one
+C031227	6-Nitroquipazine
+C019536	Potassium bromate
+C532887	Diarctigenin
+C040605	
+C467077	Ilimaquinone
+C031004	Einecs 209-437-3
+C526689	
+C521105	Dimethoxycurcumin
+C078097	
+C477898	3-[({4-[4-({[1-(2-Chlorophenyl)ethoxy]carbonyl}amino)-3-methyl-1,2-oxazol-5-yl]phenyl}methyl)sulfanyl]propanoic acid
+C065729	
+C028306	Dolichyl phosphate
+C026285	Sucralose
+C553282	
+C406712	Methoxyfenozide
+C489442	
+C530746	
+C054189	3,5-Di-tert-butylchalcone
+C025026	Sodium sulfite
+C043952	
+C108698	
+C466997	N3-(4-fluorophenyl)-1h-pyrazolo[3,4-d]pyrimidine-3,4-diamine
+C114047	
+C007895	D-Gulono-1,4-lactone
+C004525	
+C553589	2-Bromo-N-[4-chloro-3-[[(3R)-1-methyl-3-pyrrolidinyl]oxy]phenyl]-4,5-dimethoxybenzenesulfonamide
+C477872	2-((6-amino-9H-purin-9-yl)methyl)-5-methyl-3-o-tolylquinazolin-4(3H)-one
+C569454	CID 9974762
+C014999	D-Arabinitol
+C068880	Miltirone
+C008493	Methylselenic acid
+C069913	
+D002992	Methyl clofenapate
+C488103	Tiplasinin
+C115254	
+C119325	Arachidonyl-2-chloroethylamide
+C019112	Tixocortol pivalate
+C569970	
+D006021	
+C100078	
+C047628	8-hydroxy-5Z,9E,11Z,14Z-eicosatetraenoic acid
+C025657	Arsenic acid
+C109119	Embusartan
+C553309	
+D005663	
+C534891	
+C551469	
+C060951	
+C121056	
+C004483	
+D054873	
+C578515	
+C057368	2-(4-((2R)-2-(((2R)-2-(3-Chlorophenyl)-2-hydroxyethyl)amino)propyl)phenoxy)acetic acid
+C005671	
+C057452	
+C013363	
+C070999	Prostratin
+C046270	
+C487890	Ono-AE3-208
+C053010	
+C007932	Hexadecane
+D012717	
+C024763	Talipexole dihydrochloride
+C004312	Glycidol
+D037342	
+C456970	
+D014317	Tricresyl phosphate
+C016908	Pirinixil
+C420690	
+C117571	
+C479889	2-Methyl-2-[4-[3-[1-(4-methylbenzyl)-5-oxo-4,5-dihydro-1H-1,2,4-triazol-3-yl]propyl]phenoxy]propanoic acid
+C499779	
+C517807	
+C025033	
+D002396	
+C120039	Tectorigenin
+C083037	
+C506645	N6,N6-dimethyl-N4-[1-(phenylmethyl)-5-indazolyl]pyrido[3,4-d]pyrimidine-4,6-diamine
+C054383	
+C583893	
+C585749	
+C104838	
+C044162	
+C028474	Tcpobop
+C017558	Nickel(II) sulfide
+C018343	
+C038464	
+C054474	Manumycin A
+C034062	
+C070899	4,4'-(1,2-Dimethyl-1,2-ethanediyl)bis-2,6-piperazinedione
+C568658	
+C534333	4-nitrophenyl 4-[bis(2H-1,3-benzodioxol-5-yl)(hydroxy)methyl]piperidine-1-carboxylate
+C554582	
+C031575	Triethyltin hydride
+C025965	
+D018129	
+C106517	
+C400939	Methylone
+C011142	
+C401835	Salicylic acid, valerate
+C084037	Dephostatin
+C434677	
+C085253	
+C098222	
+C035486	
+C008299	
+C015045	
+C096499	
+C579675	N-[3-[[5-Iodo-4-[[3-[(2-thienylcarbonyl)amino]propyl]amino]-2-pyrimidinyl]amino]phenyl]-1-pyrrolidinecarboxamide
+C441619	
+C045954	Lonapalene
+C030034	
+C089835	Dapitant
+C438920	
+C546977	(S)-6-((3,5-dimethyl-1H-pyrazol-4-yl)methyl)-5-(4-hydroxyisoxazolidine-2-carbonyl)-1-isobutyl-3-methylthieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
+C488846	
+C029389	
+D005020	Ethyl methanesulfonate
+C046367	
+C105686	3-[(3-(2-Carboxyethyl)-4-methylpyrrol-2-YL)methylene]-2-indolinone
+C064970	
+C012619	
+C053896	1,3-Dipropyl-8-p-sulfophenylxanthine
+C430918	2-(4-((2,5-Difluorobenzyl)oxy)phenoxy)-5-ethoxyaniline
+C416814	
+C005152	
+C503624	6-Methoxyluteolin
+C067366	
+C106878	
+D005344	Fibrinopeptide A
+C046229	
+C027819	
+C060540	Guanidine, N,N'-dibutyl-
+C524083	
+C092431	[Dibromo-[[[(2R,3S,4R,5R)-5-[6-(diethylamino)purin-9-yl]-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]methyl]phosphonic acid
+C050455	
+D011521	
+D014128	Chromomycin a3
+C582069	
+D002092	Butyrylthiocholine
+C035318	1,1-Diethylthiourea
+C471109	BMS-345541 free base
+C053473	
+C061132	Diphenyl diselenide
+C043103	Phthalic anhydride
+C077059	
+C052241	Imirestat
+C053171	
+C007907	
+C036795	
+D008299	Maleic anhydride
+C009194	
+C086164	N-(2-(Phosphonomethylamino)-3-(4-biphenylyl)propionyl)-3-aminopropionic acid
+C492908	PX-478 2HCl
+C055869	2,6-Dichlorobenzonitrile
+D006877	
+C005057	
+C569023	
+C515227	CID 10273661
+C106518	
+C009333	
+C064866	
+C069192	
+C104988	
+C021597	Pyro(l-alpha-aminoadipyl)-L-histidyl-L-thiazolidine-4-carboxamide
+C005356	Sphingosine phosphorylcholine
+D014315	Triterpenoid
+C064049	
+C095645	
+C005179	Metiapine
+C041615	
+C107104	4-[(E)-3-[[2-[[2,4-dichloro-3-[[2-methyl-4-(pyridin-2-ylmethoxy)quinolin-8-yl]oxymethyl]phenyl]-methylamino]-2-oxoethyl]amino]-3-oxoprop-1-enyl]-N-methylbenzamide
+D011742	
+C075802	
+C004925	Methylmercury chloride
+C489431	Hymecromone
+C532274	
+C093574	
+C053315	
+C081766	2,4,4'-Trichlorobiphenyl
+D009116	Muscarine
+C475622	6-(Cyclohexylmethoxy)-5-nitrosopyrimidine-2,4-diamine
+D000691	(-)-Anabasine
+C060802	Thalrugosine
+C005091	
+C073504	Zelandopam hydrochloride
+C112300	(((pentan-3-yloxy)carbonyl)oxy)methyl 3-((2'-(1H-tetrazol-5-yl)-[1,1'-biphenyl]-4-yl)methyl)-5-acetyl-2-propyl-4,5,6,7-tetrahydro-3H-imidazo[4,5-c]pyridine-4-carboxylate hydrochloride
+C061950	4-(8-Methyl-9H-1,3-dioxolo(4,5-h)(2,3)benzodiazepin-5-yl)benzenamine
+C114624	2-Amino-2-(2-carboxycycloprop-1-yl)-3-(xanth-9-yl)propanoic acid
+C030011	
+C104288	(S)-3-(Azetidin-2-ylmethoxy)pyridine
+C020743	Triamterene and hydrochlorothiazide
+C480342	Clothianidin
+C119836	
+C004703	
+C033874	
+C520571	Tideglusib
+D003855	2-Deoxy-D-ribose
+C504238	
+C051040	N-(2-aminoethyl)-4-chlorobenzamide
+C047158	
+C584451	
+C083114	
+C439087	
+C121227	(Z)-7-[(1R,2R,3S,5S)-2-[(E,3R)-3-(2,3-dihydro-1H-inden-2-yl)-3-hydroxyprop-1-enyl]-3-fluoro-5-hydroxycyclopentyl]hept-5-enoic acid
+C039742	
+C015891	
+C045601	
+C075117	Zaragozic acid A
+D011005	Plutonium
+C000599716	
+C058380	Benzoic acid, ((5alpha)-4,5-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-ylidene)hydrazide
+C532264	
+C011015	Sitogluside
+C000599091	Fumosorinone
+C026533	
+D006586	n-HEXANE
+C513935	1H-Pyrrole-3-carboxamide, 5-((5-fluoro-1,2-dihydro-2-oxo-3H-indol-3-ylidene)methyl)-N-((2S)-2-hydroxy-3-(4-morpholinyl)propyl)-2,4-dimethyl-
+C111727	
+D008246	
+D060729	
+D002085	N-Butyl-N-(4-hydroxybutyl)nitrosamine
+C058078	
+C040968	
+C516783	
+C063002	2,3-Dimethoxy-1,4-naphthoquinone
+C042416	
+C571803	
+C039156	
+C570853	Capmatinib
+C074346	
+C510150	4,4'-(6-(2-(Difluoromethyl)-1H-benzo[d]imidazol-1-yl)-1,3,5-triazine-2,4-diyl)dimorpholine
+C066471	Sodium 2-(5-hydroxy-8,9-dihydro-5H-benzo[7]annulen-6(7H)-ylidene)acetate
+C507090	
+C424127	alpha-[Amino[(4-aminophenyl)thio]methylene]-2-(trifluoromethyl)benzeneacetonitrile
+C045604	
+C430220	
+C016213	
+C063423	Rhamnetin
+C014659	Methyl(acetoxymethyl)nitrosamine
+C587250	
+C544694	
+C009536	1,2,3-Trichloropropane
+C005246	Myristicin
+C057446	5-Methylurapidil
+C115711	1-(tert-Butyl)-3-(2-((4-(diethylamino)butyl)amino)-6-(3,5-dimethoxyphenyl)pyrido[2,3-d]pyrimidin-7-yl)urea
+C444448	
+C074761	Trimidox
+C044387	N,N,N',N'-Tetrakis(2-pyridylmethyl)ethylenediamine
+C402416	Onternabez
+C578082	
+C023490	
+C552122	Dimerum acid
+D009537	Nicotinamide mononucleotide
+D016607	Aflatoxin M1
+C100264	
+D014301	
+C096753	
+C412308	Cyclo-trans-4-L-Hydroxyprolyl-L-serine
+C050186	
+C572724	
+C010088	
+C508470	7-[3,5-Di-tert-butyl-2-(2,2-difluoro-ethoxy)-phenyl]-3-methyl-octa-2,4,6-trienoic acid
+C051271	5-(3-((2-(3,4-Dimethoxyphenyl)ethyl)amino)-1-oxopropyl)-2,3,4,5-tetrahydro-1,5-benzothiazepine fumarate
+C528306	
+C100822	Alniditan dihydrochloride
+C066892	2-(Diphenylmethyl)-N-((2-methoxyphenyl)methyl)-1-azabicyclo(2.2.2)octan-3-amine
+C571888	
+C017719	Solanesol
+C418965	(E)-1-(3,4-dimethoxyphenyl)-3-(4-dimethylaminophenyl)prop-2-en-1-one
+C450421	
+C065495	
+C106476	
+C007548	Dodecane
+C059368	
+C026777	(2R,3S)-1-[(7-methyl-2,3-dihydro-1H-inden-4-yl)oxy]-3-(propan-2-ylamino)butan-2-ol
+C121565	Pifithrin-alpha
+C119249	
+C555142	Silmitasertib
+D012839	Simazine
+D044946	
+C096775	
+D009478	
+C412702	
+C106073	
+D047889	
+D007461	
+C484750	3-Chloro-1,2-propanediol
+C060631	
+C510885	
+D017953	Cyanate
+C551527	
+C553587	Tubastatin A
+D013890	Thiourea
+C049412	Sweroside
+C069785	
+C583720	
+C121391	
+C509025	
+C005961	Tributyltin oxide
+C118559	1-Bromopropane
+C098981	
+C475484	
+C460080	Benzamide, 4-[(1R)-1-aminoethyl]-N-4-pyridinyl-
+C088015	Benzothiophene
+C100270	Ergocristine
+C484919	Avosentan
+C040896	Carbon
+C094211	(S)-N-benzyl-2-((S)-2-(2-hydroxyacetyl)pyrrolidine-1-carbonyl)pyrrolidine-1-carboxamide
+C016648	
+C008536	
+C078006	3-(2-(N-(1-Carboxy-3-phenylpropyl)amino)propionyl)-1-methyl-2-oxoimidazolidine-4-carboxylic acid
+C079061	
+D012966	Sodium cyanide
+C493177	CK1 Inhibitor
+C065576	CerP(d18:1/18:0)
+C085171	
+C462359	
+D011059	
+C414544	
+C112381	
+C022799	Clofilium
+C561635	MK-8245
+C079659	
+C000589490	Omaveloxolone
+C108152	
+C091295	
+D012368	4-(3-Butoxy-4-methoxybenzyl)-2-imidazolidinone
+C050134	
+C545733	Fatostatin
+C007366	2,2'-Bioxirane
+C022121	
+C016578	
+C012796	Crotonaldehyde
+C009683	
+C013525	N-Ethyl-N'-nitro-N-nitrosoguanidine
+C507205	
+C088496	
+C062783	
+C037653	
+C009613	
+C016577	
+C077945	
+C525131	(2E)-3-{4-hydroxy-3-[5,5,8,8-tetramethyl-3-(pentyloxy)-5,6,7,8-tetrahydronaphthalen-2-yl]phenyl}prop-2-enoic acid
+C549211	N-[(E)-(6-Bromoimidazo[1,2-a]pyridin-3-yl)methylideneamino]-N,2-dimethyl-5-nitrobenzenesulfonamide
+C110963	
+C096620	
+C570862	(R)-2-Amino-7-(4-fluoro-2-(6-methoxypyridin-2-yl)phenyl)-4-methyl-7,8-dihydro-6H-pyrido(4,3-d)pyrimidin-5-one
+D011119	
+C031517	2-Methyl-3-(4-(3-pyridinylmethyl)phenyl)-2-propenoic acid
+C411062	
+C492688	
+C024347	9-hydroxy-10E,12Z-octadecadienoic acid
+C017154	Cyanidin
+C417521	3-(2,4-Dichlorophenyl)-4-(1-methyl-1H-indol-3-yl)-1H-pyrrole-2,5-dione
+C550725	
+D008742	2-Hexanone
+C547957	4-Chloro-N-[2-[[5-(trifluoromethyl)-2-pyridinyl]sulfonyl]ethyl]benzamide
+C065295	
+C114209	
+C529490	
+D010714	Cephalin
+C054337	Unii-95N0gbb2SX
+C096329	Ezatiostat
+C576022	
+C450900	
+C001380	6beta-Hydroxycortisol
+C013615	Nitidine
+C111479	L-Leucine, D-phenylalanyl-L-prolyl-5-aminopentanoyl-5-aminopentanoyl-L-alpha-aspartyl-L-phenylalanyl-L-alpha-glutamyl-L-prolyl-L-isoleucyl-L-prolyl-
+C576408	
+C508167	
+C088860	N-(3-bromophenyl)-6,7-dimethoxyquinazolin-4-amine
+C063285	
+C024393	Hydroxymethylbilane
+C500605	
+C548475	
+C022146	1-(2-Hydroxyethyl)-1-nitrosourea
+C072383	
+C574708	
+C109929	
+C034331	
+C019539	Precocene I
+C025348	5-Hpete
+C007782	Dichlorodifluoromethane
+C016977	Amastatin
+C010980	Hippuryl-histidyl-leucine
+C079940	
+C025311	
+C048184	
+C419789	
+C017199	2',3'-dialdehyde ATP
+C562345	
+C011258	
+C529296	3,6-Dimethyl-N-(Pentan-3-Yl)-2-(2,4,6-Trimethylphenoxy)pyridin-4-Amine
+C523668	3-((5-(2,3-dichlorophenyl)-1H-tetrazol-1-yl)methyl)pyridine
+C524672	
+C086724	
+C025086	15-Hpete
+C546412	3-[(4-Chlorophenyl)methoxy]-N-[(1S)-1-phenylethyl]thiophene-2-carboxamide
+C585150	
+C039557	
+C043055	Gallium arsenide
+C403639	
+D008455	(4-(m-Chlorophenylcarbamoyloxy)-2-butynyl)trimethylammonium chloride
+C422410	
+C074400	8-[(2S,4S,5S,6R)-4,5-dihydroxy-6-methyloxan-2-yl]-5-hydroxy-2-(4-hydroxyphenyl)-7-methoxychromen-4-one
+C021606	
+D016227	
+C500045	
+C005843	Resazurin
+C443759	
+C500488	
+D011460	2,5,8,11-Tetraoxatridecane
+C112914	
+C000594480	
+C065049	
+C534868	
+C579556	
+C476366	
+C020175	(8R,9S,10R,13S,14S,16R,17S)-16-ethyl-17-(2-hydroxyacetyl)-13-methyl-2,6,7,8,9,10,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-one
+C102660	4-(2-(3-(Cyclopentyloxy)-4-methoxyphenyl)-2-phenylethyl)pyridine
+C015896	(24E)-24-N-Propylidenecholesterol
+C002502	
+C092829	N-(1-Amino-3-naphthalen-2-yl-1-oxopropan-2-yl)-19-[(2-amino-3-naphthalen-2-ylpropanoyl)amino]-10-(3-aminopropyl)-16-[(4-hydroxyphenyl)methyl]-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-7-propan-2-yl-1,2-dithia-5,8,11,14,17-pentazacycloicosane-4-carboxamide
+C534511	
+C076996	27-Hydroxycholesterol
+C417520	3-(3-chloro-4-hydroxyphenylamino)-4-(4-nitrophenyl)-1H-pyrrole-2,5-dione
+C502617	Orazipone
+C031763	1,3-Butadiene
+C010192	9-(2-Hydroxy-3-nonyl)adenine
+C506133	
+C403289	
+C078024	
+D014409	
+C031244	
+C097048	
+C573817	
+C014114	Dehydromonocrotaline
+C571665	
+C521676	N-[[3-(cyclopenten-1-yl)phenyl]methyl]-1-[(2,2-dimethyl-3H-1-benzofuran-7-yl)oxy]ethanamine
+C077022	6-(4-(2,2-di(4-Fluorophenyl)ethylamino)-1-piperidinyl)-N,N'-di-2-propenyl-1,3,5-triazine-2,4-diamine
+C414785	
+C057156	
+C008776	Nonanoic acid
+C022877	
+C452642	
+C102871	
+C071845	Dendrophenol
+C040278	
+C099872	Zanapezil fumarate
+D003435	Crotamin
+C034343	4-Aminobenzohydrazide
+C561881	
+D006834	Isoniazid
+C483044	(E)-2-Cyano-3-(4-hydroxy-3,5-diisopropylphenyl)-N-(3-phenylpropyl)acrylamide
+C425884	
+C048988	
+C046357	2-Phenoxy-4H-1,3,2-benzodioxaphosphorin 2-oxide
+C103477	3-(3-(Dimethylamino)propyl)-4-hydroxy-N-(4-(4-pyridinyl)phenyl)benzamide
+C556802	
+D057911	
+C036412	
+C012466	Oxadiazon
+C473711	6-((2-((4-(2,4-Dichlorophenyl)-5-(4-methyl-1H-imidazol-2-yl)pyrimidin-2-yl)amino)ethyl)amino)nicotinonitrile
+C015765	[(6,7-Dichloro-2-cyclopentyl-2-methyl-1-oxo-2,3-dihydro-1h-inden-5-yl)oxy]acetic acid
+C055018	
+C406691	
+C553459	
+C120565	2-Naphthalenecarboxamide, N-(4-(4-(2-methoxyphenyl)-1-piperazinyl)butyl)-
+C009475	1,3-Diaminopropane
+C001886	2-Ethyl-8-methyl-2,8-diazaspiro(4,5)decane-1,3-dione
+C112180	
+C505764	
+C011006	
+D004224	
+D005415	
+C110174	
+C031345	Pipecolic acid
+C517985	
+C574037	2-(1-Hydroxy-4-oxo-cyclohexa-2,5-dienyl)-pyran-4-one
+C551536	
+C008539	
+C084634	
+C096442	
+C037404	
+C514526	1H-Indole-5-carboxamide
+C461979	
+C106125	
+D019394	
+C042785	
+C057345	
+D009842	
+C061009	
+D009605	N-Nitroso-N-methylurethane
+C015014	
+D059648	
+C423343	
+C570489	
+C506907	5-(5-(7-(Trifluoromethyl)quinolin-4-ylthio)pentyloxy)-2-(morpholinomethyl)-4H-pyran-4-one dihydrochloride
+C554438	
+C416927	(3z)-N,N-Dimethyl-2-Oxo-3-(4,5,6,7-Tetrahydro-1h-Indol-2-Ylmethylidene)-2,3-Dihydro-1h-Indole-5-Sulfonamide
+C000320	
+D011720	
+C036649	
+C093700	Thioflosulide
+C000519	
+C518289	
+C010247	co-Amilozide
+C016727	Sepiapterin
+C020495	
+C573921	Inauhzin
+C002904	
+C452799	
+C062985	Chlorin e6
+C557781	
+C025235	2,6-Diaminotoluene
+C518299	N-(1-benzylpiperidin-4-yl)-6,7-dimethoxy-2-(4-methyl-1,4-diazepan-1-yl)quinazolin-4-amine
+C040288	
+C575740	Gnetin C
+C079584	
+C103436	CID 9870539
+C402896	
+C000595259	
+C058636	Calcitonin gene-related peptide (8-37)
+C020889	Dihydrokainic acid
+C018353	
+C031462	TI6 AL4 V Alloy
+C098546	tert-Butyl ethyl ether
+C431129	Apadenoson
+C503394	{4-[({2-[3-Fluoro-4-(Trifluoromethyl)phenyl]-4-Methyl-1,3-Thiazol-5-Yl}methyl)sulfanyl]-2-Methylphenoxy}acetic Acid
+C511837	
+C458525	7-Oxo-7h-Benzimidazo[2,1-A]benz[de]isoquinoline-3-Carboxylic Acid
+C503964	5-[4-Phenyl-5-(trifluoromethyl)-2-thienyl]-3-[3-(trifluoromethyl)phenyl]-1,2,4-oxadiazole
+C577920	(S)-1-(sec-Butyl)-N-((4,6-dimethyl-2-oxo-1,2-dihydropyridin-3-yl)methyl)-3-methyl-6-(6-(piperazin-1-yl)pyridin-3-yl)-1H-indole-4-carboxamide
+C548270	
+C023599	Stannous chloride
+C478783	5-((7-(Benzyloxy)quinazolin-4-yl)amino)-4-fluoro-2-methylphenol
+C094626	
+C032533	
+C549098	
+C057618	Cirsilineol
+C454039	7-Chloro-2-[2-(diethylamino)phenyl]quinoline-5,8-dione
+C039289	6-Hydroxychlorzoxazone
+C114459	4-P-Pdot
+C586756	1613724-42-7
+C108024	Denim
+C550733	5'-O-[(4-Cyanophenyl)methyl]-8-[[(3,4-dichlorophenyl)methyl]amino]-adenosine
+C505165	
+C112485	Ginkgolic acid
+C516359	
+C469682	
+C570895	
+C033244	
+C498209	
+C078284	
+C074107	3-Methylsulfonyl-4-piperidinobenzoyl guanidine
+C476560	
+C081565	Aacocf3
+D010697	D & C Red no. 27
+C550547	6-chloro-2,3,4,9-tetrahydro-1H-carbazole-1-carboxamide
+C014607	
+D000501	DL-Allylglycine
+D004047	Diethyl pyrocarbonate
+C051942	1-Hexacosanol
+C050037	
+C018370	Pregnenolone sulfate
+C120143	Donitriptan hydrochloride
+D017942	Nitric Acid
+C013598	Methoxyacetic acid
+C038291	prostaglandin G2
+C504983	4-[[(2S)-2-(3-Chlorophenyl)-2-hydroxyethyl]amino]-3-[7-methyl-5-(4-morpholinyl)-1H-benzimidazol-2-yl]-2(1H)-pyridinone
+C058308	
+D002078	Butoxamine
+C500530	(2E)-N-(2,3-Dihydro-1,4-benzodioxin-6-yl)-3-[4-(1,1-dimethylethyl)phenyl]-2-propenamide
+C407689	6,7-Dimethyl-2-phenylquinoxaline
+C089809	
+C429612	
+C104183	CID 10458226
+C543999	
+D011335	Proadifen
+C542252	
+C418570	4-iodo-N-[4-methoxy-3-(4-methylpiperazin-1-yl)phenyl]benzenesulfonamide
+C036837	Docebenone
+C022190	
+C499102	
+C099145	
+D001067	
+C081159	
+D004880	Ergothioneine
+C074079	
+C001634	
+C013461	3-Sulfinoalanine
+C032473	Amosulalol hydrochloride
+C001388	6-Hydroxydopa
+C528492	
+C084904	4-[(E)-2-(7-heptoxy-4,4-dimethyl-1,1-dioxo-2,3-dihydrothiochromen-6-yl)prop-1-enyl]benzoic acid
+D010773	Leptophos
+C577558	
+D007783	Trioxsalen
+C586450	
+C055778	(3r)-8-[(2r,3s)-3-Heptyloxiran-2-yl]oct-1-ene-4,6-diyn-3-ol
+C114745	
+C473166	
+C520611	S-diclofenac
+C015959	Isosafrole
+C100800	
+C055433	
+D013875	Thiophanate-methyl
+D003871	Dermatan, 4-(hydrogen sulfate)
+C050474	Moxiraprine
+C073650	
+C426884	
+C545455	
+C008316	Maltol
+C410026	Pki-166
+C040295	
+C011506	2-Methyl-4-isothiazolin-3-one
+C571286	
+C481151	ginkgolide K
+C084607	
+C078131	Ilomastat
+D015064	16,16-dimethylprostaglandin E2
+C551241	
+C038369	
+C021255	
+C556358	
+C017774	Arfonad
+C017338	Geranylgeraniol
+C518710	6-Amino-1-[4-(3-methylbutanoyl)piperazin-1-yl]hexan-1-one
+C477694	2,2',4,4',5-Pentabromodiphenyl ether
+C447623	
+C071301	
+C503989	
+C437887	
+C508075	Pam3CSK4
+C555019	(E)-1-[(1S)-1-(4-Fluorophenyl)ethyl]-3-[3-methoxy-4-(4-methyl-1H-imidazol-1-YL)benzylidene]piperidin-2-one
+D046935	
+C511972	
+C024132	
+C042345	Hydrogen sulfite
+C099828	4beta-Hydroxycholesterol
+C049740	alpha-Pentyl-3-(2-quinolinylmethoxy)benzenemethanol
+D005989	
+C111521	
+C474615	Fexaramine
+C002267	N-Methylthiourea
+C550717	Nickel ferrite
+C487513	N6-[2-[5-(diethylamino)pentan-2-ylamino]-6-methyl-4-pyrimidinyl]-2-methylquinoline-4,6-diamine
+C483031	
+C521542	
+C095179	Zosuquidar Trihydrochloride
+C555529	
+C047382	Kamebakaurin
+C001933	
+C524513	
+C525422	N-(2-(3-(piperazin-1-ylmethyl)imidazo[2,1-b]thiazol-6-yl)phenyl)quinoxaline-2-carboxamide
+C000592345	
+C026608	Solasonine
+C000593977	4-[5-methyl-4-[(4-methylphenyl)sulfonylmethyl]-1,3-oxazol-2-yl]-N-(pyridin-3-ylmethyl)benzamide
+C403563	5Z-7-Oxozeaenol
+C044153	
+C479506	Piperlongumine
+C532275	Quinotrierixin
+C427228	
+C475339	
+C040449	Ufiprazole
+C097287	
+C542291	
+C500810	4-[(7-oxo-6H-pyrrolo[2,3-g][1,3]benzothiazol-8-ylidene)methylamino]-N-(2-pyridinyl)benzenesulfonamide
+C035157	
+D002049	Burimamide
+C102563	3-(3,4-Difluorophenyl)-4-(4-(methylsulfonyl)phenyl)-2(5H)-furanone
+C410588	
+C005073	Ethephon
+C026189	Caffeine citrate
+C018549	Gb3Cer
+C043372	Ascaridole
+C011423	Conduritol b epoxide
+C008252	Lapachol
+C017343	Glyceollin
+C050302	Nootkatone
+C047726	Quinelorane
+C047386	Desethylamodiaquine
+C041704	
+C032292	
+C119282	[4-[2-[4-[[(2S)-2-hydroxy-3-(2-methylphenoxy)propyl]azaniumyl]butoxy]-5-nitrophenyl]-5-methoxycarbonyl-6-methyl-2-(trifluoromethyl)-4H-pyridin-3-ylidene]-methoxymethanolate
+C005197	Alternariol
+C100187	Chloropicrin
+D010428	
+C543146	Timosaponin A-III
+C059966	
+C555257	
+C518874	4-(2,6-Dioxo-1-propyl-3,7-dihydropurin-8-yl)benzenesulfonic acid
+D001194	
+C530129	
+C400277	
+C507346	Amn082 dihydrochloride
+C517828	2,2',4,4',5,5'-Hexabromodiphenyl ether
+C495818	2-Morpholino-6-(thianthren-1-yl)-4H-pyran-4-one
+C541428	2-Methyl-4-(pyridin-3-ylethynyl)thiazole
+C110570	
+C087843	
+C003642	
+C465548	Bifendate
+C502407	
+C000597960	
+C067013	
+C017807	Bisbenzimide ethoxide trihydrochloride
+C558017	
+C585278	(E)-5-chloro-2-(2-(phenyl(pyridin-2-yl)methylene)hydrazinyl)pyridine
+C499599	
+C571029	
+C559957	
+C577639	
+C572619	
+C041694	
+C057536	
+D008719	Methiothepin
+C094461	
+C012764	(1S,3S,4S,6R,13S,15R,16S,19S,22E,26R,27S)-16-hydroxy-19-[(1S)-1-hydroxyethyl]-6,15,27-trimethylspiro[2,5,11,14,18,25-hexaoxahexacyclo[24.2.1.03,9.04,6.09,27.013,15]nonacosa-20,22-diene-28,2'-oxirane]-12,24-dione
+C027248	(-)-Bremazocine
+C455981	
+C016527	Isoquercitrin
+C034568	
+C070967	2-Ethyl-5,7-dimethyl-3-((4-(2-(2H-tetrazol-5-yl)phenyl)phenyl)methyl)imidazo(4,5-b)pyridine
+C078528	
+C015405	Balanol
+C110196	3,4-dimethoxy-N-(4-(3-nitrophenyl)thiazol-2-yl)benzenesulfonamide
+C519899	1-(5-Methoxy-2-thiophen-2-yl-quinazolin-4-ylamino)-3-methyl-pyrrole-2,5-dione
+C541773	
+C437972	
+C007950	
+D010578	
+C083060	
+C000599307	4-({[(4-Tert-Butylphenyl)sulfonyl]amino}methyl)-N-(Pyridin-3-Yl)benzamide
+C008555	
+C000597302	1-(5-(4-amino-7-methyl-7H-pyrrolo[2,3-d]pyrimidin-5-yl)-4-fluoroindolin-1-yl)-2-(6-methylpyridin-2-yl)ethanone
+C099630	3-((4-(4-Chlorophenyl)piperazin-1-yl)methyl)-1H-pyrrolo[2,3-b]pyridine
+C064877	
+C046680	
+C066069	
+C045902	
+C012521	
+C005134	Juglone
+C060894	L-Isoleucine, N-(1-(N-(N6-(N2-((phenylmethoxy)carbonyl)-L-arginyl)-N2-(N-(3-pyridinylcarbonyl)-L-tyrosyl)-L-lysyl)-L-histidyl)-L-prolyl)-
+C102487	Pachymic acid
+C496986	
+C044809	Trypanothione
+C094210	1,1-Bis(2-aminoethyl)-2-hydroxy-3-oxotriazane
+C541427	
+C467746	Propyl pyrazole triol
+C043388	Phthalazine
+C081676	
+C584311	Cgamp
+C117789	CPCCOEt
+C407002	Merimepodib
+C103272	(2S)-2-acetamido-N-[(3S,6S,13E)-14-[[(2S)-2-[[(2S)-2-[[(2R)-2-amino-3-naphthalen-2-ylpropanoyl]amino]-5-(diaminomethylideneamino)pentanoyl]amino]-3-(2,3-dihydro-1H-indol-3-yl)propanoyl]amino]-3-(4H-imidazol-4-ylmethyl)-2,5,8,15-tetraoxo-1,4,9-triazacyclopentadec-13-en-6-yl]hexanamide
+C477508	Jaceosidin
+C524112	Protoapigenone
+C504340	
+C422415	Farglitazar
+C517408	
+C466800	
+C427471	
+C101861	
+C413842	
+C122045	
+C115190	
+D011749	
+C117813	apicularen A
+C000589078	
+C402944	(2-Methyl-1-propyl-1H-indol-3-yl)-1-naphthalenylmethanone
+C014242	
+C402885	
+C041594	4-Nonylphenol
+C087374	((4-((2-((Bis(cyclohexylamino)methylene)amino)-3-(2-naphthyl)-1-oxopropyl)amino)phenyl)methyl)tributylphosphonium chloride monohydrochloride
+C487113	(2R)-2-(((3R)-3-(1,3-Benzodioxol-5-yl)-3-(((6-methoxy-2-naphthyl)sulfonyl)amino)propanoyl)amino)-3-(4-(((2R,6S)-2,6-dimethylpiperidinyl)methyl)phenyl)-N-isopropyl-N-methylpropanamide hydrochloride
+C085215	Nolpitantium chloride
+C502411	Maraviroc
+C083807	Bulbocapnine
+C557933	(S)-3-(4-((4'-(Trifluoromethyl)-[1,1'-biphenyl]-3-yl)methoxy)phenyl)hex-4-ynoic acid
+C569355	N-(adamantan-1-yl)quinoxaline-2-carboxamide
+C002738	1-Butyl-1-nitrosourea
+C402729	Tectochrysin
+D022243	
+C048220	Paxilline
+D016650	Fluorescein-5-isothiocyanate
+D014108	Tosylphenylalanyl chloromethyl ketone
+C112694	
+C492519	2,3-Bis(4-hydroxyphenyl)propionitrile
+C556241	Granotapide
+C406305	Olcegepant
+D008695	Methandriol
+C502077	
+C093067	
+C048349	3-(2-Furoyl)-5-methoxycarbonyl-2,6-dimethyl-4-(2-nitrophenyl)-1,4-dihydropyridine
+C117269	ethyl (2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-1-[(2S)-6-amino-2-[[(2S)-2,6-diaminohexyl]amino]hexanoyl]pyrrolidine-2-carbonyl]amino]-3-(1H-indol-3-yl)propanoyl]amino]-3,3-dimethylbutanoyl]amino]-4-methylpentanoate
+C038630	
+C118218	(1R,4R,5S,6R)-4-Amino-2-oxabicyclo[3.1.0]hexane-4,6-dicarboxylic acid
+C094360	
+C094023	(6-iodo-2-methyl-1-(2-morpholinoethyl)-1H-indol-3-yl)(4-methoxyphenyl)methanone
+D005857	Germanium
+C008182	
+C041550	N-Acetyl-N-formyl-5-methoxykynurenamine
+C502734	
+C035049	
+C015235	
+C520147	
+C060318	
+C062736	
+C575445	
+C532995	2-({4-[5-(3,4-diethoxyphenyl)-1,2,4-oxadiazol-3-yl]-2,3-dihydro-1H-inden-1-yl}amino)ethan-1-ol
+C006270	
+C523799	(1'R,4R,10'S)-2-(2,2,2-Trifluoroethyl)-5'-[(E)-3-[4-(trifluoromethyl)piperidin-1-yl]prop-1-enyl]spiro[1,2,5-thiadiazolidine-4,13'-tricyclo[8.2.1.03,8]trideca-3(8),4,6-triene] 1,1-dioxide
+C581086	
+C093896	Marinobufagenin
+C118297	
+C483402	
+C494351	
+C557982	
+C403132	Oseltamivir acid
+C086974	
+C122148	CID 9824507
+C065795	
+C104417	
+C055262	
+C510239	
+C041898	
+C433446	N-hydroxy-N'-(4-butyl-2-methylphenyl)formamidine
+D003839	
+C556690	(E)-N-((2-hydroxynaphthalen-1-yl)methylene)thiophene-2-sulfonamide
+C045358	
+C076966	Idrapril
+C115527	Sodium 2-((((4-chlorophenyl)sulfonyl)amino)methyl)-2,3-dihydro-1H-indene-5-acetate
+C095553	(3-{[3-(2-Amino-2-Oxoethyl)-1-Benzyl-2-Ethyl-1h-Indol-5-Yl]oxy}propyl)phosphonic Acid
+C576356	
+C405354	4,5,6,7-Tetrabromobenzotriazole
+C037850	1-(2-Chlorophenyl)-N-methyl-N-(1-methylpropyl)-3-isoquinolinecarboxamide
+C457771	
+C101589	
+D014468	
+C464444	Dehydroxymethylepoxyquinomicin
+C514422	
+C054487	Menthofuran
+D002793	
+C576663	
+C438269	4-(5,7,7,10,10-Pentamethyl-2-nitro-8,9-dihydronaphtho[2,3-b][1,5]benzodiazepin-12-yl)benzoic acid
+C055868	
+D002953	Citrinin
+C068314	Bromoenol lactone
+C549326	
+C559135	
+C046938	9,11-Octadecadienoic acid
+C025727	Sauvagine
+C411425	5-aminoisoquinolin-1(2H)-one
+C518547	
+C541384	1,4-Di[3-(3-isothiocyanatophenyl)thioureido]butane
+C427308	Z-Vdvad-fmk
+C584815	
+C055928	
+C015367	4-Hydroxy-4-methyltetrahydro-2H-pyran-2-one
+C545122	5-[3-[2-[3-Hydroxy-4-[3-(trifluoromethyl)phenyl]butyl]-5-oxopyrrolidin-1-yl]propyl]thiophene-2-carboxylate
+C023492	alpha-Methyldopamine
+C031291	Diphenyliodonium
+C053401	Kahweol
+C062078	Tetradecylthioacetic acid
+C086108	Clobenpropit
+C531572	
+C104182	4-(5,7,7,10,10-Pentamethyl-8,9-dihydronaphtho[2,3-b][1,4]benzodiazepin-13-yl)benzoic acid
+C586893	
+C516706	Dioscorealide B
+D055358	
+C530216	
+C008973	
+C091375	9-Phenanthrol
+D011144	
+C575024	
+C432252	
+C035316	
+C120508	3-Pyrrolidinecarboxylic acid, 4-(1,3-benzodioxol-5-yl)-1-(2-((2,6-diethylphenyl)amino)-2-oxoethyl)-2-(4-propoxyphenyl)-, (2R,3R,4S)-
+C090184	
+C492598	
+C495452	
+C003300	Usaramine
+C078792	
+C073601	9,12-Epoxy-1H-diindolo[1,2,3-fg:3',2',1'-kl]pyrrolo[3,4-i][1,6]benzodiazocine-10-carboxylic acid, 2,3,9,10,11,12-hexahydro-10-methoxy-2,9-dimethyl-1-oxo-, methyl ester, (9S,10R,12R)-
+C506967	Cenicriviroc
+C573865	
+C522837	
+C107875	N4-(3-bromophenyl)-N6-methylpyrido[3,4-d]pyrimidine-4,6-diamine
+D008044	Linuron
+C010402	
+C102044	
+C408693	
+C528106	
+C066444	Cocaethylene
+C013091	Lipoamide
+C063525	
+C013569	3-Hydroxyquinidine
+C568698	5-Methyl-4-[(1R,6R)-3-methyl-6-(1-methylethenyl)-2-cyclohexen-1-YL]-1,3-benzenediol
+C002802	
+C038405	12,13-Epoxy-3,4,7,15-tetrahydroxytrichothec-9-en-8-one
+C116174	Bisindolylmaleimide II
+C094148	Magnolin
+C008285	Linoleate hydroperoxide
+C088383	3-Methyl-5-(1-methyl-2-pyrrolidinyl)isoxazole
+C052714	Rhynchophylline
+C509292	F-amidine
+C017645	Aspartic acid
+C562147	
+C546918	
+C541823	
+C569670	Apitolisib
+C033769	
+C079179	
+C002839	
+C061481	Dibenzoylmethane
+D017572	Leukotriene A4
+C034503	
+D003895	
+C011185	
+C003329	
+C032815	
+C008288	
+C100185	Phytoene
+C444426	Splitomicin
+C063615	
+D004228	5,5'-Dithiobis(2-nitrobenzoic acid)
+C075646	
+C500065	1-Piperazinecarboxamide, 4-(3-(trifluoromethyl)-2-pyridinyl)-N-(5-(trifluoromethyl)-2-pyridinyl)-
+C476003	
+C000599293	
+C577039	
+C015426	
+C024293	3-(2-(3-t-Butylamino-2-hydroxy-propoxy)phenyl)-6-hydrazinopyridazine
+C072857	
+D009171	
+C095511	
+C568788	
+C436643	Chlorfenapyr
+C014575	
+C013280	3,3',4,4'-Tetrachloroazoxybenzene
+C017557	Trinickel disulphide
+C033437	4-Thiazolidinecarboxylic acid, 2-(2-hydroxyphenyl)-3-(3-mercapto-1-oxopropyl)-
+D019850	1-Heptanol
+C532363	(S)-5-(3-Fluorophenyl)-N-(piperidin-3-yl)-3-ureidothiophene-2-carboxamide
+D052246	
+D004004	5,6-Dichloro-1-beta-D-ribofuranosylbenzimidazole
+C108338	Cyprodinil
+C507582	Monotropein
+D011134	
+C121117	
+C508080	
+C094918	
+C488289	
+C030984	Pyrene
+C495860	N-(4-Chlorophenyl)-3-(phosphonooxy)naphthalene-2-carboxamide
+C017202	2,4-Diamino-6-hydroxypyrimidine
+C114556	Aprepitant
+C579844	
+C009560	Trigonelline
+D002070	
+C043585	Norbuprenorphine
+C028520	
+C000599768	
+C040155	Geranylgeranic acid
+C575292	
+C007956	DL-Homocysteic acid
+C109476	Epoxiconazol
+C488244	
+C047087	5-Carboxamidotryptamine
+C117757	Pyridine, 4-(4-fluorophenyl)-1,2,3,6-tetrahydro-1-(4-(1H-1,2,4-triazol-1-yl)butyl)-, 2-hydroxy-1,2,3-propanetricarboxylate (1:1)
+C024159	
+C443080	(2,3-Dihydrobenzo[b][1,4]dioxin-6-yl)(piperidin-1-yl)methanone
+C033286	
+C017725	stearoyl-CoA
+C063157	Methyl 4-(2-(2-hydroxy-2-(3-chlorophenyl)ethylamino)propyl)phenoxyacetate
+C038237	1-Oleoyl-2-acetyl-sn-glycerol
+C041269	Methylnaloxonium
+C086820	
+C558369	Antrocin
+C515220	
+C506838	
+C099158	Ac-DEVD-CHO
+C541311	
+C557978	
+C042983	Benzenethiol
+D008165	
+C100692	Oxamflatin
+C568283	
+D005372	Filimarisin
+C000590755	
+C001801	Mitragynine
+C500368	labedipinedilol A
+C024303	
+C532843	CID 73073981
+C549926	
+C531171	
+C418868	Carbamic acid, N,N-dimethyl-, 6-(1-naphthalenyl)pyrrolo(2,1-d)(1,5)benzoxazepin-7-yl ester
+C528574	Astressin 2B
+C009338	Succinic semialdehyde
+C511975	Purpurin
+C467828	
+C402823	CID 9801663
+D053331	
+C079315	Veliflapon
+C077992	Arctiin
+D013386	
+C434605	
+C506121	
+D011621	Pteridine
+C534401	
+C090166	
+D000670	Amprolio
+C579783	((4S,5R)-2-(4-(tert-Butyl)-2-ethoxyphenyl)-4,5-bis(4-chlorophenyl)-4,5-dimethyl-4,5-dihydro-1H-imidazol-1-yl)(4-(3-(methylsulfonyl)propyl)piperazin-1-yl)methanone
+C102118	
+C026785	5-Hydroxyindole
+C470036	
+C430985	Mumbaistatin
+D003903	Deuterium hydride
+C505241	5-(2-Phenylpyrazolo[1,5-A]pyridin-3-YL)-1H-pyrazolo[3,4-C]pyridazin-3-amine
+C410128	11,12-dihydroxy-5Z,8Z,14Z-eicosatrienoic acid
+C033595	n-Oleoylethanolamine
+C587059	
+C586265	1-isopropyl-N-((6-methyl-2-oxo-4-propyl-1,2-dihydropyridin-3-yl)methyl)-6-(2-(4-methylpiperazin-1-yl)pyridin-4-yl)-1H-indazole-4-carboxamide
+C001040	
+C111148	Nocistatin
+C088674	Dibromoacetic acid
+C053327	Azoxyethane
+C405744	
+C479067	3-amino-10H-acridine-9-thione
+C054895	Manassantin A
+C057912	Isoorientin
+C477524	
+C407027	
+C121329	Sanglifehrin A
+C007175	alpha-Cyano-4-hydroxycinnamic acid
+C073993	
+C057383	Z-FA-Fmk
+D045728	
+C098860	
+C404987	
+C560328	Sulfoxaflor
+C472645	Blebbistatin
+C509673	
+C091148	
+C473212	Minalrestat
+C530956	Unii-63P7W7886U
+C084012	1,1-Diethyl-2-hydroxy-2-nitrosohydrazine
+C520468	
+C547688	3-[[6-(3-Aminophenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-yl]oxy]phenol
+C038776	
+C497982	
+C055436	
+C067834	
+C540006	
+C114226	
+C020796	N-Propyl-N-nitrosourea
+C559121	
+C044312	
+C049772	Isovitexin
+C451426	Fenhexamid
+C012641	
+D001373	Azacosterol
+C530692	Cysmethynil
+C092660	
+C569751	CID 16114404
+C042390	3-(2-aminopropyl)-1H-indol-5-ol
+C077749	
+C040364	
+C529376	Morpholine (4-methoxyphenyl)(morpholino)phosphinodithioate
+C046285	(3r)-3-Hydroxy-5-{[(R)-Hydroxy(Phosphonooxy)phosphoryl]oxy}-3-Methylpentanoic Acid
+C469298	methyl (15R,16R,18R)-16-hydroxy-15-methyl-3-oxo-10,23-bis(propan-2-ylsulfanylmethyl)-28-oxa-4,14,19-triazaoctacyclo[12.11.2.115,18.02,6.07,27.08,13.019,26.020,25]octacosa-1,6,8(13),9,11,20(25),21,23,26-nonaene-16-carboxylate
+C078098	ar-Turmerone
+C009347	
+C580599	
+D009005	
+C000600307	
+C054207	Etomoxir
+D015092	
+C001215	
+D002865	
+C044463	
+C106656	
+C405268	
+C055370	Lactofen
+C118980	Antileukinate
+C521561	
+C480541	Pha-665752
+C097356	
+C037513	
+C013622	N-Nitrosobis(2-oxopropyl)amine
+C116322	4-(Benzhydryloxy)-1-[3-(1H-tetraazol-5-YL)propyl]piperidine
+C578860	
+C057360	5-(N,N-Hexamethylene)amiloride
+C524106	trans-AUCB
+C050316	
+C083346	
+C105351	2-[2-Azaniumylethyl-[hydroxy(nitroso)amino]amino]ethylazanium
+C075799	6-[[3-Fluoro-5-(4-methoxyoxan-4-yl)phenoxy]methyl]-1-methylquinolin-2-one
+C553178	
+C110630	(1S-endo)-5-(4-Chloro-3-methylphenyl)-1-((4-methylphenyl)methyl)-N-(1,3,3-trimethylbicyclo(2.2.1)hept-2-yl)-1H-pyrazole-3-carboxamide
+C032915	
+C573150	
+D019327	Cupric Sulfate
+D004220	Disulfane
+C478108	
+C069304	
+C002950	N-Methylformamide
+C006104	1-Propanone, 1-(3,4-dihydroxyphenyl)-2-methyl-
+C106195	(2E,4E,6Z,8E)-3-Methyl-7-(p-tolyl)-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraenoic acid
+C063769	9-Hydroxy-9-methoxycarbonyl-8-methyl-14-n-propoxy-2,3,9,10-tetrahydro-8,11-epoxy-1H,8H,11H-2,7b,11a-triazadibenzo(a,g)cycloocta(cde)trinden-1-one
+C101419	
+C104949	
+C091347	
+C086910	2-(4-((1-Acetimidoyl-3-pyrrolidinyl)oxy)phenyl)-3-(7-amidino-2-naphthyl)propanoic acid hydrocloride pentahydrate
+C479887	
+C100279	Carudol
+C576808	Voxtalisib
+C111219	
+C030076	
+C070366	
+C031436	
+C004656	Chloroacetaldehyde
+C114701	
+C040051	
+C110631	
+C020852	
+C528454	
+C550670	N'-(1-Hexyl-2-oxoindolin-3-ylidene)benzohydrazide
+C119745	
+C411319	
+C085754	5-(dimethylamino)-N-(3,4-dimethyl-5-isoxazolyl)-1-naphthalenesulfonamide
+C117903	
+C519238	
+C541863	Camicinal
+C519132	2-(4-(benzo[d][1,3]dioxol-5-yl)-2-tert-butyl-1H-imidazol-5-yl)-6-methylpyridine
+C114438	Cyanidin 3-O-glucoside
+C059816	
+C550550	
+C063998	Nodularin R
+C110390	
+C109925	1-(2,4-Dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-4-morpholinyl-1H-pyrazole-3-carboxamide
+C575621	
+C586693	
+C508227	Bavachalcone
+C486469	(S,S)-2-{1-Carboxy-2-[3-(3,5-dichloro-benzyl)-3H-imidazol-4-YL]-ethylamino}-4-methyl-pentanoic acid
+C015950	Indole-3-acetamide
+C034734	Schizandrin A
+C009850	Azobenzene
+D014289	Trimedoxime bromide
+C000188	Alachlor
+C431566	
+C573308	2-methyl-1-(3-morpholin-4-ylpropyl)-5-phenyl-N-[3-(trifluoromethyl)phenyl]pyrrole-3-carboxamide
+C542397	
+C017182	
+C057280	
+C058297	pFHHSiD
+C478479	Met Kinase Inhibitor
+C521813	
+C488250	n-Oleoylethanolamine
+C036559	
+C000594309	(E)-N'-(1-(5-chloro-2-hydroxyphenyl)ethylidene)-3-(morpholinosulfonyl)benzohydrazide
+C509840	
+C107761	
+C475158	
+C082792	
+C081021	Go-6976
+C081020	Tyrphostin AG 879
+D000515	
+C559144	
+C015485	
+C416043	CID 11310070
+C572413	
+C020740	Chalepensin
+C092449	
+C068090	N(1)Gly-DL-Phe-DL-xiIle-Gly-DL-Trp-Gly-DL-Asn-DL-Asp(1)-DL-xiIle-DL-Phe-Gly-DL-Ala(imidazol-2-yl)-DL-Tyr-DL-Ser-Gly-DL-Asp-DL-Phe-OH
+C088446	
+C048491	Butaprost
+C041784	
+C080095	Liensinine
+D005291	N-[3-[5,8-bis[3-[acetyl(hydroxy)amino]propyl]-3,6,9,12,15,18-hexaoxo-1,4,7,10,13,16-hexazacyclooctadec-2-yl]propyl]-N-hydroxyacetamide
+C109643	4-[(1R,2S)-3-(4-benzylpiperidin-1-yl)-1-hydroxy-2-methylpropyl]phenol
+C510621	benzyl N-[(2S)-1-[(3-bromo-4,5-dihydro-1,2-oxazol-5-yl)methylamino]-3-(4-hydroxyphenyl)-1-oxopropan-2-yl]carbamate
+C054836	
+D008356	D-Mannoheptulose
+C474316	Tubacin
+C067527	Aluminum maltolate
+C105999	
+D001542	Benomyl
+C569745	
+C031938	Calmidazolium chloride
+C080444	
+C108927	
+C084378	
+C048042	
+C438583	[4-[4-[(Z)-C-(4-bromophenyl)-N-ethoxy-carbonimidoyl]-1-piperidyl]-4-methyl-1-piperidyl]-(2,4-dimethyl-1-oxido-pyridin-1-ium-3-yl)methanone
+C578195	
+C431074	Ferruginol
+C063076	
+C502480	4-oxo-4H-chromene-2-carbaldehyde
+C092152	
+C581039	Gandotinib
+C490707	Reparixin
+C022229	
+C548770	
+C069156	Temocaprilat
+C051602	Mifobate
+C107820	6-Chloro-5-methyl-1-((2-(2-methylpyrid-3-yloxy)pyrid-5-yl)carbamoyl)indoline
+D009256	Nafoxidine
+C093701	
+C097270	4-(2-((7-Amino-2-(furan-2-yl)-[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino)ethyl)phenol
+C067744	N-gamma-Glutamylcysteine ethyl ester
+D011763	
+C533780	
+C081980	
+C516714	5-chloro-N4-(2-(isopropylsulfonyl)phenyl)-N2-(2-methoxy-4-(4-(4-methylpiperazin-1-yl)piperidin-1-yl)phenyl)pyrimidine-2,4-diamine
+C555437	
+C497448	1-(2-(5-(2-Methoxyethoxy)benzimidazol-1-yl)quinolin-8-yl)piperidin-4-ylamine
+C544594	
+C488186	
+C558674	
+C511440	
+C422363	
+C066430	3-Aminopropyl(diethoxymethyl)phosphinic acid
+C115774	8-Hydroxy-2-methylquinazolin-4(3H)-one
+C401104	Indoxacarb
+D009838	
+C532366	PF-477736
+D009002	Methylhydrazine
+C009571	
+C049176	
+C504662	N-(4-{[(6s)-2-(Hydroxymethyl)-4-Oxo-4,6,7,8-Tetrahydro-1h-Cyclopenta[g]quinazolin-6-Yl](Prop-2-Yn-1-Yl)amino}benzoyl)-L-Gamma-Glutamyl-D-Glutamic Acid
+C089777	
+C583934	
+C502467	Cnidiadin
+C035229	Laurocapram
+C032627	
+C431913	
+C495479	7-Phenyl-1-[5-(pyridin-2-yl)-1,3-oxazol-2-yl]heptan-1-one
+C108953	Platycodin D
+C055753	
+C533861	
+C107044	3-alpha-Tropanyl-(2-Cl)-acid phenoxybutyrate
+C021183	Paraxanthine
+C070066	2-(1,2,3,4-Tetrahydroxybutyl)thiazolidine-4-carboxylic acid
+C571149	
+C446685	Myclobutanil
+C059101	
+C058176	5-Nitro-2-(3-phenylpropylamino)benzoic acid
+C099069	Astilbin
+C066074	
+C561773	
+C067411	2,2-Dichloro-1,1,1-trifluoroethane
+C032663	Lilly 53857
+C476981	
+D000738	Androsterone
+C545053	
+C576953	
+C442830	
+C099167	
+C461399	Ono-AE1-329
+C410029	4-[2-[4-[(E)-3-ethoxyprop-1-enyl]phenyl]-4-[4-(propan-2-ylamino)phenyl]-1H-imidazol-5-yl]-N-propan-2-ylaniline
+C530962	
+C477170	
+C414368	
+C455219	N-Acetylcochinol-O-phosphate
+C081893	
+C105492	
+C066059	
+D056572	(S)-6-acetamido-2-(2-((S)-2-acetamido-4-methylpentanamido)acetamido)-N-(4-methyl-2-oxo-2H-chromen-7-yl)hexanamide
+C000597294	
+C077864	
+C020174	2-((3-Aminopropyl)amino)ethanethiol
+C501976	
+D007334	
+C028787	N-Desmethyltamoxifen
+C571190	
+C052932	Exifone
+C020619	2-Aminoethyl hydrogen sulfate
+C511689	Yqi4gcr8ST
+C574019	
+C412815	(E)-3-(2-chloro-4-((3-(2,6-dichlorophenyl)-5-isopropylisoxazol-4-yl)methoxy)styryl)benzoic acid
+C000820	
+D044950	
+C008577	Myricitrin
+C437952	
+C440633	
+C061896	
+C038541	
+C429504	
+C018637	Phorone
+C523012	
+C013585	
+C489032	
+C058618	
+C000599359	
+C526063	11beta-[4-(Dimethylamino)phenyl]-17-hydroxy-17alpha-(4-mesylphenylethynyl)estra-4,9-diene-3-one
+C090979	
+C509465	
+C010774	
+C009462	Thioflavin T
+C076197	
+C503840	Dieckol
+C410961	
+C570781	
+C557984	
+C091630	
+C402107	2-(Phosphonomethyl)pentanedioic acid
+C052520	
+C016222	
+C034730	N-Dodecyl-N,N-dimethyl-3-ammonio-1-propanesulfonate
+C121825	3-(dimethylamino)-N-(3-(4-hydroxybenzamido)-4-methylphenyl)benzamide
+D064800	
+C010223	N6-Methyladenosine
+C508437	
+C067171	
+C026718	Physostigmine salicylate
+C513723	
+C569291	3-(1-Benzothiophen-2-yl)-4-bromo-2-hydroxy-2H-furan-5-one
+C098172	
+C117559	
+C533035	
+C459379	N-(3,5-Dichloro-1-oxido-4-pyridinyl)-8-methoxy-2-(trifluoromethyl)-5-quinoline carboxamide
+C009063	Propionylthiocholine
+C438584	
+C509950	
+C010960	
+C487479	
+C068518	
+C000592365	
+C557530	
+C545501	Int-777
+C513340	
+C095631	Nitroflurbiprofen
+C104498	
+C551788	2-Propylthiazolo[4,5-c]quinolin-4-amine
+C075066	
+C075064	
+C428117	CID 9822753
+C000592914	
+D014214	
+C483680	
+C419869	
+C532739	
+C423264	Ladostigil
+C403753	Z-IETD-fmk
+C076427	
+C019448	Kyotorphin
+D010070	Oxalate
+C060299	Hinokiflavone
+C550460	
+C040516	
+C090686	4b,5,9b,10-Tetrahydroindeno[1,2-b]indole
+C578518	
+C088139	
+C000589254	
+D004024	Dicyclohexylcarbodiimide
+C109268	Darbufelone mesylate
+C508777	
+C049719	
+C516995	
+C101968	
+C051273	Bazinaprine
+C097398	4-iodo-1-benzothiophene-2-carboxiMidaMide hydrochloride
+D000645	Ammonium Sulfate
+C100442	3-(4-Iodophenyl)-2-mercapto-(Z)-2-propenoic acid
+C530469	
+C107674	1H-Imidazole-2-methanethiol
+C060487	
+D011069	
+C063823	1-[5-Ethyl-2-hydroxy-4-[[6-methyl-6-(1H-tetrazol-5-YL)heptyl]oxy]phenyl]ethanone
+C525086	[(E)-[5-chloro-1-[(2,5-dichlorophenyl)methyl]-2-oxoindol-3-ylidene]amino] acetate
+C578200	
+C040811	
+D014269	Trifluoroacetic acid
+C038657	
+C073010	
+C517420	
+C081455	
+C542588	
+C411871	
+C015590	
+C077100	
+C062344	
+C045329	
+C526095	
+C083320	
+C406084	
+C011083	
+C541506	tert-Butyl 3-((3S,6S,12aS)-6-isobutyl-9-methoxy-1,4-dioxo-1,2,3,4,6,7,12,12a-octahydropyrazino[1',2':1,6]pyrido[3,4-b]indol-3-yl)propanoate
+C561322	sparstolonin B
+C034557	Schizandrer A
+C030275	
+C026980	
+C039158	
+C090365	
+C047867	
+C501587	
+C476308	N-[4-[3,5-bis(trifluoromethyl)pyrazol-1-yl]phenyl]-4-methylthiadiazole-5-carboxamide
+C046196	Atractylon
+C102914	
+C544076	
+C056933	Macrofusine
+C079014	(3S)-4-[(2S)-2-[[(2S)-4-amino-1-[[(2S)-6-amino-1-[[(2S)-1-[[(2S)-1-[(5S)-7-[(2R)-1-[[(2S)-1-amino-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]-6-oxo-1,7-diazaspiro[4.4]nonan-1-yl]-3-(4-hydroxyphenyl)-1-oxopropan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-1-oxohexan-2-yl]amino]-1,4-dioxobutan-2-yl]carbamoyl]pyrrolidin-1-yl]-4-oxo-3-[[(2S)-2-[[(2S)-5-oxopyrrolidine-2-carbonyl]amino]propanoyl]amino]butanoic acid
+C079021	
+C113617	
+D011799	Quinazoline
+C009958	
+C096064	Actein
+C075570	
+D015762	2-Chloroadenosine
+C072348	
+C477084	
+C560183	
+C118733	
+C066278	
+C542465	KAAD-Cyclopamine
+C487845	
+C478102	Prinaberel
+C109343	N-acetylsphinganine
+C542662	3-Ethyl-2-[3-(1,3,3-trimethylindol-2-ylidene)prop-1-enyl]-1,3-benzothiazol-3-ium;iodide
+D003489	
+C000600257	
+C548781	
+C041445	
+C524394	
+C077911	
+C060661	
+C584201	
+C477729	
+C494044	
+C112778	
+D009844	
+C540298	
+C067818	
+C558003	
+C009744	
+C051950	1-Chloro-2-methylpropene
+C058000	Mofegiline
+C436544	
+C518969	
+C515631	
+C007183	Drofenine
+C079163	Quercetagetin
+C016300	Chloramine-T
+C548961	
+C468850	
+C069723	Iometopane
+C010452	17beta-Estradiol benzoate
+C515085	
+C035331	Octhilinone
+C435918	
+C012986	Furfuryl alcohol
+C493642	
+C064758	bisindolylmaleimide IX
+C076145	Benzamide riboside
+C403585	
+C556217	Polyphyllin I
+C031599	2-(Hexadecanoyloxy)-1-[(phosphonooxy)methyl]ethyl hexadecanoate
+C086566	Glycitein
+C042899	
+C541932	(5-(2-((2R,6S)-2,6-dimethylmorpholino)-4-morpholinopyrido[2,3-d]pyrimidin-7-yl)-2-methoxyphenyl)methanol
+C070102	
+C558664	O-Benzylfluorescein benzyl ester
+C106012	
+C532666	2-(3,5-Dichlorophenyl)-1,3-thiazolidine-4,5-dione
+C070274	
+C000599753	
+C020228	
+C547876	
+C059234	
+C014163	Precocene II
+C527262	
+C512715	8-Hydroxy-7-(6-sulfo-naphthalen-2-ylazo)-quinoline-5-sulfonic acid
+C059668	
+C008542	Dansylcadaverine
+C524135	5-(5,6-Dimethoxy-1-benzimidazolyl)-3-[[2-(trifluoromethyl)phenyl]methoxy]-2-thiophenecarboxamide
+C121834	
+D034341	Aristolochic acids
+D001278	Atractyloside
+C485396	
+C002647	Inositol 1-phosphate
+C569272	
+C017937	
+C441128	Trodusquemine
+C476103	
+C051445	
+C558924	
+C092396	17-phenyl-omega-trinor-PGE2
+C120556	
+C026820	
+C459359	
+C049054	
+C577050	
+C119389	Indoxam
+C028625	8,9-dichloro-2,3,4,5-tetrahydro-1H-2-benzazepine
+C428303	
+C071482	Calpeptin
+C052502	
+C048393	Germacrone
+C477224	Erastin
+C033011	
+C071317	Foropafant
+C093897	
+C005715	
+C000599896	(S)-N-(3-(3,4-Dihydroisoquinolin-2(1H)-yl)-2-hydroxypropyl)-6-(oxetan-3-ylamino)pyrimidine-4-carboxamide
+C042728	
+C404397	Adaphostin
+C032311	Aluminum fluoride
+C034832	13,14-Dihydro-15-keto-pgd2
+C032739	3-Chlorobiphenyl
+C033651	
+C487873	
+C553194	4-(2,6-difluoro-4-(3-(1-(piperidin-4-yl)-1H-pyrazol-4-yl)quinoxalin-5-yl)benzyl)morpholine
+C069764	
+C072523	
+C531022	
+C121568	
+D001974	N-Bromosuccinimide
+D000476	
+C525002	
+C417572	Scopolin
+C000693	Salicyluric acid
+C105593	(2r,4ar,6r,7r,7as)-6-(6-Amino-8-Bromo-9h-Purin-9-Yl)tetrahydro-4h-Furo[3,2-D][1,3,2]dioxaphosphinine-2,7-Diol 2-Sulfide
+C093905	
+C517880	Monascin
+D010636	
+C030741	
+C503639	N-Phthalyl-L-tryptophan
+C013279	3,3',4,4'-Tetrachloroazobenzene
+C040507	Isobutanol
+C419152	
+C083010	
+C046808	N-Benzyladriamycin-14-valerate
+C504940	
+C035988	Sumisclex
+C093321	
+C466795	20,21-Epoxyresibufogenin-3-formate
+C498104	
+D020719	Retinoyl beta-glucuronide
+C061164	
+C522865	N-tert-butyl-3-[(5-methyl-2-{[4-(4-methylpiperazin-1-yl)phenyl]amino}pyrimidin-4-yl)amino]benzenesulfonamide
+C107562	Chloro-IB-MECA
+C004717	2,3-Butanedione monoxime
+C061532	(6aS,12bR)-5,6,6a,7,8,12b-hexahydrobenzo[a]phenanthridine-10,11-diol
+C106835	
+C119405	
+C520740	
+C551246	
+C543497	
+C085312	
+C109574	
+C068327	Diallyl sulfone
+C522130	
+C087205	p-MPPI
+C478485	
+C027285	Heptelidic acid
+C101298	
+C070055	2,3',4,4',5-Pentachlorobiphenyl
+C504222	
+C046498	Potassium O-(octahydro-4,7-methano-1H-inden-5-yl) dithiocarbonate
+C071162	
+C548779	CFTR Inhibitor II, GlyH-101
+C434650	
+D026261	
+D020032	
+C577220	
+C031926	Montirelin
+C011353	
+C465623	N-arachidonoylglycine
+C069701	2,6-Diamino-N-((1-(oxotridecyl)-2-piperidinyl)methyl)hexanamide
+C524408	
+C038080	
+C512273	Diphenyl acetamidotrichloroethyl fluoronitrophenyl thiourea
+C485383	7,8-Dihydroxyflavone
+C009196	Safrole oxide
+D005031	Ethylene thiourea
+C523780	
+C069438	
+C476218	
+C115393	
+C115122	
+C066421	
+C568037	
+C431907	(2S)-5-(diaminomethylideneamino)-2-[[2-(2,2-diphenylethoxy)acetyl]amino]pentanoic acid
+C533206	(Z)-3-(((3-((dimethylamino)methyl)phenyl)amino)(phenyl)methylene)-2-oxoindoline-6-carboxamide
+C046062	Mercaptosuccinic acid
+C021294	Cilostamide
+C534971	
+C034052	
+C532254	2-cyclopentyl-4-(5-phenyl-1H-pyrrolo[2,3-b]pyridin-3-yl)benzoic acid
+C057651	
+C090860	Rp-8-pCPT-cGMPS
+C553926	5-Amino-7-(cyclohexylamino)-1-ethyl-6-fluoro-4-oxo-1,4-dihydroquinoline-3-carboxylic acid
+C045652	
+C006495	Aminoacetone hydrochloride
+C065776	(2R,5S)-3,5-Dimethyl-2-pyridin-3-yl-1,3-thiazolidin-4-one;hydrochloride
+D015115	5,6-Dihydroxytryptamine
+C004848	Toluene-3,4-dithiol
+C031803	
+C049714	
+C079791	
+C516622	
+C076070	Cocaine methiodide
+C094365	
+C045501	
+C019012	Methyl palmitate
+D011411	Propanil
+C104416	Astressin
+C020271	
+C085298	
+C111531	
+C548830	Nodosin
+D007524	
+C571881	
+C064507	Benzenesulfonamide, 4-(((6-hydroxy-4,5,7-trimethyl-2-benzothiazolyl)amino)methyl)-, monohydrochloride
+C489017	
+C556960	
+C502354	(3beta,5beta,9beta)-3-(Acetyloxy)cholan-24-Oic Acid
+C433985	SU9516
+C579037	
+C000600091	
+D010742	
+C475430	
+C032284	Fructose-1-phosphate
+C005691	Sodium silicate
+C497192	Cacalol
+C043857	(3-Nitrophenyl) piperidine-3-carboxylate
+C120440	
+C100920	
+D000093	Acetoin
+C502576	
+C506969	
+C060048	2-(4-Amylcinnamoyl)amino-4-chlorobenzoic acid
+C553744	
+C548172	L-Tyrosine, O-((5-amino-2-phenyl-7-benzoxazolyl)methyl)-3,5-dichloro-
+C056319	
+C004912	Ethylbenzene
+C011864	Glutamic acid, N-(p-(((2,4-diamino-7-hydroxy-6-pteridinyl)methyl)methylamino)benzoyl)-
+D008999	Monocrotophos
+C062558	
+C040594	
+C071909	Acetamide, 2-(4-(2-((2-hydroxy-3-phenoxypropyl)amino)ethoxy)phenoxy)-N-(2-methoxyethyl)-, (S)-
+C540004	Turofexorate isopropyl
+C508480	
+C006326	Fluprostenol
+D004072	Digitonin
+C568326	
+C470666	
+C434734	
+C097285	N-(((2S)-1-Butylpyrrolidin-2-yl)methyl)-4-cyano-1-methoxy-2-naphthamide
+C076954	
+C588093	
+C000593135	
+C575097	2-((R)-8-(3,5-Difluorophenyl)-8-methyl-10-oxo-6,9-diazaspiro[4.5]decan-9-yl)-N-((S)-2'-oxo-1',2',5,7-tetrahydrospiro[cyclopenta[b]pyridine-6,3'-pyrrolo[2,3-b]pyridin]-3-yl)acetamide
+C548196	
+C523964	3-Iodo-L-tyrosine
+C016775	alpha-TERPINEOL
+C007293	4',6-Diamidino-2-phenylindole
+C072977	
+C579118	
+C526428	
+C419770	Tyrphostin AG 538
+C011867	2-(4-Hydroxyphenyl)ethanol
+C550385	
+D012313	
+C069157	
+C047368	Isorhamnetin
+C025643	Vinclozolin
+C402725	Benzamide, N-(aminoiminomethyl)-4-(4-(2-furanylcarbonyl)-1-piperazinyl)-3-(methylsulfonyl)-, methanesulfonate (1:1)
+C483406	
+C061014	
+D012676	Sennoside A
+C459092	(S)-2-Methyl-1-[(4-methyl-5-isoquinoline)sulfonyl]-homopiperazine
+C049836	
+C077641	
+C034613	Triacsin c
+D006898	
+C028456	
+C000597431	
+C078206	8-Oxo-dgtp
+C009365	Surfactin
+C008642	4-Nitrophenyl acetate
+C495287	
+C059114	
+C083295	Prunetin
+D006512	
+C032731	Vitexin
+C554645	2-[(4s)-6-(4-Chlorophenyl)-8-Methoxy-1-Methyl-4h-[1,2,4]triazolo[4,3-A][1,4]benzodiazepin-4-Yl]-N-Ethylacetamide
+C070070	Diadenosine hexaphosphate
+C010161	10-Formyltetrahydropteroylglutamic acid
+C504035	(2s)-1-(1h-Indol-3-Yl)-3-{[5-(3-Methyl-1h-Indazol-5-Yl)pyridin-3-Yl]oxy}propan-2-Amine
+C004282	
+C012210	
+C444459	
+C009093	Protopine
+C085640	
+C545681	
+C090216	
+C555534	
+C099118	
+C425286	
+C009618	Chlorpyrifos oxon
+C484309	1-[(5-chloro-1H-indol-2-yl)carbonyl]-4-methylpiperazine
+C517150	
+C529396	
+C010654	(2-(2',6'-Dimethoxy)phenoxyethylamino)methylbenzo-1,4-dioxane
+C027512	
+C036625	
+C574930	MI-219 free base
+C050383	
+C040038	
+C543768	
+C053914	Cyclosarin
+C507011	3-(6-methylpyridin-2-yl)-N-phenyl-4-(quinolin-4-yl)-1H-pyrazole-1-carbothioamide
+C401311	N-(2-(Methoxycarbonyl)phenyl]-O-[2-(5-methyl-2-phenyl-4-oxazolyl)ethyl)-L-tyrosine
+C073896	
+D036381	
+C470893	Purmorphamine
+C512995	
+C530602	N-[(2S)-1-[4-[(2S)-2-[(2,4-dichlorophenyl)sulfonylamino]-3-hydroxypropanoyl]piperazin-1-yl]-4-methyl-1-oxopentan-2-yl]-1-benzothiophene-2-carboxamide
+C501835	Cyclohexyl biphenyl-3-ylcarbamate
+C001522	Laudanosine
+C112020	
+C110804	
+C557405	
+C569499	
+C509735	
+D019269	Phosphatidylinositol 4,5-diphosphate
+C515724	Pegnivacogin
+C110733	(RS)-3,4-Dicarboxyphenylglycine
+C052134	
+C485828	
+C002569	
+C120393	
+C546599	Tetrasodium;[2-[[3-[[3-[[3-[[5-[[2,4-bis[[hydroxy(oxido)phosphoryl]methyl]phenyl]carbamoyl]-2-methylphenyl]carbamoyl]phenyl]carbamoylamino]benzoyl]amino]-4-methylbenzoyl]amino]-5-[[hydroxy(oxido)phosphoryl]methyl]phenyl]methyl-hydroxyphosphinate
+C523499	Pentacene
+C076628	
+C000875	
+C010753	Narciclasine
+C049554	
+C078949	N(2)-(4-Hydroxy-1-(1-methyl-1H-indol-3-yl)carbonyl-L-prolyl)-N-methyl-N-phenylmethyl-3-(2-naphthyl)-L-alaninamide
+C479693	
+C006312	7-[3-(4-Acetyl-3-hydroxy-2-propylphenoxy)-2-hydroxypropoxy]-4-oxo-8-propylchromene-2-carboxylic acid
+C549545	
+C006446	Aldophosphamide
+C553183	
+C061951	
+C500809	2'-Hydroxy-4,4',6'-trimethoxychalcone
+C000121	Pipoxolan hydrochloride
+C003181	
+C007999	Hydroxycitric acid
+C060660	
+C487484	1-Piperazinecarboxamide, 4-methyl-N-((1S)-2-oxo-2-(((1S)-1-(2-phenylethyl)-3-(phenylsulfonyl)-2-propenyl)amino)-1-(phenylmethyl)ethyl)-
+C113797	
+C054091	
+D000166	Acridine
+C581344	
+C000592924	
+C005734	Resibufogenin
+C502851	Quinocetone
+C108959	3-Hydroxyglutaric acid
+C462530	
+C046252	
+C118331	
+C015332	
+C492995	Fumigaclavine C
+C413586	5-Methoxycarbonylamino-N-acetyltryptamine
+C006963	(3S,9S,12R)-3-benzyl-6,6-dimethyl-9-[6-[(2S)-oxiran-2-yl]-6-oxohexyl]-1,4,7,10-tetrazabicyclo[10.3.0]pentadecane-2,5,8,11-tetrone
+C575425	
+C476929	
+C523871	
+C085131	FR 122047 hydrochloride
+D013860	2-(Trimethylammonium)ethyl thiol
+C556094	Kribb11
+C497343	
+C025763	
+C000590651	
+C489253	
+C010905	
+C065499	
+C041161	
+C104820	N-(3-(Aminomethyl)benzyl)acetamidine
+C569036	
+C510888	
+C019552	3,3-diethyl-1H-pyridine-2,4-dione;1,5-dimethyl-2-phenyl-4-propan-2-ylpyrazol-3-one;N-(4-ethoxyphenyl)acetamide;1,3,7-trimethylpurine-2,6-dione
+D006846	
+C007430	3,4-Dihydroxyphenylacetaldehyde
+C507624	
+C066736	
+C487764	
+C465023	
+C509927	4-(4-(3-(pyridin-2-yl)-1H-pyrazol-4-yl)pyridin-2-yl)-N-(tetrahydro-2H-pyran-4-yl)benzamide
+C000596339	
+C000600963	
+C468773	GW4869 dihydrochloride
+C086394	5-S-glutathionyldopamine
+C030692	5,6-Dihydroxy-1H-indole-2-carboxylic acid
+C548902	Flll32
+C087261	
+C000596469	
+C000597454	
+C411671	1-((2-chlorophenyl)diphenylmethyl)-1H-pyrazole
+C560625	n-(2-(1h-Indol-3-yl)ethyl)-9-isopropyl-2-(5-methylpyridin-3-yl)-9h-purin-6-amine
+C493272	[4-[(4,9-dioxobenzo[f][1,3]benzothiazol-2-yl)amino]phenyl] (2S)-2-(methoxycarbonylamino)-4-methylsulfanylbutanoate
+C072026	Kistrin
+C061756	
+C506244	
+C416282	(E)-3-(4-tert-butylphenylsulfonyl)acrylonitrile
+C445260	
+C077079	
+C066061	
+C034786	Bisdemethoxycurcumin
+C011080	
+C082887	Ac-(5H-Dibenzyl(a,d)cycloheptene-10,11-dihydroglycine-leu-asp-ile-ile-trp)
+D006511	
+C548062	
+C042882	
+C421614	
+C058544	Diacylglycerol kinase inhibitor II
+C400461	
+C039753	
+C571997	
+C489138	1,3-Benzothiazol-2-yl(2-((2-(3-pyridinyl)ethyl)amino)-4-pyrimidinyl)acetonitrile
+C017759	9-(Tetrahydrofuran-2-yl)-9h-purin-6-amine
+C092337	(S)-1-[2-[Tris(4-methoxyphenyl)methoxy]ethyl]-3-piperidinecarboxylic acid
+C000588986	
+C121095	
+C097858	
+C117343	
+C521083	
+C064180	
+C500321	3-(1,1-Dimethylheptyl)-1-hydroxy-9-methoxy-6H-dibenzo(b,d)pyran-6-one
+C530802	2,4-Pentadienamide, 2-cyano-5-(3,4-dihydroxyphenyl)-N-(phenylmethyl)-, (2E,4E)-
+C055971	Zacopride
+C120148	2-Methyl-6-(2-phenylethenyl)pyridine
+C484472	
+C433215	2-Amino-3-chloro-1,4-naphthoquinone
+C529149	
+C112772	ginsenoside C-K
+C007633	Estragole
+C571455	N-(3-(5-chloro-2-(2-methoxy-4-(4-methylpiperazin-1-yl)phenylamino)pyrimidin-4-yloxy)phenyl)acrylamide
+C016186	Vitamin K1 2,3-epoxide
+C004781	
+C498554	5-(alpha-Methyl-4-bromobenzylamino)phosphonomethyl-1,4-dihydroquinoxaline-2,3-dione
+C058427	
+C443159	
+C531556	Azd-1152hqpa
+C071375	
+C095284	1h-[1,2,4]Oxadiazolo[4,3-a]quinoxalin-1-one
+C451418	Ethyl cinnamate
+C058391	
+C474722	N-[4-[[6-Methoxy-7-[3-(4-morpholinyl)propoxy]-4-quinazolinyl]amino]phenyl]benzamide
+C086717	S-Methylthiocitrulline
+C118143	
+C012177	2-Aminofluorene
+C025498	
+C068409	1-(3-Bromobenzo[B]furan-2-ylsulfonyl)hydantoin
+C000600930	
+D017485	1-Deoxynojirimycin
+C027579	Adenosine dialdehyde
+C013110	
+C085132	
+C111350	Piperazine, 1-(3-bromo-8-chloro-6,11-dihydro-5H-benzo(5,6)cyclohepta(1,2-b)pyridin-11-yl)-4-((1-oxido-4-pyridinyl)acetyl)-
+C031947	
+C028821	
+C456739	Virodhamine
+D015772	4,5-Dihydro-1-(3-(trifluoromethyl)phenyl)-1H-pyrazol-3-amine
+C110304	3-[1-[2-[(2R)-4-benzoyl-2-(3,4-difluorophenyl)morpholin-2-yl]ethyl]-4-phenylpiperidin-4-yl]-1,1-dimethylurea
+C038549	
+C430915	
+C077420	Cys(11)-Cys(15)-endothelin-1 (11-21)
+C572760	
+C421011	
+C087260	
+C530377	
+C574512	
+C042957	Ethyl-8-azido-5,6-dihydro-5-methyl-6-oxo-4H-imidazo-1,4-benzodiazepine-3-carboxylate
+C013026	2-Phenylpropanal
+C063895	Butanoic acid, 2,3-dihydroxypropyl ester
+C530086	
+C522839	PF-670462
+C119079	
+C493991	
+C040794	
+D004369	Pentetic acid
+C568713	7-(3,5-Dimethylisoxazol-4-yl)-8-methoxy-1-((R)-1-(pyridin-2-yl)ethyl)-1H-imidazo[4,5-c]quinolin-2(3H)-one
+D017259	Dimaprit
+C013883	3-Methyl-1,8,9-anthracenetriol
+C038362	Pyrazolone
+C062519	
+C518919	4-[(3s)-1-Azabicyclo[2.2.2]oct-3-Ylamino]-3-(1h-Benzimidazol-2-Yl)-6-Chloroquinolin-2(1h)-One
+C007650	Ethyl Acetate
+C015407	3-Oxalomalic acid
+C533207	(Z)-3-((3-((dimethylamino)methyl)phenylamino)(phenyl)methylene)-N,N-dimethyl-2-oxoindoline-6-carboxamide
+C068991	
+C457103	
+C091291	
+C090951	
+D011353	Prodigiosin
+C402921	CompB
+C503941	
+C064270	
+C568854	waixenicin A
+C556313	4-Fluoro-2-(4-{[(3s,4r)-4-(1-Hydroxy-1-Methylethyl)pyrrolidin-3-Yl]amino}-6,7-Dimethoxyquinazolin-2-Yl)phenol
+C018132	
+C580771	
+C079216	Ac-(3-(2,6-Dichlorobenzyl)tyr(27,36)-D-thr(32))-neuropeptide Y (27-36) amide
+D006027	Astrobain
+C042375	4-Damp methiodide
+C003724	S-Trityl-L-cysteine
+C006119	
+C037525	
+C400545	(23S)-1alpha-hydroxy-25,27-didehydrovitamin D3 26,23-lactone
+C035755	
+C034338	
+D014334	Tropolone
+C086836	
+C552234	Didymin
+C026234	Cimoxatone
+C523934	Pyr-41
+C098609	
+C409982	N-[4-[2-(6-cyano-3,4-dihydro-1H-isoquinolin-2-yl)ethyl]cyclohexyl]quinoline-4-carboxamide
+C074975	
+C041635	all-trans-alpha-Carotene
+D010803	
+C006426	2,3-Epoxyaflatoxin B1
+C040420	
+C476678	
+C029407	Oleamide
+C487837	
+C504897	Auda
+C478999	
+C495063	
+C100912	
+C033789	Fenarimol
+C550137	
+C069475	
+C500140	
+C034227	Tau-fluvalinate
+C522498	p38 MAP Kinase Inhibitor III
+C096429	Ac-Yvad-cho
+C568967	
+C018428	
+C076207	Amthamine
+C012121	
+D009075	Melanostatin
+C038810	
+C097067	5-propoxy-3-(1,2,3,6-tetrahydropyridin-4-yl)-1H-pyrrolo[3,2-b]pyridine
+C527982	
+D003995	Dibutyryl cyclic gmp
+C544923	4-(Benzylamino)-2-((3-chloro-4-hydroxyphenethyl)amino)pyrimidine-5-carboxamide
+C074024	benzyl (2S)-2-[[2-[[[(2S)-2-amino-4-methylsulfanylbutyl]disulfanyl]methyl]-3-phenylpropanoyl]amino]-3-phenylpropanoate
+C000470	2-Ethoxy-1-ethoxycarbonyl-1,2-dihydroquinoline
+C503590	
+C073600	
+C095351	Epolactaene
+C404928	
+C016118	
+C572783	Kuguacin J
+C525748	
+C121123	
+C114592	
+C519552	
+C028322	8-Phenyltheophylline
+C542064	2-(4-Amino-3-chloro-5-trifluoromethyl-phenyl)-2-tert-butylaminoethanol hydrochloride
+C057837	3,7-Dimethyl-1-propargylxanthine
+C520390	Crizotinib
+C017996	
+C007908	Hecogenin
+C469628	
+C437945	
+C541580	
+C430892	
+C055302	Zolantidine
+C032405	Dpt-prostaglandin E1
+C055806	
+C073539	Erucin
+C025124	
+C000590835	
+C570041	
+C569631	
+D006025	
+C490220	
+C118451	(Z)-2-cyano-N-(2,5-dibromophenyl)-3-hydroxybut-2-enamide
+C423902	
+C010349	Tetramethylenedisulfotetramine
+C065619	
+C442169	bacopaside II
+C068337	Bergamottin
+C039687	
+C514816	5-Hexyn-1-ol, 6-[5-[(2S)-2-azetidinylmethoxy]-3-pyridinyl]-
+C409003	(2R)-2-amino-3-[2-(1-aminoethylideneamino)ethylsulfonyl]propanoic acid
+C581105	
+C036361	
+C570063	
+C094868	Benzo(1,2-b:4,5-b')dipyrrole-1(2H)-carboxamide, 3,5-dihydro-5-methyl-N-3-pyridinyl-
+C561574	
+C086919	
+C014088	
+C000597751	
+C001073	2,4-Dinitrobenzenesulfonic acid
+C403089	CID 16133842
+C419185	
+C058394	2-Chloro-N6-cyclopentyladenosine
+C095653	1,5-Isoquinolinediol
+D054883	
+C506999	
+C519751	(S,E)-3-(6-bromopyridin-2-yl)-2-cyano-N-(1-phenylbutyl)acrylamide
+C076126	Disodium (R,R)-5-(2-((2-(3-chlorophenyl)-2-hydroxyethyl)-amino)propyl)-1,3-benzodioxole-2,3-dicarboxylate
+C515206	
+C570226	
+C079694	alpha-Methyl-4-carboxyphenylglycine
+D005662	Furfural
+C095985	
+C570314	(R)-4-((Diethylamino)methyl)-N-(2-methoxyphenethyl)-N-(pyrrolidin-3-yl)benzamide
+C083231	
+C506269	
+C063456	N-(2-Aminoethyl)-5-(3-fluorophenyl)thiazole-4-carboxamide
+C117197	
+C568821	N-cyclohexyl-3-[2-(3,4-dichlorophenyl)ethylamino]-N-[2-[2-(5-hydroxy-3-oxo-4H-1,4-benzoxazin-8-yl)ethylamino]ethyl]propanamide
+C027331	
+C548716	
+C041630	
+C510125	
+C520612	ORG-25935 free base
+C508745	
+C057114	
+C049171	
+C519495	
+C058392	Isamoltane
+C528828	n,n'-Dihydroxyoctanediamide
+C060988	Baohuoside I
+C000595926	25B-NBOMe
+C099260	
+C039248	Methyl 4-(2-((2-hydroxy-2-phenethyl)amino)propyl)benzoate-2-butanedioate
+C570548	
+C549768	
+C058161	
+C099797	
+C546494	
+C028633	Dehydroevodiamine
+C561680	
+C577929	Dimethylaminomicheliolide
+C487497	(Z)-1-(3-Ethyl-5-methoxy-2,3-dihydrobenzothiazol-2-ylidene)propan-2-one
+C549934	
+C454816	
+C069053	Norathyriol
+C561631	
+C576456	
+C070191	Itasetron
+C097802	
+C588417	
+C556685	
+C065021	
+C002882	
+C513095	
+D053561	
+C017769	Tricin
+C569693	
+C549556	
+D026461	
+C116972	
+C116180	Janex-1
+C525466	
+C087198	
+C009667	
+C410337	1H-1,4-Diazepine, hexahydro-1,4-bis((4E)-5-(3,4,5-trimethoxyphenyl)-4-penten-1-yl)-
+C057749	
+C068032	L-Methioninamide, N-(5-amino-1-oxopentyl)-L-phenylalanyl-L-phenylalanyl-L-prolyl-N-methyl-L-leucyl-
+C571346	
+C014464	3,4-Dichloroaniline
+C024751	
+C065126	N-(8-amino-1-carboxyoctyl)-alanyl-proline
+C100261	Diacetyldiphenylurea bisguanylhydrazone
+D002018	
+C558305	
+C504845	
+C015454	
+C088294	
+C084587	Fluroxene
+C464658	
+C553330	
+D010754	
+C038033	
+C433587	
+C478160	Ethaselen
+D000731	
+C057774	Chimaphilin
+C053752	
+C045863	Neogambogic acid
+C056118	
+C054256	Olvanil
+C015527	4-Amino-2,2,6,6-tetramethylpiperidine 1-oxide
+C008208	
+C503120	1-(4-(Trifluoromethyl)benzyl)-3-(isoquinolin-5-yl)urea
+C100089	Cycloartenol
+C045357	
+C082780	
+C428044	
+C115053	
+C402043	
+C081341	
+C561086	
+C439296	BNIPSpd
+C021093	
+C060223	
+C097673	
+C007232	
+C028842	N-Methylprotoporphyrin
+C495575	Monomethyl auristatin E
+C059975	Bistramide A
+C057013	7-Chlorokynurenic acid
+C068679	1-(3-Methyl-3-phenylbutyl)-4-(2-(3-pyridyl)thiazolidin-4-ylcarbonyl)piperazine fumarate
+D020867	omega-Agatoxin IVA
+C579439	
+C007946	Hispidin
+C098525	
+C058076	Calpain Inhibitor III
+C061091	Lithospermate B
+C000154	Alpinumisoflavone
+C100667	
+C510718	Cambinol
+C422645	3-Quinolinecarboxamide, N-(1,3-benzodioxol-5-ylmethyl)-1,2-dihydro-7-methoxy-2-oxo-8-(pentyloxy)-
+C403229	
+C014290	Hydroxyflutamide
+C088494	
+D006003	Glycogen
+C530616	
+C120248	Xanthorrhizol
+C084106	
+D015820	
+C477659	N-(3-methoxyphenyl)-4-chlorocinnamanilide
+C104138	
+C466314	3-[(4-Tert-butylphenyl)methyl]-1-[(3-fluoro-4-methanesulfonamidophenyl)methyl]thiourea
+C540802	
+C571787	
+C007509	
+C098287	
+C063652	
+C586849	
+C110158	4-(6-Methoxy-2-(4-methoxyphenyl)benzofuran-3-carbonyl)benzonitrile
+C492448	(6S,9aS)-N-benzyl-6-(4-hydroxybenzyl)-8-(naphthalen-1-ylmethyl)-4,7-dioxooctahydro-1H-pyrazino[1,2-a]pyrimidine-1-carboxamide
+C104615	
+C413447	
+C006870	
+C079000	
+C085986	
+C418118	CI-1044
+C516713	Auriculasin
+C504954	
+C533669	
+C060311	Eckol
+C033495	
+C509969	
+C003959	Tempo
+C020354	
+C518940	4-[[9-Chloro-7-(2,6-difluorophenyl)-5H-pyrimido[5,4-d][2]benzazepin-2-yl]amino]benzoic acid
+C016276	8-bromo-cGMP
+C474723	
+C058288	
+C576952	
+C000591834	
+C551825	5-[4-(4-Cyanobut-1-yn-1-yl)phenyl]-1-(2,4-dichlorophenyl)-N-(1,1-dioxo-1lambda~6~,4-thiazinan-4-yl)-4-methyl-1H-pyrazole-3-carboxamide
+C531228	
+C020237	Brusatol
+C561768	
+C090811	
+C497286	(E)-3,5,4'-Trimethoxystilbene
+C519721	
+C006492	
+C040246	
+C017861	
+C000592767	
+C007193	Cyclohexene oxide
+C106052	
+C420606	Mulberroside A
+C010078	Alizarin
+C552704	
+C096762	
+C060501	
+C029383	1-Decanol
+C057359	
+C098740	
+C520393	
+C568289	4-((2-(((1R,2R)-2-hydroxycyclohexyl)amino)benzo[d]thiazol-6-yl)oxy)-N-methylpicolinamide
+C000595272	
+C013672	Riddelliine
+C541416	
+D054811	Phytochelatin
+C581155	N-cyclopropyl-4-(thiophen-3-yl)-3-(3-(3-(trifluoromethyl)phenyl)ureido)benzenesulfonamide
+C054995	
+C513963	
+C081750	
+C482098	
+C097240	15-Deoxy-delta-12,14-prostaglandin J2
+C079106	
+C057416	KT5720
+C112922	
+C028189	
+D036701	
+C101349	
+C407038	
+C058121	N-[(3R)-2,3-Dihydro-1-methyl-2-oxo-5-phenyl-1H-1,4-benzodiazepin-3-yl]-N'-(3-methylphenyl)urea
+C074794	
+C585656	
+C438686	N''-cyano-N-(6-amino-3,4-dihydro-3-hydroxy-2-methyl-2-dimethoxymethyl-2H-benzopyran-4-yl)-N'-benzylguanidine
+C492470	
+C114816	
+C513163	N-[(3R)-1-azabicyclo[2.2.2]oct-3-yl]furo[2,3-c]pyridine-5-carboxamide
+C522246	1-(3',4'-Dichloro-2-fluoro(1,1'-biphenyl)-4-yl)cyclopropanecarboxylic acid
+C035669	
+C006080	
+C011395	Adrenic acid
+C561233	Solomonsterol A
+C086527	sialyl Lewis(x)
+C544835	(R)-5-(6-((4-methylpiperazin-1-yl)methyl)-1H-benzo[d]imidazol-1-yl)-3-(1-(2-(trifluoromethyl)phenyl)ethoxy)thiophene-2-carboxamide
+C550092	
+C047192	
+C499423	
+C472777	
+C010463	Hexanal
+C039788	Glycyl-l-glutamine
+C560099	Rebastinib
+C006610	
+C494553	Cdppb
+C477467	
+C469411	
+C508711	N-[2-[4-[[3-butyl-5-oxo-1-[2-(trifluoromethyl)phenyl]-1,2,4-triazol-4-yl]methyl]phenyl]phenyl]sulfonyl-3-methyl-2-thiophenecarboxamide
+C112706	
+C515844	
+C059516	Loganin
+C576992	
+C493033	
+C118657	
+C093285	N-[bis(2-aminoethyl)amino]-N-nitrosohydroxylamine
+C558368	
+C549025	
+C017846	
+C101596	(2e,4e,6z)-3-Methyl-7-(5,5,8,8-Tetramethyl-3-Propoxy-5,6,7,8-Tetrahydronaphthalen-2-Yl)octa-2,4,6-Trienoic Acid
+C477863	Terpendole E
+C080755	(2S,3S)-3-(2-Methoxybenzylamino)-2-phenylpiperidine
+D019835	Fmrfamide
+D008714	Methiocarb
+C066196	
+C018207	
+D010880	Piperidines
+C573784	5-Ethenyl-1-methylphenanthrene-2,7-diol
+C574562	
+C579148	5-(1,2-Thiazol-5-yldisulfanyl)-1,2-thiazole
+C000948	1,3-Dicyclohexylurea
+C043548	
+C042349	Heminordihydroguaiaretic acid
+C576975	2-Hydroxy-3',5,5'-trimethoxychalcone
+C000593365	
+C548723	
+C050523	
+C510385	
+C466914	O6-Cyclohexylmethoxy-2-(4'-sulphamoylanilino) purine
+C113338	
+C442817	CID 101340808
+C048873	
+C000595239	
+C000591541	1-cyclopropyl-4-[4-[[5-methyl-3-[3-[4-(trifluoromethoxy)phenyl]-1,2,4-oxadiazol-5-yl]-1H-pyrazol-1-yl]methyl]-2-pyridinyl]-piperazine
+C033071	
+C548458	
+C487109	
+D010472	
+C012765	Bakuchiol
+C413760	5-amino-2-(4-amino-3-fluorophenyl)-6,8-difluoro-7-methyl-4H-1-benzopyran-4-one
+C525250	CC-401
+C098340	(2R,3R,4S,5R)-3,4,5,6-Tetrahydroxy-2-((7-nitrobenzo[c][1,2,5]oxadiazol-4-yl)amino)hexanal
+C095801	2-[2-[3,5-Bis (trifluoromethyl)phenylsulfonamido]-4-trifluoromethylphenoxy]benzoic acid
+C056386	
+C000598105	
+D014255	
+C489942	
+C531034	
+C062669	(-)-Epicatechin gallate
+C573703	
+C545188	
+C052083	Tiliroside
+C068766	Davallialactone
+C082405	
+C509291	
+C533909	
+C583451	(S)-4-((Ethyl(phenyl)amino)methyl)-4,5-dihydrooxazol-2-amine
+C569055	
+C477203	
+C400974	
+C510717	
+C440095	
+D020738	
+C541134	
+C489031	
+C036798	
+C561310	2-Cyclohexyl-N-(1-isopropylpiperidin-4-yl)-6-methoxy-7-(3-(pyrrolidin-1-yl)propoxy)quinazolin-4-amine
+C008638	
+C493220	
+C063924	
+C561040	
+C008640	Nitromethane
+C097869	3-(2-Ethylphenoxy)-1-(1,2,3,4-tetrahydronaphth-1-ylamino)-2-propanol oxalate
+C000488	Cladosporin
+C482068	TAS-108 citrate
+C050823	
+C570896	[2-(1-Adamantyl)-6,8-dichloroquinolin-4-yl]-piperidin-2-ylmethanol
+C095796	
+C534391	
+C453899	2-[(4-{2-[(4-Cyclohexylbutyl)(cyclohexylcarbamoyl)amino]ethyl}phenyl)sulfanyl]-2-methylpropanoic acid
+C011729	
+D049231	
+C463040	(2,3-dichlorophenyl)(5-methoxy-2-methyl-3-(2-morpholinoethyl)-1H-indol-1-yl)methanone
+C041477	3-Hydroxyflavone
+D004281	Docosahexaenoic acid
+C086491	1-(2-hydroxy-5-(trifluoromethyl)phenyl)-5-(trifluoromethyl)-1H-benzo[d]imidazol-2(3H)-one
+C513941	
+C100092	Bromofos
+C120986	
+C000591472	
+D051101	
+C000588780	
+C403255	
+C063887	
+C032974	
+C098801	
+C526332	BN-82451 hydrochloride
+C063432	
+C504126	
+C559287	
+C573233	5,7-Dihydroxy-8-[(3R,4S)-3-hydroxy-1-methylpiperidin-4-yl]-2-methylchromen-4-one
+D044242	
+C044659	Molybdate
+C550659	
+C548017	
+C573313	
+C517050	
+C103298	
+C036832	
+C561342	
+C585726	
+C054864	
+C005543	
+C044913	
+C479877	Ilepatril
+C533150	lancemaside A
+C078790	
+D015117	5,8,11,14-Eicosatetraynoic acid
+C062186	
+C517734	roflumilast N-oxide
+C006568	Ammonium nitrate
+C003384	
+C013959	N,N-Dimethylacetamide
+C117406	2-Pyrimidinamine, N-ethyl-4-(4-(3-fluorophenyl)-3,6-dihydro-1(2H)-pyridinyl)-6-methyl-N-(4-(1-methylethyl)-2-(methylthio)phenyl)-
+C076402	
+C403256	Cyclopentaneacetamide, N-((1S)-4-((aminoiminomethyl)amino)-1-(((2-(3,5-dioxo-1,2-diphenyl-1,2,4-triazolidin-4-yl)ethyl)amino)carbonyl)butyl)-1-(2-(4-(6,11-dihydro-6-oxo-5H-dibenz(b,E)azepin-11-yl)-1-piperazinyl)-2-oxoethyl)-
+C072825	4-Hexyloxyaniline
+C054409	Butachlor
+C506350	3-Nitrobenzene-1,2-diol
+C006453	2-Amino-3-prop-2-enylsulfinylpropanoic acid
+C414024	1-Benzyl-3-cetyl-2-methylimidazolium iodide
+C512868	
+C013407	Benzamil
+C011309	Meserein
+C510376	
+C055523	
+C079393	Carboxy-ptio
+D009255	Nafenopin
+C000912	Diazoxon
+D054405	
+D054832	
+C581970	
+C556664	
+C057620	Bafilomycin A
+C011244	
+C476531	
+C576778	
+C515343	
+C541956	
+C037152	
+C030795	
+C515704	
+C050025	Cyclosporin H
+C527579	
+C102984	beta-Lactotensin
+C015144	Dihydrolipoic acid
+C503464	
+C067042	
+C554665	
+C577959	
+C030103	3,5-Diiodothyronine
+C013111	Methionine sulfoxide
+C571360	
+C057473	
+C415374	
+C049662	
+C012949	
+C516977	
+C068543	1,2-Diethyl-3-hydroxypyridin-4-one
+C526615	
+C117060	(2-Carboxymethoxy-5-{2-[(4,5,6,7-tetrahydro-thieno[3,2-c]pyridine-2-carbonyl)-amino]-acetyl}-phenoxy)-acetic acid
+C521336	ethyl 4-[4-[[(2S)-2-hydroxy-3-[4-hydroxy-3-(methanesulfonamido)phenoxy]propyl]amino]cyclohexyl]benzoate;hydrochloride
+C063918	2-(4-Hydroxy-3,5-dimethylphenyl)-5-methoxy-3-methylindole
+C009237	Senecionine
+C494356	4-Benzyl-2-methyl-1,2,4-thiadiazolidine-3,5-dione
+C402061	
+C552362	
+C083116	Perhydroazepin-1-yl leucyl-tryptophyl-tryptophan
+C558945	
+C087969	Mivazerol
+C060736	
+C053155	
+C005311	Nornicotine
+C000596547	
+C070475	Fananserin
+C039063	
+C400541	Methyl N-({(2s,3s)-3-[(Propylamino)carbonyl]oxiran-2-Yl}carbonyl)-L-Isoleucyl-L-Prolinate
+C002272	6-methoxy-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole
+C043680	Ptaquiloside
+D004132	Diflubenzuron
+C081320	8-(3-Chlorostyryl)caffeine
+C466644	
+C576719	
+C548173	Golvatinib
+C102576	
+C029256	
+C000588568	
+D008726	Methoprene
+C447639	1-Butene, 4-isothiocyanato-1-(methylthio)-
+D004159	Diphenylamine
+C559379	
+C570831	
+C066680	
+C507425	N-(4-cyano-benzo(b)thiophene-2-carbonyl)guanidine
+C521963	
+D005912	Gliotoxin
+D053486	
+C090940	
+D023082	
+C082372	
+C505386	
+C035235	2-Methyl-8-(phenylmethoxy)imidazo[1,2-a]pyridine-3-acetonitrile
+C503100	N-(3-Chloro-4-morpholinophenyl)-N'-hydroxyformimidamide
+C493107	
+C544743	2,4-Dichloro-N-isopropyl-N-(2-isopropylaminoethyl)benzenesulfonamide
+C104254	
+D000448	Temik
+C404329	9,10,11,12-Tetrahydro-9,12-epoxy-1H-diindolo[1,2,3-fg:3',2',1'-kl]pyrrolo[3,4-i][1,6]benzodiazocine-1,3(2H)-dione
+C570037	Tafetinib
+C085570	
+C067675	
+D010883	Piperoxan
+C010329	Azadirachtin
+C472513	
+C477463	(3S,4S,6aR,6bS,8aR,9R,12aS,14bR)-4-(hydroxymethyl)-9-methoxy-4,6a,6b,8a,11,11,14b-heptamethyl-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicen-3-ol
+C099230	
+C063899	
+C073719	
+C488795	[(3R,4aR,10aR)-6-methoxy-1-methyl-3,4,4a,5,10,10a-hexahydro-2H-benzo[g]quinolin-3-yl]-[4-(4-nitrophenyl)piperazin-1-yl]methanone
+C584473	
+C101790	
+C010701	
+C412083	
+C016369	2,3-Dibromo-1-propanol
+C086422	
+D002038	
+C032910	Triadimefon
+C008885	
+C093340	
+C529493	N-(4-Fluorobenzyl)-3-oxo-1,1-diphenyltetrahydro-1H-oxazolo[3,4-a]pyrazine-7(3H)-carboxamide
+C005210	5-Methyl-1H-pyrazole-3-carboxylic acid
+C535248	
+C046599	
+C033249	
+C006650	Aucubin
+C055305	Ginsenoside Rh2
+C488796	N-Oleoyldopamine
+C540748	
+C039936	Furegrelate sodium
+C555057	
+C001020	6-Dimethylaminopurine
+C540157	Lobelane
+D002791	
+C055634	
+C092503	
+C569628	
+D011064	
+C541505	
+C055438	
+C071721	(3,4-Dihydroxy-5-nitrophenyl)(2-fluorophenyl)methanone
+C084181	
+C066253	
+C508362	
+C027373	Potassium chromate
+C403095	
+C579133	
+C001369	3-Amino-1-hydroxypyrrolidin-2-one
+D006037	Glyoxal
+C031515	4-O-Methylascochlorin
+C550248	
+C580859	
+C063451	Cinobufotalin
+C571198	
+C570695	Necrosulfonamide
+C576403	1-(5-(4-amino-7-methyl-7H-pyrrolo[2,3-d]pyrimidin-5-yl)indolin-1-yl)-2-(3-(trifluoromethyl)phenyl)ethanone
+C016957	Sp-Camps
+C549075	
+C120841	astressin B
+D011122	
+C108022	
+C479860	
+C052561	Pyrrolo(1,2-a)quinoxaline, 4-(4-methyl-1-piperazinyl)-7-(trifluoromethyl)-, (Z)-2-butenedioate (1:2)
+C001892	
+C492546	benzyl N-[(5S)-5-[[(2R,3S)-3-[formyl(hydroxy)amino]-2-(2-methylpropyl)hexanoyl]amino]-6-oxo-6-(1,3-thiazol-2-ylamino)hexyl]carbamate
+C432907	Mesotrione
+C528386	
+C559289	
+C524540	
+C502278	
+C435023	H-His-Cys-Leu-Gly-Lys-Trp-Leu-Gly-His-Pro-Asp-Lys-Phe-OH
+C008173	Alloxazine
+C535156	
+C049154	11,17-Dihydroxy-6-methyl-17-(1-propynyl)androsta-1,4,6-triene-3-one
+C471843	purvalanol A
+C517013	7-Methyljuglone
+C000598331	Berzosertib
+C087567	PG 9 Cpd
+C015055	
+C067523	5-(2-(2-Carboxyethyl)-3-(6-(4-methoxyphenyl)-5E-hexenyl)oxyphenoxy)valeric acid
+C504986	
+C022203	
+C095756	Aida
+C011610	
+C079425	
+C431126	Rhapontigenin
+C057154	Luzindole
+C547235	
+C414491	
+C541510	
+C005514	N,N'-Monomethylenebis(pyridiniumaldoxime)
+C078038	
+C583854	
+C067001	
+C041006	
+C013453	2-Methoxy-5-methylaniline
+C109673	
+C078248	
+C113682	
+C417259	
+C569433	
+C570135	
+C532289	
+D003070	Coformycin
+C503102	T-817 maleate
+C569813	
+C030435	1,2-Cyclohexanediamine
+C095800	
+C513882	
+C119324	Arachidonylcyclopropylamide
+C509204	4-[(3-Bromophenyl)amino]-6-acrylamidoquinazoline
+C508134	Bifenazate
+C410786	
+C043985	
+C111883	
+C011442	
+C050801	
+C556907	
+C032802	
+C004675	4-Deoxypyridoxine
+C524251	C38U4WZ67T
+C114232	
+C026146	
+C578791	
+C552153	
+C575159	
+C077358	Morphinan-6-one, 17-(cyclopropylmethyl)-4,5-epoxy-3,14-dihydroxy-7-(phenylmethylene)-, (5alpha)-
+C033110	1-Phenyl-2-decanoylamino-3-morpholino-1-propanol
+C068073	4-{[(5,5,8,8-Tetramethyl-5,6,7,8-tetrahydronaphthalen-2-yl)carbonyl]amino}benzoic acid
+C531352	Tetrazolium violet
+C098807	
+C514285	
+C550923	N-((1S)-2-(Dimethylamino)-1-phenylethyl)-6,6-dimethyl-3-((2-methylthieno(3,2-d)pyrimidin-4-yl)amino)-4,6-dihydropyrrolo(3,4-C)pyrazole-5(1H)-carboxamide
+C095803	6-Hydroxy-5,7-dimethyl-2-methylamino-4-(3-pyridylmethyl)benzothiazole
+D001865	Bongkrekic acid
+C075771	
+C574957	
+C541788	Quisinostat
+C545735	
+C048715	
+C416933	
+C573789	
+C546191	
+C102136	
+D019393	
+D053683	
+C425780	
+C099410	N-(R)-[2-(Hydroxyaminocarbonyl)methyl]-4-methylpentanoyl-L-t-butyl-alanyl-L-alanine, 2-aminoethyl Amide
+C484212	
+C515594	8-Anilino-1-naphthalenesulfonic acid
+C000592052	(4-Nitrophenyl) 4-[(3-phenoxyphenyl)methyl]piperazine-1-carboxylate
+C007816	
+C112798	
+C549469	
+C054678	
+C438607	2,6-Ditert-butyl-4-(3-hydroxy-2,2-dimethylpropyl)phenol
+C029271	
+C121854	U5B58A46QX
+C000596180	
+C581203	N-(4-((2-amino-6-methylpyrimidin-4-yl)amino)phenyl)-4-(quinolin-4-ylamino)benzamide
+C505380	
+C479234	Imidazo[4,5,1-jk][1,4]benzodiazepin-7(4H)-one, 2-[4-[(dimethylamino)methyl]phenyl]-5,6-dihydro-
+C470213	
+C555398	N^2^-[(2R)-2-{(1S)-1-[Formyl(hydroxy)amino]ethyl}-5-phenylpentanoyl]-N,3-dimethyl-L-valinamide
+C541294	
+C000594652	
+C086111	(3S,4S,7S,8R,11S,12R,15S)-8-ethynyl-3,7-dimethyl-18,20,27-triazaheptacyclo[15.11.0.0^{3,15}.0^{4,12}.0^{7,11}.0^{19,27}.0^{21,26}]octacosa-1(28),17,19,21,23,25-hexaen-8-ol
+C044540	
+C547318	
+C012419	Rivanicline
+C118986	[(2S,3aS,7aS)-2-(1,3-thiazolidine-3-carbonyl)-2,3,3a,4,5,6,7,7a-octahydroindol-1-yl]-[(1R,2R)-2-phenylcyclopropyl]methanone
+C061800	N,N-dimethylsphingosine
+C539142	2-[(3,4-dimethoxyphenyl)methyl]-7-[(2R,3R)-2-hydroxy-6-phenylhexan-3-yl]-5-methyl-1H-imidazo[5,1-f][1,2,4]triazin-4-one
+C057404	
+C528797	4-({(4-Carboxybutyl)[2-(5-Fluoro-2-{[4'-(Trifluoromethyl)biphenyl-4-Yl]methoxy}phenyl)ethyl]amino}methyl)benzoic Acid
+C573062	
+C568946	
+C579147	
+C547581	N-[4-[1-(1,4-Dioxaspiro[4.5]dec-8-yl)-4-(8-oxa-3-azabicyclo[3.2.1]oct-3-yl)-1H-pyrazolo[3,4-d]pyrimidin-6-yl]phenyl]-N'-methylurea
+C092303	
+C121695	
+C020924	D-Phe-Pro-Arg-Chloromethylketone
+C559288	
+C465253	MRS2279 (diammonium)
+D009594	
+C426805	
+C044475	
+C544308	3-(4-(4-(2-(3-((dimethylamino)methyl)phenyl)-1H-pyrrolo[2,3-b]pyridin-4-yl)-1-ethyl-1H-pyrazol-3-yl)phenyl)-1,1-dimethylurea
+C120450	
+C114061	
+C015901	glutaryl-CoA
+C012260	Cyclocreatine
+D015075	2-Aminopurine
+C056624	
+C078101	
+C119641	Poncirin
+C054644	
+C012842	Reactive Blue 2
+C042867	L-Leucinamide, D-arginyl-L-prolyl-L-lysyl-L-prolyl-L-glutaminyl-L-glutaminyl-D-tryptophyl-L-phenylalanyl-D-tryptophyl-L-leucyl-
+C054518	Ceronapril
+C576285	
+C103060	
+C039356	
+D013002	
+C053629	Tetrafluoroaluminate Ion
+C001713	
+C576806	
+C092200	
+C028315	
+C075065	
+C112429	(2R)-2-[[[3-(4-Morpholinylmethyl)-2H-1-benzopyran-8-yl]oxy]methyl]morpholine dimethanesulfonate
+C082964	
+C022961	Picrotoxinin
+C533858	
+C553921	
+C534146	
+C115029	
+C545184	
+C468852	
+C578782	
+C403754	Z-LEHD-fmk
+C480030	3-Cl-AHPC
+C065734	m-Chlorophenylbiguanide
+C077994	
+C533036	
+C007072	
+C579800	
+C111378	
+C109125	
+C530596	
+C006500	4-Aminobenzamidine
+C412047	Tolserine
+C059768	Isophthalic acid
+C544549	9-Hydroxy-4-phenylpyrrolo[3,4-C]carbazole-1,3(2H,6H)-dione
+C016651	Phenolphthalein glucuronide
+C094700	
+C076818	Phosphino, selenoxo-
+C546007	
+C000050	
+C064441	13-OxoODE
+C002953	Nicotinate mononucleotide
+C119620	Kenpaullone
+C080396	
+C488185	2-(2-chloro-4-iodophenylamino)-N-cyclopropylmethoxy-3,4-difluoro-5-bromobenzamide
+C058028	Ascomycin
+C085925	Calcein AM
+C040772	
+C556903	
+C059021	Kinamycin F
+C110981	
+C523341	
+C582547	Rabusertib
+C554680	Droxinostat
+C091708	
+C114007	Arachidonoyl Serotonin
+D013911	Thorium dioxide
+C466913	6-(cyclohexylmethoxy)-9H-purin-2-amine
+C000589248	
+C032628	
+C553564	
+C403494	
+C069018	
+C081292	
+C557503	
+C025603	Bapta
+C548901	Tetramethylcurcumin
+C520400	
+C580958	Ralimetinib
+C101818	
+C496429	Vofopitant dihydrochloride
+D000040	Abscisic acid
+D014227	Triazine
+C045362	Prochloraz
+C428983	
+C112526	
+C064509	4H-Pyrido(4',3':4,5)thieno(3,2-f)(1,2,4)triazolo(4,3-a)(1,4)diazepine, 6-(2-chlorophenyl)-9-(2-((3,4-dimethoxyphenyl)thio)-1-thioxoethyl)-7,8,9,10-tetrahydro-1-methyl-
+C467424	
+C488234	Xct790
+D002709	Clofenvinfos
+C007725	Bendiocarb
+C072559	
+C055689	
+C523455	n-(2-(4-Chloroanilino)-1-methyl-2-oxoethoxy)-3,5-bis(trifluoromethyl)benzamide
+C543177	
+C423062	
+C118577	
+C577623	
+C120576	N-[[3-[(2S)-2-Hydroxy-3-[[2-[4-[(phenylsulfonyl)amino]phenyl]ethyl]amino]propoxy]phenyl]methyl]-acetamide
+C501199	CID 49835991
+C002780	
+C071816	
+C102875	
+C066172	Cinchonan-3,9-diol, 10,11-dihydro-6'-methoxy-, (9S)-, sulfate (1:1) (salt)
+C502525	Emapunil
+C012987	3-Amino-2,3-dihydrobenzoic acid
+C552918	
+C489943	
+C096759	
+C058747	
+C077355	
+C470346	1,2,4-Benzenetricarboxylic acid, 5-((((3-phenoxyphenyl)methyl)((1S)-1,2,3,4-tetrahydro-1-naphthalenyl)amino)carbonyl)-
+C499198	4-(1-Allyl-7-(trifluoromethyl)-1H-indazol-3-yl)benzene-1,3-diol
+C427963	
+C022594	Eseroline
+C506580	
+C040764	Ophiobolin A
+C522826	
+C480398	Methyl 2,4-dihydroxy-3,6-dimethylbenzoate
+C518875	2-({6-Amino-3,5-dicyano-4-[4-(cyclopropylmethoxy)phenyl]pyridin-2-yl}sulfanyl)acetamide
+C003165	
+C007695	
+C075319	
+C408363	
+C526117	
+D003008	Cloprostenol
+C541787	
+C057222	Neferine
+C057636	
+C539459	
+C056128	
+C470996	N-[(5-phenylmethoxy-1H-indol-2-yl)methyl]prop-2-yn-1-amine
+C025906	Stilbene oxide
+C507747	
+C096920	4-[2-[5,5-dimethyl-8-(4-methylphenyl)-6H-naphthalen-2-yl]ethynyl]benzoic acid
+C106124	[(4S)-5-[4-[[(2S)-2-hydroxy-3-phenoxypropyl]azaniumyl]butoxycarbonyl]-2,6-dimethyl-4-(3-nitrophenyl)-4H-pyridin-3-ylidene]-methoxymethanolate
+C514029	
+C482333	
+C475470	5,6-Dihydro-2,3-dimethoxy-6,6-dimethylbenz[7,8]indolizino[2,3-B]quinoxaline
+C529435	
+D001897	Dihydroxyboranyl
+C060107	
+C551586	
+C111032	
+C051307	
+C098214	Tyrphostin AG 825
+C421324	pateamine A
+C111998	Sampatrilat
+C408642	
+C545089	
+C108531	N-[3-[2-(dimethylamino)ethoxy]-4-methoxyphenyl]-4-[2-methyl-4-(5-methyl-1,2,4-oxadiazol-3-yl)phenyl]benzamide
+C069690	
+C000590217	
+C580772	
+C102580	
+C523549	
+C066016	
+C535175	
+C521085	
+C099495	RS 17053 hydrochloride
+D005963	Glucocerebrosides
+C579694	
+C569479	1-(5-Chloro-2-methoxyphenyl)-3-(2-methylquinolin-4-yl)urea
+D007482	Iothalamate meglumine
+C546771	Gardiquimod
+C576809	
+C520284	4-(3-Pyridin-2-YL-1H-pyrazol-4-YL)quinoline
+C070571	1H-1,4-Diazepine, hexahydro-1-((5-iodo-1-naphthalenyl)sulfonyl)-
+C573938	
+D011068	[(2R,3S,4R,5R)-5-(2-amino-6-oxo-5H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate
+C581103	
+C038812	Indolapril
+C587624	
+C586274	
+C106046	
+C106583	
+C078587	
+C502316	
+C527636	
+C527817	
+C547874	(R)-5-(8-Chloroisoquinolin-3-Ylamino)-3-(1-(Dimethylamino)propan-2-Yloxy)pyrazine-2-Carbonitrile
+C087552	
+C554899	
+C056109	
+C516541	2-((3,5-difluoro-4-hydroxyphenyl)amino)-8-isopentyl-5,7-dimethyl-7,8-dihydropteridin-6(5H)-one
+C121809	
+C502260	Iptakalim
+C000020	
+C052128	
+C045914	
+C110770	
+C098250	
+D015843	
+D036702	
+C513115	M3Zxt2A5FA
+C586064	
+C102244	7-Hydroxy-3,4-dihydrocadalin
+C500057	Razaxaban Hydrochloride
+C472036	Dihydromyricetin
+C109635	
+C074760	
+C070671	Azasetron hydrochloride
+C526902	
+C032811	Dihydrotetrabenazine
+C068663	Acetamide, N-hydroxy-N-(1-(4-(phenylmethoxy)phenyl)ethyl)-
+C505953	
+C490154	(1S,3R,6R,10R,11R,12R,14R,15E,17S,20S,21S,24R,25S,26S)-11-[(2R,4S,5S,6R)-5-[(2R,4S,6S)-5-[(2R,4S,5S,6R)-4,5-dihydroxy-6-methyloxan-2-yl]oxy-4-methoxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-16,26-diethyl-21,27-dihydroxy-14-(hydroxymethyl)-3,4,6,10,12,18,24-heptamethyl-30-oxapentacyclo[26.2.1.01,6.017,26.020,25]hentriaconta-4,15,18,27-tetraene-23,29,31-trione
+C029998	
+C047505	
+C456800	Ethyl 2-amino-6-bromo-4-(1-cyano-2-ethoxy-2-oxoethyl)-4H-chromene-3-carboxylate
+C048909	
+C008247	Laminaran
+C015248	
+C103848	(S)-2-(6-Chloro-5-fluoro-indol-1-yl)-1-methyl-ethylamine
+C521955	
+C000598200	PX-102 (trans-isomer)
+C588227	
+C451723	Dexefaroxan
+C507712	
+C067248	
+C082410	Azalanstat
+C000600809	
+C506457	
+C532179	
+C473646	
+C093787	Epothilone A
+C026714	Chlorpromazine sulfoxide
+C420823	Bimatoprost
+C000600251	
+C028305	Syringin
+C500573	
+C034177	Pirenperone
+C025043	Vasopressin, 1-(1-mercaptocyclohexaneacetic acid)-2-(O-methyl-L-tyrosine)-8-L-arginine-
+C532924	
+C508970	Secramine A
+C066024	Ptemc
+C507943	
+C052931	
+C013243	Salicylaldehyde
+C479235	2-(Morpholin-4-yl)-benzo[h]chromen-4-one
+C081439	
+C583126	4-[4-(3-Hydroxyphenyl)-3-(4-methylphenyl)-6-oxo-1,4-dihydropyrrolo[3,4-d]pyrazol-5-yl]benzoic acid
+C013017	
+C082966	
+C083283	
+C560580	3-Amino-6-(4-(methylsulfonyl)phenyl)-N-phenylpyrazine-2-carboxamide
+C515375	
+C091795	
+C029859	
+C581212	
+C570989	
+C119957	1-(4-(4-amino-5-(3-methoxyphenyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)phenethyl)piperidin-4-ol
+C528329	
+C060464	Sclareol glycol
+C422650	
+C005799	Tetraethyl pyrophosphate
+C465290	
+C000589288	N-(4-Chlorophenyl)-1-[3-(2-furanyl)benzoyl]-3-piperidinecarboxamide
+C544312	
+C527814	
+C418727	
+C000589454	
+C073220	N,N-diethyl-1-methylsulfinylformamide
+C073385	
+C083832	4-Methoxy-3-(2-phenylethoxy)-N,N-dipropylbenzeneethanamine hydrochloride
+C440869	6-(2,6-Dichlorophenyl)-2-[4-[2-(diethylamino)ethoxy]anilino]-8-methylpyrido[2,3-d]pyrimidin-7-one
+D054728	
+C023990	Tiotidine
+C508187	
+C411007	Midostaurin
+C015300	Isoguvacine
+C531237	
+C004998	
+C068562	Loxoribine
+C118632	Yvad-cho
+C089265	
+C011947	Neoxanthin
+C028145	Adenosine, thymidylyl-(3'-5')-2'-deoxy-
+C064483	
+C574050	
+C116098	
+C120959	
+C470794	C5a Receptor Antagonist, W-54011
+C087493	
+C039648	
+C578092	
+C561052	MK-2461
+C495417	
+C525008	
+C480138	
+C024626	Des-arg(9)-bradykinin
+C506426	
+C074868	
+C078775	
+C511697	
+C106731	3-Bromo-7-nitroindazole
+C503850	
+D012855	Sitosterols
+C094200	
+C509596	
+C014289	5-(Tetradecyloxy)-2-furoic acid
+C037431	Phthalimide
+C572329	
+C059811	
+C032519	Pyrrolidine
+C095106	Traxoprodil
+C000598564	
+C080660	
+C525872	N-(6-aminopyridin-2-yl)-4'-cyanobiphenyl-4-sulfonamide
+C038708	
+C572961	t-TUCB
+D012430	
+C081563	
+C107349	2-Chloro-5-hydroxyphenylglycine
+C086110	(3R,4S,7S,8R,11S,12R)-8-Ethynyl-3,7-dimethyl-18,20,27-triazaheptacyclo[15.11.0.03,15.04,12.07,11.019,27.021,26]octacosa-1(28),15,17,19,21,23,25-heptaen-8-ol
+C468130	Iodoresiniferatoxin
+C413184	
+C488590	Cortagine
+C107502	Tyrphostin B48
+C101319	
+C015127	
+C511529	
+C080784	
+C547423	
+C501443	
+C557052	
+C010944	5,8,11-Eicosatrienoic acid
+C113914	
+C576956	
+C575620	
+C085452	
+C052983	Patchouli alcohol
+C541335	
+C081198	8-(3,4-Dimethoxyphenyl)-7-methyl-1,3-dipropyl-1H-purine-2,6(3H,7H)-dione
+C572054	
+C501618	Benzoic acid, p-hydroxy-, (p-(diethylamino)benzylidene)hydrazide
+C053708	Cicloprolol
+C524573	Urea, N-(2,4-dibromophenyl)-N'-((4S,5S)-2,2-dimethyl-4-phenyl-1,3-dioxan-5-yl)-
+C520836	(2S)-6-amino-2-[[(2R)-2-[[(2S)-2-[[(2R)-6-amino-2-[[(2R)-2-[[(2S)-2-amino-3-(1H-imidazol-5-yl)propanoyl]amino]-3-(1H-indol-3-yl)propanoyl]amino]hexanoyl]amino]-3-(1H-indol-3-yl)propanoyl]amino]-3-phenylpropanoyl]amino]hexanamide
+C076851	2-(Diphenylmethyl)-N-((2-iodophenyl)methyl)-3-quinuclidinamine
+C465365	Vernodalin
+C023982	Nevadensin
+C001570	Alexidine
+C078670	
+C012737	Anatabine
+C032294	
+C048522	
+C482404	(5S,7S)-7-[[4-(2,6-Dichlorophenyl)piperidin-1-yl]methyl]-1-methyl-6,7,8,9-tetrahydro-5H-benzo[7]annulen-5-ol
+C570404	Tak-285
+C558407	Hexadecanamide, N-[(4-hydroxy-3-methoxyphenyl)methyl]-
+C095799	
+C416849	(Z)-5-Chloro-3-((3,5-dimethyl-1H-pyrrol-2-yl)methylene)indolin-2-one
+C000601179	4-[(9-Cyclopentyl-7,7-difluoro-5-methyl-6-oxo-6,7,8,9-tetrahydro-5H-pyrimido[4,5-b][1,4]diazepin-2-yl)amino]-3-methoxy-N-(1-methylpiperidin-4-yl)benzamide
+C484773	
+C090789	
+C471210	5-chloro-4-N-(cyclopropylmethyl)-2-methyl-4-N-propyl-6-N-(2,4,6-trichlorophenyl)pyrimidine-4,6-diamine
+C511613	
+C010565	
+C411294	
+C533198	
+C525803	
+C090092	Migalastat
+C045338	Cyclic 3',5'-uridine monophosphate
+C025566	4-Methylhistamine
+C107821	N-(5-(5-(2,4-Dioxo-1,3,8-triazaspiro[4.5]decan-8-yl)pentanoyl)-2,4-dimethoxyphenyl)-4-(trifluoromethyl)benzenesulfonamide
+C541322	
+C542546	
+C524344	
+C074413	
+C534784	
+C004522	
+C108637	Devd-cho
+C061327	
+C081104	
+C561869	
+C442489	
+C025942	
+C497449	5,7-Dihydroxy-2-(4-Hydroxyphenyl)-4-Oxo-4h-Chromen-3-Yl 3,4-Di-O-Acetyl-6-Deoxy-Alpha-L-Mannopyranoside
+C013649	Plastochromanol 8
+D009762	o-Aminoazotoluene
+C581209	
+C114173	
+C000592351	(S)-5-(4-Hydroxy-4-methylisoxazolidine-2-carbonyl)-1-isopropyl-3-methyl-6-((5-methyl-3-(trifluoromethyl)-1H-pyrazol-4-yl)methyl)thieno[2,3-d]pyrimidine-2,4(1H,3H)-dione
