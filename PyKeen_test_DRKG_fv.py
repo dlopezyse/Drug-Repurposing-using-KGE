@@ -26,7 +26,7 @@ CHOSEN_DISEASE = 'schistosomiasis'
 CHOSEN_MODEL = 'ermlp'
 
 # Load embedding model
-model_path = 'C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/drkg_' + CHOSEN_MODEL + '/trained_model.pkl'
+model_path = '../models/drkg_' + CHOSEN_MODEL + '/trained_model.pkl'
 emb_model = torch.load(model_path, map_location=torch.device('cpu')) 
 
 # Perform head prediction and check if it exists in training  and testing sets
@@ -84,7 +84,7 @@ prediction_df['compound_id2'] = prediction_df['compound_id'].where(prediction_df
 # MESH IDs
 #-----------------------------
 
-mesh_data = pd.read_csv("C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/dataset/DrugBank/mesh_name_pubmed.txt", sep='\t', names=['compound_id2', 'mesh_name'], header=None)
+mesh_data = pd.read_csv("../dataset/DrugBank/mesh_name_pubmed.txt", sep='\t', names=['compound_id2', 'mesh_name'], header=None)
 mesh = mesh_data.copy()
 
 # Remove duplicates
@@ -93,7 +93,7 @@ mesh = mesh.drop_duplicates(subset='compound_id2', keep="first")
 # Incorporate additional IDs
 # taken from: https://github.com/OHDSI/KnowledgeBase/blob/master/LAERTES/terminology-mappings/RxNorm-to-MeSH/mesh-to-rxnorm-standard-vocab-v5-NEW%20FILE%20(tabbed%20delimited).csv
 
-mesh2 = pd.read_csv("C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/dataset/DrugBank/mesh_map_list_github_simple.csv")
+mesh2 = pd.read_csv("../dataset/DrugBank/mesh_map_list_github_simple.csv")
 
 # Merge tables
 prediction_df = pd.merge(prediction_df, mesh, on ='compound_id2', how ='left')
@@ -107,7 +107,7 @@ prediction_df['mesh_name2'].fillna('-', inplace=True)
 #-----------------------------
 
 # Read DrugBank file
-db = pd.read_excel('C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/dataset/DrugBank/DrugBank_names.xlsx', engine='openpyxl')
+db = pd.read_excel('../dataset/DrugBank/DrugBank_names.xlsx', engine='openpyxl')
 
 # Merge tables
 prediction_df = pd.merge(prediction_df, db, on ='compound_id2', how ='left')
@@ -117,7 +117,7 @@ prediction_df['db_name'].fillna('-', inplace=True)
 # CHEBI IDs
 #-----------------------------
 
-chebi = pd.read_csv("C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/dataset/DrugBank/chebi_names.csv", sep=";")
+chebi = pd.read_csv("../dataset/DrugBank/chebi_names.csv", sep=";")
 
 # Set compound id to object to perform merge operation
 chebi['compound_id2'] = chebi['compound_id2'].astype(str)
@@ -133,7 +133,7 @@ prediction_df['chebi_name'].fillna('-', inplace=True)
 # chembl_name_pubmed.txt obtained from: https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi
 # Le pasé el listado de CHEMBL IDs de DRKG y me devolvió sus nombres
 
-chembl_data = pd.read_csv("C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/dataset/DrugBank/chembl_name_pubmed.txt", sep='\t', names=['compound_id2', 'chembl_name'], header=None)
+chembl_data = pd.read_csv("../dataset/DrugBank/chembl_name_pubmed.txt", sep='\t', names=['compound_id2', 'chembl_name'], header=None)
 chembl = chembl_data.copy()
 
 # Merge tables
@@ -144,7 +144,7 @@ prediction_df['chembl_name'].fillna('-', inplace=True)
 # BRENDA IDs
 #-----------------------------
 
-brenda_data = pd.read_csv("C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/dataset/DrugBank/brenda_list.csv", sep=";")
+brenda_data = pd.read_csv("../dataset/DrugBank/brenda_list.csv", sep=";")
 brenda = brenda_data.copy()
 
 # Set compound id to object to perform merge operation
@@ -166,7 +166,7 @@ prediction_df['final_comp_name'] = np.where(prediction_df.mesh_name.ne('-'), pre
                                              '-'))))))
 
 # Define destination folder for prediction file
-prediction_path = 'C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/drkg_' + CHOSEN_MODEL
+prediction_path = '../models/drkg_' + CHOSEN_MODEL
 
 import os
 
@@ -185,7 +185,7 @@ import pandas as pd
 prediction_df['final_comp_name_lc'] = prediction_df['final_comp_name'].str.lower()
 
 # Load ClinicalTrials.gov data
-clinical_trials = pd.read_excel('C:/Users/CynYDie/Desktop/Austral_2/TESIS/KG/DRKG/pykeen/DRKG/dataset/Clinical_trials/clinical_trials_' + CHOSEN_DISEASE + '.xlsx', engine='openpyxl')
+clinical_trials = pd.read_excel('..dataset/Clinical_trials/clinical_trials_' + CHOSEN_DISEASE + '.xlsx', engine='openpyxl')
 
 # Match compounds of model against compounds in clinical trials. If match, 1. If not, 0. Create a column with the result
 prediction_df['comp_in_trial'] = prediction_df['final_comp_name_lc'].isin(clinical_trials['drug_lc']).astype(int)
