@@ -6,7 +6,7 @@ You can find here the data and code used for developing and evaluating the predi
 ### Repository structure
 - **datasets**: Contains the compound IDs and names used to map predictions against the model's ground truth.
 
-- **models**: Contains the models used to perform the embeddings on the DRKG dataset.
+- **[models](models)**: Contains the models used to perform the embeddings on the DRKG dataset.
 
 - **KGE_system.py**: Outputs a drug ranking prediction based on chosen disease and embedding model
 
