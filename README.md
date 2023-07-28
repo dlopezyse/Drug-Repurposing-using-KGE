@@ -4,11 +4,11 @@ This repository relates to the paper **"Drug repurposing using knowledge graph e
 You can find here the data and code used for developing and evaluating the predictive models.
 
 ### Repository structure
-- **datasets**: Contains the compound IDs and names used to map predictions against the model's ground truth.
+- **[dataset](dataset)**: Contains the compound IDs and names used to map predictions against the model's ground truth.
 
 - **[models](models)**: Contains the models used to perform the embeddings on the DRKG dataset.
 
-- **KGE_system.py**: Outputs a drug ranking prediction based on chosen disease and embedding model
+- **[KGE_system.py](KGE_system.py)**: Outputs a drug ranking prediction based on chosen disease and embedding model
 
 ### Environment
 The project was developed in the IDE Spyder 4 using Python 3.8.8
