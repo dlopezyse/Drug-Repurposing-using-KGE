@@ -114,7 +114,6 @@ if nav == 'Visualize graph':
     st.text('')
     number_triples = st.selectbox('Select number of triples to sample from GNBR subgraph', ('50', '100', '250', '500'))
 
-    #Disease direct connections in DRKG
     st.write('Zoom in to see graph details')
 
     import pandas as pd
@@ -122,6 +121,6 @@ if nav == 'Visualize graph':
 
     #Show GNBR graph
 
-    HtmlFile = open('../graphs/knowledge_graph_gnbr_filter_' + number_triples + '.html', 'r', encoding='utf-8')
+    HtmlFile = open('graphs/knowledge_graph_gnbr_filter_' + number_triples + '.html', 'r', encoding='utf-8')
     source_code = HtmlFile.read() 
     components.html(source_code, height = 625,width=750)
