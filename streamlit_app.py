@@ -20,17 +20,10 @@ st.set_page_config(page_title="Drug Repurposing",
 def p_title(title):
     st.markdown(f'<h3 style="text-align: left; color:#F63366; font-size:28px;">{title}</h3>', unsafe_allow_html=True)
 
-    st.markdown("<h1 style='text-align: center; color: gray; font-size:28px;'>Drug Repurposing using Knowledge Graph Embeddings</h1>", unsafe_allow_html=True)
-    # st.markdown("<h3 style='text-align: center; font-size:56px;'<p>&#129302;</p></h3>", unsafe_allow_html=True)
-    # st.markdown("<h3 style='text-align: center; color: grey; font-size:20px;'>Summarize, paraphrase, analyze text & more. Try our models, browse their source code, and share with the world!</h3>", unsafe_allow_html=True)
-    """
-    [![Star](https://img.shields.io/github/stars/dlopezyse/Drug-Repurposing-using-KGE.svg?logo=github&style=social)](https://github.com/dlopezyse/Drug-Repurposing-using-KGE)
-    [![Follow](https://img.shields.io/twitter/follow/lopezyse?style=social)](https://www.twitter.com/lopezyse)
-    """
-    st.markdown('___')
-    st.write(':point_left: Use the menu at left to select a task (click on > if closed).')
-    st.markdown('___')
-
+"""
+[![Star](https://img.shields.io/github/stars/dlopezyse/Drug-Repurposing-using-KGE.svg?logo=github&style=social)](https://github.com/dlopezyse/Drug-Repurposing-using-KGE)
+[![Follow](https://img.shields.io/twitter/follow/lopezyse?style=social)](https://www.twitter.com/lopezyse)
+"""
 
 #########
 #SIDEBAR
