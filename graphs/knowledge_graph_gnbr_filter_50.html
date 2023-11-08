@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Gene::713807", "label": "Gene::713807", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D015658", "label": "Disease::MESH:D015658", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:C515073", "label": "Compound::MESH:C515073", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::283871", "label": "Gene::283871", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB13156", "label": "Compound::DB13156", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D007239", "label": "Disease::MESH:D007239", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB03057", "label": "Compound::DB03057", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::2147", "label": "Gene::2147", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:C030986", "label": "Compound::MESH:C030986", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::1723", "label": "Gene::1723", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB00727", "label": "Compound::DB00727", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D006976", "label": "Disease::MESH:D006976", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::10232", "label": "Gene::10232", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D002294", "label": "Disease::MESH:D002294", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::18171", "label": "Gene::18171", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::67078", "label": "Gene::67078", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::55294", "label": "Gene::55294", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::4899", "label": "Gene::4899", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB00455", "label": "Compound::DB00455", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D009369", "label": "Disease::MESH:D009369", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::7124", "label": "Gene::7124", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D007972", "label": "Disease::MESH:D007972", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::116637", "label": "Gene::116637", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D056486", "label": "Disease::MESH:D056486", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:C055162", "label": "Compound::MESH:C055162", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D051436", "label": "Disease::MESH:D051436", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::504216", "label": "Gene::504216", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D003866", "label": "Disease::MESH:D003866", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB12257", "label": "Compound::DB12257", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:C535504", "label": "Disease::MESH:C535504", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::6554", "label": "Gene::6554", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::595", "label": "Gene::595", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:C081293", "label": "Compound::MESH:C081293", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::24473", "label": "Gene::24473", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::3689", "label": "Gene::3689", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::3683", "label": "Gene::3683", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:C051890", "label": "Compound::MESH:C051890", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D018288", "label": "Disease::MESH:D018288", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB11091", "label": "Compound::DB11091", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::18021", "label": "Gene::18021", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::CHEBI:17822", "label": "Compound::CHEBI:17822", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::5327", "label": "Gene::5327", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB00668", "label": "Compound::DB00668", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D001249", "label": "Disease::MESH:D001249", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::CHEBI:25094", "label": "Compound::CHEBI:25094", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D000647", "label": "Disease::MESH:D000647", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::CHEBI:15372", "label": "Compound::CHEBI:15372", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::14528", "label": "Gene::14528", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB00314", "label": "Compound::DB00314", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D018088", "label": "Disease::MESH:D018088", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB05381", "label": "Compound::DB05381", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::3146", "label": "Gene::3146", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::478666", "label": "Gene::478666", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D013610", "label": "Disease::MESH:D013610", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::5741", "label": "Gene::5741", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D002908", "label": "Disease::MESH:D002908", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::1311", "label": "Gene::1311", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:C536196", "label": "Disease::MESH:C536196", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::29452", "label": "Gene::29452", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::24941", "label": "Gene::24941", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::26362", "label": "Gene::26362", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::11848", "label": "Gene::11848", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D005355", "label": "Disease::MESH:D005355", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::173956", "label": "Gene::173956", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Tax::6239", "label": "Tax::6239", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB00818", "label": "Compound::DB00818", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::4843", "label": "Gene::4843", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::4498", "label": "Gene::4498", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D001749", "label": "Disease::MESH:D001749", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:C070081", "label": "Compound::MESH:C070081", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::24482", "label": "Gene::24482", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:D010118", "label": "Compound::MESH:D010118", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D005334", "label": "Disease::MESH:D005334", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::4255", "label": "Gene::4255", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D009837", "label": "Disease::MESH:D009837", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::89823", "label": "Gene::89823", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D007674", "label": "Disease::MESH:D007674", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::59301", "label": "Gene::59301", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D005767", "label": "Disease::MESH:D005767", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB00244", "label": "Compound::DB00244", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::CHEBI:52712", "label": "Compound::CHEBI:52712", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D001281", "label": "Disease::MESH:D001281", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:D001151", "label": "Compound::MESH:D001151", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D003872", "label": "Disease::MESH:D003872", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB01645", "label": "Compound::DB01645", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::17268", "label": "Gene::17268", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D015470", "label": "Disease::MESH:D015470", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::DB04540", "label": "Compound::DB04540", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::100009165", "label": "Gene::100009165", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::853552", "label": "Gene::853552", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::851870", "label": "Gene::851870", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:C048833", "label": "Compound::MESH:C048833", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::100616444", "label": "Gene::100616444", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::133418", "label": "Gene::133418", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Compound::MESH:C553296", "label": "Compound::MESH:C553296", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Disease::MESH:D008107", "label": "Disease::MESH:D008107", "shape": "dot", "size": 5}]);
+                  edges = new vis.DataSet([{"from": "Gene::713807", "label": "GNBR::J::Gene:Disease", "to": "Disease::MESH:D015658"}, {"from": "Compound::MESH:C515073", "label": "GNBR::O::Compound:Gene", "to": "Gene::283871"}, {"from": "Compound::DB13156", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D007239"}, {"from": "Compound::DB03057", "label": "GNBR::K::Compound:Gene", "to": "Gene::2147"}, {"from": "Compound::MESH:C030986", "label": "GNBR::E::Compound:Gene", "to": "Gene::1723"}, {"from": "Compound::DB00727", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D006976"}, {"from": "Gene::10232", "label": "GNBR::L::Gene:Disease", "to": "Disease::MESH:D002294"}, {"from": "Gene::18171", "label": "GNBR::E+::Gene:Gene", "to": "Gene::67078"}, {"from": "Gene::55294", "label": "GNBR::B::Gene:Gene", "to": "Gene::4899"}, {"from": "Compound::DB00455", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D009369"}, {"from": "Gene::7124", "label": "GNBR::L::Gene:Disease", "to": "Disease::MESH:D007972"}, {"from": "Gene::116637", "label": "GNBR::J::Gene:Disease", "to": "Disease::MESH:D056486"}, {"from": "Compound::MESH:C055162", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D051436"}, {"from": "Gene::504216", "label": "GNBR::J::Gene:Disease", "to": "Disease::MESH:D003866"}, {"from": "Compound::DB12257", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:C535504"}, {"from": "Gene::6554", "label": "GNBR::Q::Gene:Gene", "to": "Gene::595"}, {"from": "Compound::MESH:C081293", "label": "GNBR::A-::Compound:Gene", "to": "Gene::24473"}, {"from": "Gene::3689", "label": "GNBR::Q::Gene:Gene", "to": "Gene::3683"}, {"from": "Compound::MESH:C051890", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D018288"}, {"from": "Compound::DB11091", "label": "GNBR::E-::Compound:Gene", "to": "Gene::18021"}, {"from": "Compound::CHEBI:17822", "label": "GNBR::B::Compound:Gene", "to": "Gene::5327"}, {"from": "Compound::DB00668", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D001249"}, {"from": "Compound::CHEBI:25094", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D000647"}, {"from": "Compound::CHEBI:15372", "label": "GNBR::K::Compound:Gene", "to": "Gene::14528"}, {"from": "Compound::DB00314", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D018088"}, {"from": "Compound::DB05381", "label": "GNBR::N::Compound:Gene", "to": "Gene::3146"}, {"from": "Gene::478666", "label": "GNBR::J::Gene:Disease", "to": "Disease::MESH:D013610"}, {"from": "Gene::5741", "label": "GNBR::J::Gene:Disease", "to": "Disease::MESH:D002908"}, {"from": "Gene::1311", "label": "GNBR::J::Gene:Disease", "to": "Disease::MESH:C536196"}, {"from": "Gene::29452", "label": "GNBR::E+::Gene:Gene", "to": "Gene::24941"}, {"from": "Gene::26362", "label": "GNBR::J::Gene:Disease", "to": "Disease::MESH:D015658"}, {"from": "Gene::11848", "label": "GNBR::L::Gene:Disease", "to": "Disease::MESH:D005355"}, {"from": "Gene::173956", "label": "GNBR::in_tax::Gene:Tax", "to": "Tax::6239"}, {"from": "Compound::DB00818", "label": "GNBR::E::Compound:Gene", "to": "Gene::4843"}, {"from": "Gene::4498", "label": "GNBR::J::Gene:Disease", "to": "Disease::MESH:D001749"}, {"from": "Compound::MESH:C070081", "label": "GNBR::A-::Compound:Gene", "to": "Gene::24482"}, {"from": "Compound::MESH:D010118", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D005334"}, {"from": "Gene::4255", "label": "GNBR::L::Gene:Disease", "to": "Disease::MESH:D009837"}, {"from": "Gene::89823", "label": "GNBR::L::Gene:Disease", "to": "Disease::MESH:D007674"}, {"from": "Gene::59301", "label": "GNBR::J::Gene:Disease", "to": "Disease::MESH:D005767"}, {"from": "Compound::DB00244", "label": "GNBR::E::Compound:Gene", "to": "Gene::4843"}, {"from": "Compound::CHEBI:52712", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D001281"}, {"from": "Compound::MESH:D001151", "label": "GNBR::Sa::Compound:Disease", "to": "Disease::MESH:D003872"}, {"from": "Compound::DB01645", "label": "GNBR::E::Compound:Gene", "to": "Gene::2147"}, {"from": "Gene::17268", "label": "GNBR::L::Gene:Disease", "to": "Disease::MESH:D015470"}, {"from": "Compound::DB04540", "label": "GNBR::E::Compound:Gene", "to": "Gene::100009165"}, {"from": "Gene::853552", "label": "GNBR::B::Gene:Gene", "to": "Gene::851870"}, {"from": "Compound::MESH:C048833", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D003866"}, {"from": "Gene::100616444", "label": "GNBR::Rg::Gene:Gene", "to": "Gene::133418"}, {"from": "Compound::MESH:C553296", "label": "GNBR::T::Compound:Disease", "to": "Disease::MESH:D008107"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,258 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 600px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "red", "id": "Compound::DB01775", "label": "Compound::DB01775", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Malaria", "label": "Malaria", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00143", "label": "Compound::DB00143", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::CHEBI:35358", "label": "Compound::CHEBI:35358", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::CHEBI:37667", "label": "Compound::CHEBI:37667", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB06243", "label": "Compound::DB06243", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::CHEBI:73913", "label": "Compound::CHEBI:73913", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01299", "label": "Compound::DB01299", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D001120", "label": "Compound::MESH:D001120", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D018698", "label": "Compound::MESH:D018698", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C000978", "label": "Compound::MESH:C000978", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C001205", "label": "Compound::MESH:C001205", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C001207", "label": "Compound::MESH:C001207", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C001652", "label": "Compound::MESH:C001652", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C001920", "label": "Compound::MESH:C001920", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB12314", "label": "Compound::DB12314", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C009846", "label": "Compound::MESH:C009846", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C010086", "label": "Compound::MESH:C010086", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C010775", "label": "Compound::MESH:C010775", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB02015", "label": "Compound::DB02015", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C014153", "label": "Compound::MESH:C014153", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C016713", "label": "Compound::MESH:C016713", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB13721", "label": "Compound::DB13721", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB13600", "label": "Compound::DB13600", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C023676", "label": "Compound::MESH:C023676", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01218", "label": "Compound::DB01218", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB02948", "label": "Compound::DB02948", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB14763", "label": "Compound::DB14763", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB12975", "label": "Compound::DB12975", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB13132", "label": "Compound::DB13132", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C032942", "label": "Compound::MESH:C032942", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB13941", "label": "Compound::DB13941", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C037219", "label": "Compound::MESH:C037219", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB11638", "label": "Compound::DB11638", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C039726", "label": "Compound::MESH:C039726", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB13851", "label": "Compound::DB13851", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB06608", "label": "Compound::DB06608", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C080436", "label": "Compound::MESH:C080436", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C086083", "label": "Compound::MESH:C086083", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C090720", "label": "Compound::MESH:C090720", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C102070", "label": "Compound::MESH:C102070", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C105971", "label": "Compound::MESH:C105971", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C109496", "label": "Compound::MESH:C109496", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C492468", "label": "Compound::MESH:C492468", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C515298", "label": "Compound::MESH:C515298", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C519882", "label": "Compound::MESH:C519882", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:C572617", "label": "Compound::MESH:C572617", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00316", "label": "Compound::DB00316", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB06151", "label": "Compound::DB06151", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00613", "label": "Compound::DB00613", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D001151", "label": "Compound::MESH:D001151", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D001663", "label": "Compound::MESH:D001663", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00446", "label": "Compound::DB00446", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01131", "label": "Compound::DB01131", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00608", "label": "Compound::DB00608", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01114", "label": "Compound::DB01114", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB04540", "label": "Compound::DB04540", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00537", "label": "Compound::DB00537", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01190", "label": "Compound::DB01190", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00257", "label": "Compound::DB00257", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB14681", "label": "Compound::DB14681", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB11672", "label": "Compound::DB11672", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00250", "label": "Compound::DB00250", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00746", "label": "Compound::DB00746", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01234", "label": "Compound::DB01234", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D004026", "label": "Compound::MESH:D004026", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D004318", "label": "Compound::MESH:D004318", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00158", "label": "Compound::DB00158", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB09341", "label": "Compound::DB09341", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01611", "label": "Compound::DB01611", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01592", "label": "Compound::DB01592", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00602", "label": "Compound::DB00602", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00848", "label": "Compound::DB00848", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00563", "label": "Compound::DB00563", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D008751", "label": "Compound::MESH:D008751", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D009285", "label": "Compound::MESH:D009285", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D009569", "label": "Compound::MESH:D009569", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01174", "label": "Compound::DB01174", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01058", "label": "Compound::DB01058", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01087", "label": "Compound::DB01087", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D011722", "label": "Compound::MESH:D011722", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00205", "label": "Compound::DB00205", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01103", "label": "Compound::DB01103", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00908", "label": "Compound::DB00908", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00468", "label": "Compound::DB00468", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D011804", "label": "Compound::MESH:D011804", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00664", "label": "Compound::DB00664", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D013449", "label": "Compound::MESH:D013449", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00759", "label": "Compound::DB00759", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D013754", "label": "Compound::MESH:D013754", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D014612", "label": "Compound::MESH:D014612", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01593", "label": "Compound::DB01593", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D015662", "label": "Compound::MESH:D015662", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00358", "label": "Compound::DB00358", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB00207", "label": "Compound::DB00207", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D019344", "label": "Compound::MESH:D019344", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01645", "label": "Compound::DB01645", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB04930", "label": "Compound::DB04930", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::MESH:D037621", "label": "Compound::MESH:D037621", "shape": "dot", "size": 5}, {"color": "red", "id": "Compound::DB01117", "label": "Compound::DB01117", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::103573", "label": "Gene::103573", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::10544", "label": "Gene::10544", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::110755", "label": "Gene::110755", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::12014", "label": "Gene::12014", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::12362", "label": "Gene::12362", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::12504", "label": "Gene::12504", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::12766", "label": "Gene::12766", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::12944", "label": "Gene::12944", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::13856", "label": "Gene::13856", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::1401", "label": "Gene::1401", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::14283", "label": "Gene::14283", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::1565", "label": "Gene::1565", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::15894", "label": "Gene::15894", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::15978", "label": "Gene::15978", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::16173", "label": "Gene::16173", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::16175", "label": "Gene::16175", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::16184", "label": "Gene::16184", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::16189", "label": "Gene::16189", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::16193", "label": "Gene::16193", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::16423", "label": "Gene::16423", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::1719", "label": "Gene::1719", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::1723", "label": "Gene::1723", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::17319", "label": "Gene::17319", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::18126", "label": "Gene::18126", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::20201", "label": "Gene::20201", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::20344", "label": "Gene::20344", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::20371", "label": "Gene::20371", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::21926", "label": "Gene::21926", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::2212", "label": "Gene::2212", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::2532", "label": "Gene::2532", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::2655541", "label": "Gene::2655541", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::2936", "label": "Gene::2936", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::30009", "label": "Gene::30009", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::3383", "label": "Gene::3383", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::3454", "label": "Gene::3454", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::3558", "label": "Gene::3558", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::3559", "label": "Gene::3559", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::3569", "label": "Gene::3569", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::3576", "label": "Gene::3576", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::4153", "label": "Gene::4153", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::4486", "label": "Gene::4486", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::4519", "label": "Gene::4519", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::4843", "label": "Gene::4843", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::54210", "label": "Gene::54210", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::57817", "label": "Gene::57817", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::58217", "label": "Gene::58217", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::6521", "label": "Gene::6521", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::7040", "label": "Gene::7040", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::708", "label": "Gene::708", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::728", "label": "Gene::728", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::7295", "label": "Gene::7295", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::920", "label": "Gene::920", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::925", "label": "Gene::925", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::94195", "label": "Gene::94195", "shape": "dot", "size": 5}, {"color": "#97c2fc", "id": "Gene::948", "label": "Gene::948", "shape": "dot", "size": 5}]);
+                  edges = new vis.DataSet([{"from": "Compound::DB01775", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00143", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::CHEBI:35358", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::CHEBI:37667", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB06243", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::CHEBI:73913", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01299", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D001120", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D018698", "label": "GNBR::J::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C000978", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C001205", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C001207", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C001652", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C001920", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB12314", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C009846", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C010086", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C010775", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB02015", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C014153", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C016713", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB13721", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB13600", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C023676", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01218", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB02948", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB14763", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB12975", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB13132", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C032942", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB13941", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C037219", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB11638", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C039726", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB13851", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB06608", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C080436", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C086083", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C090720", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C102070", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C105971", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C109496", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C492468", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C515298", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C519882", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:C572617", "label": "GNBR::C::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00316", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB06151", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00613", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D001151", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D001663", "label": "GNBR::J::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00446", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01131", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00608", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01114", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB04540", "label": "GNBR::J::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00537", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01190", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00257", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB14681", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB11672", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00250", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00746", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01234", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D004026", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D004318", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00158", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB09341", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01611", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01592", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00602", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00848", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00563", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D008751", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D009285", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D009569", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01174", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01058", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01087", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D011722", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00205", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01103", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00908", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00468", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D011804", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00664", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D013449", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00759", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D013754", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D014612", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01593", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D015662", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00358", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB00207", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D019344", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01645", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB04930", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::MESH:D037621", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Compound::DB01117", "label": "GNBR::T::Compound:Disease", "to": "Malaria"}, {"from": "Gene::103573", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}, {"from": "Gene::10544", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::110755", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}, {"from": "Gene::12014", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::12362", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}, {"from": "Gene::12504", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::12766", "label": "GNBR::G::Gene:Disease", "to": "Malaria"}, {"from": "Gene::12944", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::13856", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::1401", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::14283", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::1565", "label": "GNBR::U::Gene:Disease", "to": "Malaria"}, {"from": "Gene::15894", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::15978", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::16173", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::16175", "label": "GNBR::X::Gene:Disease", "to": "Malaria"}, {"from": "Gene::16184", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::16189", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::16193", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::16423", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::1719", "label": "GNBR::Te::Gene:Disease", "to": "Malaria"}, {"from": "Gene::1723", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}, {"from": "Gene::17319", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::18126", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}, {"from": "Gene::20201", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::20344", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::20371", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::21926", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::2212", "label": "GNBR::Y::Gene:Disease", "to": "Malaria"}, {"from": "Gene::2532", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::2655541", "label": "GNBR::Ud::Gene:Disease", "to": "Malaria"}, {"from": "Gene::2936", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}, {"from": "Gene::30009", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::3383", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}, {"from": "Gene::3454", "label": "GNBR::Y::Gene:Disease", "to": "Malaria"}, {"from": "Gene::3558", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::3559", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::3569", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::3576", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::4153", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::4486", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::4519", "label": "GNBR::Ud::Gene:Disease", "to": "Malaria"}, {"from": "Gene::4843", "label": "GNBR::G::Gene:Disease", "to": "Malaria"}, {"from": "Gene::54210", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::57817", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::58217", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}, {"from": "Gene::6521", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}, {"from": "Gene::7040", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::708", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::728", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::7295", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::920", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::925", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::94195", "label": "GNBR::J::Gene:Disease", "to": "Malaria"}, {"from": "Gene::948", "label": "GNBR::L::Gene:Disease", "to": "Malaria"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.3,
+            "damping": 0.09,
+            "gravitationalConstant": -7000,
+            "springConstant": 0.01,
+            "springLength": 10
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
