@@ -78,7 +78,7 @@ if nav == 'Get drugs recommendations':
     if st.button("Get recommendations"):
         #Drug recommendations
         final_selection = disease_selection + model_selection
-        ranking_file = pd.read_csv('../embedding_models/' + final_selection + '.csv',  sep = ',')
+        ranking_file = pd.read_csv('embedding_models/' + final_selection + '.csv',  sep = ',')
 
         st.markdown("<h3 style='text-align: left; color:#F63366; font-size:18px;'><b>Drugs recommendations<b></h3>", unsafe_allow_html=True)
         st.write(ranking_file)
@@ -93,12 +93,12 @@ if nav == 'Get drugs recommendations':
         import streamlit.components.v1 as components
 
         #Visualize
-        HtmlFile = open('../graphs/knowledge_graph_' + disease_selection + '.html', 'r', encoding='utf-8')
+        HtmlFile = open('graphs/knowledge_graph_' + disease_selection + '.html', 'r', encoding='utf-8')
         source_code = HtmlFile.read() 
         components.html(source_code, height = 625,width=750)
 
         #Model performance
-        performance_file = pd.read_csv('../embedding_models/performance_metrics.csv', sep = ';')
+        performance_file = pd.read_csv('embedding_models/performance_metrics.csv', sep = ';')
         # Filter rows where the 'final_selection' column matches final_selection
         filtered_data = performance_file[performance_file['final_selection'] == final_selection]
         st.markdown("<h3 style='text-align: left; color:#F63366; font-size:18px;'><b>Model performance<b></h3>", unsafe_allow_html=True)
