@@ -5,6 +5,7 @@
 ##########
 
 import streamlit as st
+import pandas as pd
 
 #############
 #PAGE SET UP
@@ -65,8 +66,6 @@ if nav == 'Go to homepage':
 
 #DRUG RECOMMENDATION
 ####################
-
-import pandas as pd
 
 if nav == 'Get drugs recommendations':
     st.text('')
