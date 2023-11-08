@@ -1,4 +1,4 @@
-#                   DRUG REPURPOSING USING KNOWLEDGE GRAPHS
+e#                   DRUG REPURPOSING USING KNOWLEDGE GRAPHS
 
 ##########
 #LIBRARIES
@@ -25,7 +25,7 @@ def p_title(title):
 ########
 
 st.sidebar.header('I want to:')
-nav = st.sidebar.radio('',['Go to homepage', 'Get drugs recommendations :pill:', 'Visualize graph'])
+nav = st.sidebar.radio('',['Go to homepage', 'Get drugs recommendations :pill:', 'Visualize graph :eye:'])
 st.sidebar.write('')
 st.sidebar.write('')
 st.sidebar.write('')
