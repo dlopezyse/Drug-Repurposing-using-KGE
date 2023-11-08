@@ -67,7 +67,7 @@ if nav == 'Go to homepage':
 #DRUG RECOMMENDATION
 ####################
 
-if nav == 'Get drugs recommendations':
+if nav == 'Get drugs recommendations :pill:':
     st.text('')
     p_title('Get drugs recommendations')
     st.text('')
@@ -108,7 +108,7 @@ if nav == 'Get drugs recommendations':
 #VISUALIZE GRAPH
 ####################
 
-if nav == 'Visualize graph':
+if nav == 'Visualize graph :eyes:':
     st.text('')
     p_title('Visualize graph')
     st.text('')
