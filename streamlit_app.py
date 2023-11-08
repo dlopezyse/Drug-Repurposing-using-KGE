@@ -25,7 +25,7 @@ def p_title(title):
 ########
 
 st.sidebar.header('I want to:')
-nav = st.sidebar.radio('',['Go to homepage', 'Get drugs recommendations :pill:', 'Visualize graph :eye:'])
+nav = st.sidebar.radio('',['Go to homepage', 'Get drugs recommendations :pill:', 'Visualize graph :eyes:'])
 st.sidebar.write('')
 st.sidebar.write('')
 st.sidebar.write('')
