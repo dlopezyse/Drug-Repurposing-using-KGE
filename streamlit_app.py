@@ -113,18 +113,10 @@ if nav == 'Visualize graph :eyes:':
 ###############
 
 if nav == 'About this App':
+    st.text('')
+    p_title('About this App')
+    st.text('')
 
-    st.markdown("<h1 style='text-align: center; color: gray; font-size:28px;'>Drug Repurposing using Knowledge Graph Embeddings</h1>", unsafe_allow_html=True)
-    # st.markdown("<h3 style='text-align: center; font-size:56px;'<p>&#129302;</p></h3>", unsafe_allow_html=True)
-    # st.markdown("<h3 style='text-align: center; color: grey; font-size:20px;'>Summarize, paraphrase, analyze text & more. Try our models, browse their source code, and share with the world!</h3>", unsafe_allow_html=True)
-    """
-    [![Star](https://img.shields.io/github/stars/dlopezyse/Drug-Repurposing-using-KGE.svg?logo=github&style=social)](https://github.com/dlopezyse/Drug-Repurposing-using-KGE)
-    [![Follow](https://img.shields.io/twitter/follow/lopezyse?style=social)](https://www.twitter.com/lopezyse)
-    """
-    st.markdown('___')
-    st.write(':point_left: Use the menu at left to select a task (click on > if closed).')
-    st.markdown('___')
-    st.markdown("<h3 style='text-align: left; color:#F63366; font-size:18px;'><b>What is this App about?<b></h3>", unsafe_allow_html=True)
     st.write("This is a solution to showcase some of the results produced in the paper [Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8) as developed by [Diego López Yse](https://www.linkedin.com/in/lopezyse/) and [Diego Torres](https://www.linkedin.com/in/ditorres/) for the Conference on Cloud Computing, Big Data & Emerging Topics 2023.")
     st.write("Drug repurposing methods can identify already approved drugs to treat them efficiently, reducing development costs and time. At the same time, knowledge graph embedding techniques can encode biological information in a single structure that allows users to operate relationships, extract information, learn connections, and make predictions to discover potential new relationships between existing drugs and vector-borne diseases.")
     st.write("In this project, we compare seven knowledge graph embedding models (TransE, TransR, TransH, UM, DistMult, RESCAL, and ERMLP) applied to Drug Repurposing Knowledge Graph (DRKG), analyzing their predictive performance over seven different vector-borne diseases (dengue, chagas, malaria, yellow fever, leishmaniasis, filariasis, and schistosomiasis), measuring their embedding quality and external performance against a ground-truth.")
