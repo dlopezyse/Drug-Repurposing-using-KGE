@@ -18,7 +18,7 @@ st.set_page_config(page_title="Drug Repurposing",
                    )
 
 def p_title(title):
-    st.markdown(f'<h3 style="text-align: left; color:#F63366; font-size:28px;">{title}</h3>', unsafe_allow_html=True)
+    st.markdown(f'<h3 style="text-align: left; color:#F63366; font-size:24px;">{title}</h3>', unsafe_allow_html=True)
 
 st.markdown("<h1 style='text-align: center; color: gray; font-size:28px;'>Drug Repurposing using Knowledge Graph Embeddings</h1>", unsafe_allow_html=True)
 """
