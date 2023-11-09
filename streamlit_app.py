@@ -84,7 +84,7 @@ if nav == 'Get drugs recommendations :pill:':
         performance_file = pd.read_csv('embedding_models/performance_metrics.csv', sep = ';')
         # Filter rows where the 'final_selection' column matches final_selection
         filtered_data = performance_file[performance_file['final_selection'] == final_selection]
-        st.markdown("<h3 style='text-align: left; color:#F63366; font-size:18px;'><b>Model performance<b></h3>", unsafe_allow_html=True)
+        st.markdown("<h3 style='text-align: left; color:#F63366; font-size:18px;'><b>Embedding model performance<b></h3>", unsafe_allow_html=True)
         st.dataframe(filtered_data[['Measure', 'Value']], hide_index=True)
 
 
