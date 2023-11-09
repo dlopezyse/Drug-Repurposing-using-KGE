@@ -11,4 +11,4 @@ You can find here the data and code used for developing and evaluating the predi
 - **[KGE_system.py](KGE_system.py)**: Outputs a drug ranking prediction based on chosen disease and embedding model
 
 ### Environment
-The project was developed in Spyder 4 IDE using Python 3.8.8
+The project was developed using Visual Studio Code 1.84 with Python 3.10.13
