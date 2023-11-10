@@ -28,4 +28,4 @@ pipeline_result = pipeline(
 )
 
 # Save training triples to directory
-pipeline_result.save_to_directory('./DRKG/DRKG_transe')
+pipeline_result.save_to_directory('./DRKG_transe')
