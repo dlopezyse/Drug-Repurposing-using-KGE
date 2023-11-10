@@ -5,7 +5,7 @@ CHOSEN_DISEASE = 'schistosomiasis'
 CHOSEN_MODEL = 'ermlp'
 
 # Load embedding model
-model_path = '../drkg_' + CHOSEN_MODEL + '/trained_model.pkl'
+model_path = './drkg_' + CHOSEN_MODEL + '/trained_model.pkl'
 emb_model = torch.load(model_path, map_location=torch.device('cpu')) 
 
 # Perform head prediction and check if it exists in training  and testing sets
