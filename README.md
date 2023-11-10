@@ -4,9 +4,6 @@ Drug repurposing methods can identify already approved drugs to treat them effic
 
 In this project, we compare seven knowledge graph embedding models (TransE, TransR, TransH, UM, DistMult, RESCAL, and ERMLP) applied to Drug Repurposing Knowledge Graph (DRKG), analyzing their predictive performance over seven different vector-borne diseases (dengue, chagas, malaria, yellow fever, leishmaniasis, filariasis, and schistosomiasis), measuring their embedding quality and external performance against a ground-truth.
 
-![drkge_demo](drkge_demo.gif)
-
-
 This project is based on the paper **[Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8)** as developed by [Diego López Yse](https://www.linkedin.com/in/lopezyse/) and [Diego Torres](https://www.linkedin.com/in/ditorres/) for the Conference on Cloud Computing, Big Data & Emerging Topics 2023.
 
 You can find here the data and code used for developing and evaluating the predictive models.
