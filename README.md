@@ -12,7 +12,8 @@ You can find here the data and code used for developing and evaluating the predi
 
 - **[streamlit_app.py](streamlit_app.py)**: outputs a drug ranking prediction based on a chosen disease and embedding model.
 - **[embedding_models](embedding_models)**: contains the trained embedding models and prediction results on target diseases performed on the DRKG dataset.
-- **[train_embeddings.py](train_embeddings.py)**: 
+- **[train_embeddings.py](train_embeddings.py)**: trains an embedding model on a given dataset. Predictions can be performed on the results of this training.
+- **[predictions.py](predictions.py)**: performs predictions on the already trained embedding models. 
 
 ### Environment
 The project was developed using Visual Studio Code 1.84 with Python 3.10.13
