@@ -1,393 +1,393 @@
 Measure;Value;final_selection
-AMR;0,039725473;DengueDistMult
-Hits@1;0,015864977;DengueDistMult
-Hits@3;0,035778124;DengueDistMult
-Hits@5;0,049893944;DengueDistMult
-Hits@10;0,076103203;DengueDistMult
+AMR;0.039725473;DengueDistMult
+Hits@1;0.015864977;DengueDistMult
+Hits@3;0.035778124;DengueDistMult
+Hits@5;0.049893944;DengueDistMult
+Hits@10;0.076103203;DengueDistMult
 First hit;70;DengueDistMult
 Median hit;1712;DengueDistMult
 Final hit;38574;DengueDistMult
-AMR;0,018771526;DengueERMLP
-Hits@1;0,027579644;DengueERMLP
-Hits@3;0,079106134;DengueERMLP
-Hits@5;0,109723608;DengueERMLP
-Hits@10;0,16389043;DengueERMLP
+AMR;0.018771526;DengueERMLP
+Hits@1;0.027579644;DengueERMLP
+Hits@3;0.079106134;DengueERMLP
+Hits@5;0.109723608;DengueERMLP
+Hits@10;0.16389043;DengueERMLP
 First hit;314;DengueERMLP
 Median hit;2367;DengueERMLP
 Final hit;34824;DengueERMLP
-AMR;1,0005407021;DengueRESCAL
-Hits@1;1,70E-06;DengueRESCAL
-Hits@3;1,70E-06;DengueRESCAL
-Hits@5;3,40E-06;DengueRESCAL
-Hits@10;5,11E-06;DengueRESCAL
+AMR;1.000540702;DengueRESCAL
+Hits@1;1.70E-06;DengueRESCAL
+Hits@3;1.70E-06;DengueRESCAL
+Hits@5;3.40E-06;DengueRESCAL
+Hits@10;5.11E-06;DengueRESCAL
 First hit;14587;DengueRESCAL
 Median hit;42968;DengueRESCAL
 Final hit;80186;DengueRESCAL
-AMR;0,062996268;DengueTransH
-Hits@1;0,006039059;DengueTransH
-Hits@3;0,013700449;DengueTransH
-Hits@5;0,021414612;DengueTransH
-Hits@10;0,039236431;DengueTransH
+AMR;0.062996268;DengueTransH
+Hits@1;0.006039059;DengueTransH
+Hits@3;0.013700449;DengueTransH
+Hits@5;0.021414612;DengueTransH
+Hits@10;0.039236431;DengueTransH
 First hit;957;DengueTransH
 Median hit;7971;DengueTransH
 Final hit;64089;DengueTransH
-AMR;0,023566153;DengueTransE
-Hits@1;0,008788341;DengueTransE
-Hits@3;0,066196423;DengueTransE
-Hits@5;0,091010612;DengueTransE
-Hits@10;0,132883972;DengueTransE
+AMR;0.023566153;DengueTransE
+Hits@1;0.008788341;DengueTransE
+Hits@3;0.066196423;DengueTransE
+Hits@5;0.091010612;DengueTransE
+Hits@10;0.132883972;DengueTransE
 First hit;42;DengueTransE
 Median hit;880;DengueTransE
 Final hit;34438;DengueTransE
-AMR;0,019340477;DengueTransR
-Hits@1;0,012125783;DengueTransR
-Hits@3;0,063673552;DengueTransR
-Hits@5;0,088387303;DengueTransR
-Hits@10;0,131876185;DengueTransR
+AMR;0.019340477;DengueTransR
+Hits@1;0.012125783;DengueTransR
+Hits@3;0.063673552;DengueTransR
+Hits@5;0.088387303;DengueTransR
+Hits@10;0.131876185;DengueTransR
 First hit;96;DengueTransR
 Median hit;3045;DengueTransR
 Final hit;43247;DengueTransR
-AMR;0,044408543;DengueUM
-Hits@1;0,000732858;DengueUM
-Hits@3;0,034500516;DengueUM
-Hits@5;0,04947687;DengueUM
-Hits@10;0,074975401;DengueUM
+AMR;0.044408543;DengueUM
+Hits@1;0.000732858;DengueUM
+Hits@3;0.034500516;DengueUM
+Hits@5;0.04947687;DengueUM
+Hits@10;0.074975401;DengueUM
 First hit;352;DengueUM
 Median hit;6761;DengueUM
 Final hit;47460;DengueUM
-AMR;0,039725473;ChagasDistMult
-Hits@1;0,015864977;ChagasDistMult
-Hits@3;0,035778124;ChagasDistMult
-Hits@5;0,049893944;ChagasDistMult
-Hits@10;0,076103203;ChagasDistMult
+AMR;0.039725473;ChagasDistMult
+Hits@1;0.015864977;ChagasDistMult
+Hits@3;0.035778124;ChagasDistMult
+Hits@5;0.049893944;ChagasDistMult
+Hits@10;0.076103203;ChagasDistMult
 First hit;247;ChagasDistMult
 Median hit;2411;ChagasDistMult
 Final hit;18911;ChagasDistMult
-AMR;0,018771526;ChagasERMLP
-Hits@1;0,027579644;ChagasERMLP
-Hits@3;0,079106134;ChagasERMLP
-Hits@5;0,109723608;ChagasERMLP
-Hits@10;0,16389043;ChagasERMLP
+AMR;0.018771526;ChagasERMLP
+Hits@1;0.027579644;ChagasERMLP
+Hits@3;0.079106134;ChagasERMLP
+Hits@5;0.109723608;ChagasERMLP
+Hits@10;0.16389043;ChagasERMLP
 First hit;542;ChagasERMLP
 Median hit;2158;ChagasERMLP
 Final hit;53480;ChagasERMLP
-AMR;1,0005407021;ChagasRESCAL
-Hits@1;1,70E-06;ChagasRESCAL
-Hits@3;1,70E-06;ChagasRESCAL
-Hits@5;3,40E-06;ChagasRESCAL
-Hits@10;5,11E-06;ChagasRESCAL
+AMR;1.000540702;ChagasRESCAL
+Hits@1;1.70E-06;ChagasRESCAL
+Hits@3;1.70E-06;ChagasRESCAL
+Hits@5;3.40E-06;ChagasRESCAL
+Hits@10;5.11E-06;ChagasRESCAL
 First hit;784;ChagasRESCAL
 Median hit;50670;ChagasRESCAL
 Final hit;93280;ChagasRESCAL
-AMR;0,062996268;ChagasTransH
-Hits@1;0,006039059;ChagasTransH
-Hits@3;0,013700449;ChagasTransH
-Hits@5;0,021414612;ChagasTransH
-Hits@10;0,039236431;ChagasTransH
+AMR;0.062996268;ChagasTransH
+Hits@1;0.006039059;ChagasTransH
+Hits@3;0.013700449;ChagasTransH
+Hits@5;0.021414612;ChagasTransH
+Hits@10;0.039236431;ChagasTransH
 First hit;914;ChagasTransH
 Median hit;4951;ChagasTransH
 Final hit;66046;ChagasTransH
-AMR;0,023566153;ChagasTransE
-Hits@1;0,008788341;ChagasTransE
-Hits@3;0,066196423;ChagasTransE
-Hits@5;0,091010612;ChagasTransE
-Hits@10;0,132883972;ChagasTransE
+AMR;0.023566153;ChagasTransE
+Hits@1;0.008788341;ChagasTransE
+Hits@3;0.066196423;ChagasTransE
+Hits@5;0.091010612;ChagasTransE
+Hits@10;0.132883972;ChagasTransE
 First hit;306;ChagasTransE
 Median hit;2163;ChagasTransE
 Final hit;63206;ChagasTransE
-AMR;0,019340477;ChagasTransR
-Hits@1;0,012125783;ChagasTransR
-Hits@3;0,063673552;ChagasTransR
-Hits@5;0,088387303;ChagasTransR
-Hits@10;0,131876185;ChagasTransR
+AMR;0.019340477;ChagasTransR
+Hits@1;0.012125783;ChagasTransR
+Hits@3;0.063673552;ChagasTransR
+Hits@5;0.088387303;ChagasTransR
+Hits@10;0.131876185;ChagasTransR
 First hit;81;ChagasTransR
 Median hit;2027;ChagasTransR
 Final hit;31634;ChagasTransR
-AMR;0,044408543;ChagasUM
-Hits@1;0,000732858;ChagasUM
-Hits@3;0,034500516;ChagasUM
-Hits@5;0,04947687;ChagasUM
-Hits@10;0,074975401;ChagasUM
+AMR;0.044408543;ChagasUM
+Hits@1;0.000732858;ChagasUM
+Hits@3;0.034500516;ChagasUM
+Hits@5;0.04947687;ChagasUM
+Hits@10;0.074975401;ChagasUM
 First hit;199;ChagasUM
 Median hit;6585;ChagasUM
 Final hit;47278;ChagasUM
-AMR;0,039725473;MalariaDistMult
-Hits@1;0,015864977;MalariaDistMult
-Hits@3;0,035778124;MalariaDistMult
-Hits@5;0,049893944;MalariaDistMult
-Hits@10;0,076103203;MalariaDistMult
+AMR;0.039725473;MalariaDistMult
+Hits@1;0.015864977;MalariaDistMult
+Hits@3;0.035778124;MalariaDistMult
+Hits@5;0.049893944;MalariaDistMult
+Hits@10;0.076103203;MalariaDistMult
 First hit;23;MalariaDistMult
 Median hit;1664;MalariaDistMult
 Final hit;28748;MalariaDistMult
-AMR;0,018771526;MalariaERMLP
-Hits@1;0,027579644;MalariaERMLP
-Hits@3;0,079106134;MalariaERMLP
-Hits@5;0,109723608;MalariaERMLP
-Hits@10;0,16389043;MalariaERMLP
+AMR;0.018771526;MalariaERMLP
+Hits@1;0.027579644;MalariaERMLP
+Hits@3;0.079106134;MalariaERMLP
+Hits@5;0.109723608;MalariaERMLP
+Hits@10;0.16389043;MalariaERMLP
 First hit;30;MalariaERMLP
 Median hit;1208;MalariaERMLP
 Final hit;27979;MalariaERMLP
-AMR;1,0005407021;MalariaRESCAL
-Hits@1;1,70E-06;MalariaRESCAL
-Hits@3;1,70E-06;MalariaRESCAL
-Hits@5;3,40E-06;MalariaRESCAL
-Hits@10;5,11E-06;MalariaRESCAL
+AMR;1.000540702;MalariaRESCAL
+Hits@1;1.70E-06;MalariaRESCAL
+Hits@3;1.70E-06;MalariaRESCAL
+Hits@5;3.40E-06;MalariaRESCAL
+Hits@10;5.11E-06;MalariaRESCAL
 First hit;4146;MalariaRESCAL
 Median hit;50038;MalariaRESCAL
 Final hit;94347;MalariaRESCAL
-AMR;0,062996268;MalariaTransH
-Hits@1;0,006039059;MalariaTransH
-Hits@3;0,013700449;MalariaTransH
-Hits@5;0,021414612;MalariaTransH
-Hits@10;0,039236431;MalariaTransH
+AMR;0.062996268;MalariaTransH
+Hits@1;0.006039059;MalariaTransH
+Hits@3;0.013700449;MalariaTransH
+Hits@5;0.021414612;MalariaTransH
+Hits@10;0.039236431;MalariaTransH
 First hit;35;MalariaTransH
 Median hit;978;MalariaTransH
 Final hit;59035;MalariaTransH
-AMR;0,023566153;MalariaTransE
-Hits@1;0,008788341;MalariaTransE
-Hits@3;0,066196423;MalariaTransE
-Hits@5;0,091010612;MalariaTransE
-Hits@10;0,132883972;MalariaTransE
+AMR;0.023566153;MalariaTransE
+Hits@1;0.008788341;MalariaTransE
+Hits@3;0.066196423;MalariaTransE
+Hits@5;0.091010612;MalariaTransE
+Hits@10;0.132883972;MalariaTransE
 First hit;14;MalariaTransE
 Median hit;1610;MalariaTransE
 Final hit;47491;MalariaTransE
-AMR;0,019340477;MalariaTransR
-Hits@1;0,012125783;MalariaTransR
-Hits@3;0,063673552;MalariaTransR
-Hits@5;0,088387303;MalariaTransR
-Hits@10;0,131876185;MalariaTransR
+AMR;0.019340477;MalariaTransR
+Hits@1;0.012125783;MalariaTransR
+Hits@3;0.063673552;MalariaTransR
+Hits@5;0.088387303;MalariaTransR
+Hits@10;0.131876185;MalariaTransR
 First hit;2;MalariaTransR
 Median hit;1108;MalariaTransR
 Final hit;63912;MalariaTransR
-AMR;0,044408543;MalariaUM
-Hits@1;0,000732858;MalariaUM
-Hits@3;0,034500516;MalariaUM
-Hits@5;0,04947687;MalariaUM
-Hits@10;0,074975401;MalariaUM
+AMR;0.044408543;MalariaUM
+Hits@1;0.000732858;MalariaUM
+Hits@3;0.034500516;MalariaUM
+Hits@5;0.04947687;MalariaUM
+Hits@10;0.074975401;MalariaUM
 First hit;668;MalariaUM
 Median hit;19308;MalariaUM
 Final hit;93286;MalariaUM
-AMR;0,039725473;Yellow FeverDistMult
-Hits@1;0,015864977;Yellow FeverDistMult
-Hits@3;0,035778124;Yellow FeverDistMult
-Hits@5;0,049893944;Yellow FeverDistMult
-Hits@10;0,076103203;Yellow FeverDistMult
+AMR;0.039725473;Yellow FeverDistMult
+Hits@1;0.015864977;Yellow FeverDistMult
+Hits@3;0.035778124;Yellow FeverDistMult
+Hits@5;0.049893944;Yellow FeverDistMult
+Hits@10;0.076103203;Yellow FeverDistMult
 First hit;2893;Yellow FeverDistMult
 Median hit;5719;Yellow FeverDistMult
 Final hit;15017;Yellow FeverDistMult
-AMR;0,018771526;Yellow FeverERMLP
-Hits@1;0,027579644;Yellow FeverERMLP
-Hits@3;0,079106134;Yellow FeverERMLP
-Hits@5;0,109723608;Yellow FeverERMLP
-Hits@10;0,16389043;Yellow FeverERMLP
+AMR;0.018771526;Yellow FeverERMLP
+Hits@1;0.027579644;Yellow FeverERMLP
+Hits@3;0.079106134;Yellow FeverERMLP
+Hits@5;0.109723608;Yellow FeverERMLP
+Hits@10;0.16389043;Yellow FeverERMLP
 First hit;1728;Yellow FeverERMLP
 Median hit;4082;Yellow FeverERMLP
 Final hit;22089;Yellow FeverERMLP
-AMR;1,0005407021;Yellow FeverRESCAL
-Hits@1;1,70E-06;Yellow FeverRESCAL
-Hits@3;1,70E-06;Yellow FeverRESCAL
-Hits@5;3,40E-06;Yellow FeverRESCAL
-Hits@10;5,11E-06;Yellow FeverRESCAL
+AMR;1.000540702;Yellow FeverRESCAL
+Hits@1;1.70E-06;Yellow FeverRESCAL
+Hits@3;1.70E-06;Yellow FeverRESCAL
+Hits@5;3.40E-06;Yellow FeverRESCAL
+Hits@10;5.11E-06;Yellow FeverRESCAL
 First hit;36061;Yellow FeverRESCAL
 Median hit;55773;Yellow FeverRESCAL
 Final hit;63911;Yellow FeverRESCAL
-AMR;0,062996268;Yellow FeverTransH
-Hits@1;0,006039059;Yellow FeverTransH
-Hits@3;0,013700449;Yellow FeverTransH
-Hits@5;0,021414612;Yellow FeverTransH
-Hits@10;0,039236431;Yellow FeverTransH
+AMR;0.062996268;Yellow FeverTransH
+Hits@1;0.006039059;Yellow FeverTransH
+Hits@3;0.013700449;Yellow FeverTransH
+Hits@5;0.021414612;Yellow FeverTransH
+Hits@10;0.039236431;Yellow FeverTransH
 First hit;1048;Yellow FeverTransH
 Median hit;29513;Yellow FeverTransH
 Final hit;61479;Yellow FeverTransH
-AMR;0,023566153;Yellow FeverTransE
-Hits@1;0,008788341;Yellow FeverTransE
-Hits@3;0,066196423;Yellow FeverTransE
-Hits@5;0,091010612;Yellow FeverTransE
-Hits@10;0,132883972;Yellow FeverTransE
+AMR;0.023566153;Yellow FeverTransE
+Hits@1;0.008788341;Yellow FeverTransE
+Hits@3;0.066196423;Yellow FeverTransE
+Hits@5;0.091010612;Yellow FeverTransE
+Hits@10;0.132883972;Yellow FeverTransE
 First hit;3823;Yellow FeverTransE
 Median hit;7703;Yellow FeverTransE
 Final hit;17475;Yellow FeverTransE
-AMR;0,019340477;Yellow FeverTransR
-Hits@1;0,012125783;Yellow FeverTransR
-Hits@3;0,063673552;Yellow FeverTransR
-Hits@5;0,088387303;Yellow FeverTransR
-Hits@10;0,131876185;Yellow FeverTransR
+AMR;0.019340477;Yellow FeverTransR
+Hits@1;0.012125783;Yellow FeverTransR
+Hits@3;0.063673552;Yellow FeverTransR
+Hits@5;0.088387303;Yellow FeverTransR
+Hits@10;0.131876185;Yellow FeverTransR
 First hit;3762;Yellow FeverTransR
 Median hit;10926;Yellow FeverTransR
 Final hit;54485;Yellow FeverTransR
-AMR;0,044408543;Yellow FeverUM
-Hits@1;0,000732858;Yellow FeverUM
-Hits@3;0,034500516;Yellow FeverUM
-Hits@5;0,04947687;Yellow FeverUM
-Hits@10;0,074975401;Yellow FeverUM
+AMR;0.044408543;Yellow FeverUM
+Hits@1;0.000732858;Yellow FeverUM
+Hits@3;0.034500516;Yellow FeverUM
+Hits@5;0.04947687;Yellow FeverUM
+Hits@10;0.074975401;Yellow FeverUM
 First hit;9819;Yellow FeverUM
 Median hit;54164;Yellow FeverUM
 Final hit;69320;Yellow FeverUM
-AMR;0,039725473;LeishmaniasisDistMult
-Hits@1;0,015864977;LeishmaniasisDistMult
-Hits@3;0,035778124;LeishmaniasisDistMult
-Hits@5;0,049893944;LeishmaniasisDistMult
-Hits@10;0,076103203;LeishmaniasisDistMult
+AMR;0.039725473;LeishmaniasisDistMult
+Hits@1;0.015864977;LeishmaniasisDistMult
+Hits@3;0.035778124;LeishmaniasisDistMult
+Hits@5;0.049893944;LeishmaniasisDistMult
+Hits@10;0.076103203;LeishmaniasisDistMult
 First hit;10;LeishmaniasisDistMult
 Median hit;1303;LeishmaniasisDistMult
 Final hit;19184;LeishmaniasisDistMult
-AMR;0,018771526;LeishmaniasisERMLP
-Hits@1;0,027579644;LeishmaniasisERMLP
-Hits@3;0,079106134;LeishmaniasisERMLP
-Hits@5;0,109723608;LeishmaniasisERMLP
-Hits@10;0,16389043;LeishmaniasisERMLP
+AMR;0.018771526;LeishmaniasisERMLP
+Hits@1;0.027579644;LeishmaniasisERMLP
+Hits@3;0.079106134;LeishmaniasisERMLP
+Hits@5;0.109723608;LeishmaniasisERMLP
+Hits@10;0.16389043;LeishmaniasisERMLP
 First hit;19;LeishmaniasisERMLP
 Median hit;693;LeishmaniasisERMLP
 Final hit;4994;LeishmaniasisERMLP
-AMR;1,0005407021;LeishmaniasisRESCAL
-Hits@1;1,70E-06;LeishmaniasisRESCAL
-Hits@3;1,70E-06;LeishmaniasisRESCAL
-Hits@5;3,40E-06;LeishmaniasisRESCAL
-Hits@10;5,11E-06;LeishmaniasisRESCAL
+AMR;1.000540702;LeishmaniasisRESCAL
+Hits@1;1.70E-06;LeishmaniasisRESCAL
+Hits@3;1.70E-06;LeishmaniasisRESCAL
+Hits@5;3.40E-06;LeishmaniasisRESCAL
+Hits@10;5.11E-06;LeishmaniasisRESCAL
 First hit;2694;LeishmaniasisRESCAL
 Median hit;42208;LeishmaniasisRESCAL
 Final hit;76546;LeishmaniasisRESCAL
-AMR;0,062996268;LeishmaniasisTransH
-Hits@1;0,006039059;LeishmaniasisTransH
-Hits@3;0,013700449;LeishmaniasisTransH
-Hits@5;0,021414612;LeishmaniasisTransH
-Hits@10;0,039236431;LeishmaniasisTransH
+AMR;0.062996268;LeishmaniasisTransH
+Hits@1;0.006039059;LeishmaniasisTransH
+Hits@3;0.013700449;LeishmaniasisTransH
+Hits@5;0.021414612;LeishmaniasisTransH
+Hits@10;0.039236431;LeishmaniasisTransH
 First hit;336;LeishmaniasisTransH
 Median hit;2513;LeishmaniasisTransH
 Final hit;63685;LeishmaniasisTransH
-AMR;0,023566153;LeishmaniasisTransE
-Hits@1;0,008788341;LeishmaniasisTransE
-Hits@3;0,066196423;LeishmaniasisTransE
-Hits@5;0,091010612;LeishmaniasisTransE
-Hits@10;0,132883972;LeishmaniasisTransE
+AMR;0.023566153;LeishmaniasisTransE
+Hits@1;0.008788341;LeishmaniasisTransE
+Hits@3;0.066196423;LeishmaniasisTransE
+Hits@5;0.091010612;LeishmaniasisTransE
+Hits@10;0.132883972;LeishmaniasisTransE
 First hit;7;LeishmaniasisTransE
 Median hit;841;LeishmaniasisTransE
 Final hit;60241;LeishmaniasisTransE
-AMR;0,019340477;LeishmaniasisTransR
-Hits@1;0,012125783;LeishmaniasisTransR
-Hits@3;0,063673552;LeishmaniasisTransR
-Hits@5;0,088387303;LeishmaniasisTransR
-Hits@10;0,131876185;LeishmaniasisTransR
+AMR;0.019340477;LeishmaniasisTransR
+Hits@1;0.012125783;LeishmaniasisTransR
+Hits@3;0.063673552;LeishmaniasisTransR
+Hits@5;0.088387303;LeishmaniasisTransR
+Hits@10;0.131876185;LeishmaniasisTransR
 First hit;44;LeishmaniasisTransR
 Median hit;754;LeishmaniasisTransR
 Final hit;49598;LeishmaniasisTransR
-AMR;0,044408543;LeishmaniasisUM
-Hits@1;0,000732858;LeishmaniasisUM
-Hits@3;0,034500516;LeishmaniasisUM
-Hits@5;0,04947687;LeishmaniasisUM
-Hits@10;0,074975401;LeishmaniasisUM
+AMR;0.044408543;LeishmaniasisUM
+Hits@1;0.000732858;LeishmaniasisUM
+Hits@3;0.034500516;LeishmaniasisUM
+Hits@5;0.04947687;LeishmaniasisUM
+Hits@10;0.074975401;LeishmaniasisUM
 First hit;300;LeishmaniasisUM
 Median hit;1132;LeishmaniasisUM
 Final hit;52778;LeishmaniasisUM
-AMR;0,039725473;FilariasisDistMult
-Hits@1;0,015864977;FilariasisDistMult
-Hits@3;0,035778124;FilariasisDistMult
-Hits@5;0,049893944;FilariasisDistMult
-Hits@10;0,076103203;FilariasisDistMult
+AMR;0.039725473;FilariasisDistMult
+Hits@1;0.015864977;FilariasisDistMult
+Hits@3;0.035778124;FilariasisDistMult
+Hits@5;0.049893944;FilariasisDistMult
+Hits@10;0.076103203;FilariasisDistMult
 First hit;37;FilariasisDistMult
 Median hit;474;FilariasisDistMult
 Final hit;22054;FilariasisDistMult
-AMR;0,018771526;FilariasisERMLP
-Hits@1;0,027579644;FilariasisERMLP
-Hits@3;0,079106134;FilariasisERMLP
-Hits@5;0,109723608;FilariasisERMLP
-Hits@10;0,16389043;FilariasisERMLP
+AMR;0.018771526;FilariasisERMLP
+Hits@1;0.027579644;FilariasisERMLP
+Hits@3;0.079106134;FilariasisERMLP
+Hits@5;0.109723608;FilariasisERMLP
+Hits@10;0.16389043;FilariasisERMLP
 First hit;164;FilariasisERMLP
 Median hit;894;FilariasisERMLP
 Final hit;58562;FilariasisERMLP
-AMR;1,0005407021;FilariasisRESCAL
-Hits@1;1,70E-06;FilariasisRESCAL
-Hits@3;1,70E-06;FilariasisRESCAL
-Hits@5;3,40E-06;FilariasisRESCAL
-Hits@10;5,11E-06;FilariasisRESCAL
+AMR;1.000540702;FilariasisRESCAL
+Hits@1;1.70E-06;FilariasisRESCAL
+Hits@3;1.70E-06;FilariasisRESCAL
+Hits@5;3.40E-06;FilariasisRESCAL
+Hits@10;5.11E-06;FilariasisRESCAL
 First hit;8703;FilariasisRESCAL
 Median hit;44404;FilariasisRESCAL
 Final hit;64470;FilariasisRESCAL
-AMR;0,062996268;FilariasisTransH
-Hits@1;0,006039059;FilariasisTransH
-Hits@3;0,013700449;FilariasisTransH
-Hits@5;0,021414612;FilariasisTransH
-Hits@10;0,039236431;FilariasisTransH
+AMR;0.062996268;FilariasisTransH
+Hits@1;0.006039059;FilariasisTransH
+Hits@3;0.013700449;FilariasisTransH
+Hits@5;0.021414612;FilariasisTransH
+Hits@10;0.039236431;FilariasisTransH
 First hit;1048;FilariasisTransH
 Median hit;29513;FilariasisTransH
 Final hit;61479;FilariasisTransH
-AMR;0,023566153;FilariasisTransE
-Hits@1;0,008788341;FilariasisTransE
-Hits@3;0,066196423;FilariasisTransE
-Hits@5;0,091010612;FilariasisTransE
-Hits@10;0,132883972;FilariasisTransE
+AMR;0.023566153;FilariasisTransE
+Hits@1;0.008788341;FilariasisTransE
+Hits@3;0.066196423;FilariasisTransE
+Hits@5;0.091010612;FilariasisTransE
+Hits@10;0.132883972;FilariasisTransE
 First hit;117;FilariasisTransE
 Median hit;716;FilariasisTransE
 Final hit;6798;FilariasisTransE
-AMR;0,019340477;FilariasisTransR
-Hits@1;0,012125783;FilariasisTransR
-Hits@3;0,063673552;FilariasisTransR
-Hits@5;0,088387303;FilariasisTransR
-Hits@10;0,131876185;FilariasisTransR
+AMR;0.019340477;FilariasisTransR
+Hits@1;0.012125783;FilariasisTransR
+Hits@3;0.063673552;FilariasisTransR
+Hits@5;0.088387303;FilariasisTransR
+Hits@10;0.131876185;FilariasisTransR
 First hit;1;FilariasisTransR
 Median hit;238;FilariasisTransR
 Final hit;5381;FilariasisTransR
-AMR;0,044408543;FilariasisUM
-Hits@1;0,000732858;FilariasisUM
-Hits@3;0,034500516;FilariasisUM
-Hits@5;0,04947687;FilariasisUM
-Hits@10;0,074975401;FilariasisUM
+AMR;0.044408543;FilariasisUM
+Hits@1;0.000732858;FilariasisUM
+Hits@3;0.034500516;FilariasisUM
+Hits@5;0.04947687;FilariasisUM
+Hits@10;0.074975401;FilariasisUM
 First hit;19;FilariasisUM
 Median hit;4448;FilariasisUM
 Final hit;86238;FilariasisUM
-AMR;0,039725473;SchistosomiasisDistMult
-Hits@1;0,015864977;SchistosomiasisDistMult
-Hits@3;0,035778124;SchistosomiasisDistMult
-Hits@5;0,049893944;SchistosomiasisDistMult
-Hits@10;0,076103203;SchistosomiasisDistMult
+AMR;0.039725473;SchistosomiasisDistMult
+Hits@1;0.015864977;SchistosomiasisDistMult
+Hits@3;0.035778124;SchistosomiasisDistMult
+Hits@5;0.049893944;SchistosomiasisDistMult
+Hits@10;0.076103203;SchistosomiasisDistMult
 First hit;194;SchistosomiasisDistMult
 Median hit;1452;SchistosomiasisDistMult
 Final hit;9045;SchistosomiasisDistMult
-AMR;0,018771526;SchistosomiasisERMLP
-Hits@1;0,027579644;SchistosomiasisERMLP
-Hits@3;0,079106134;SchistosomiasisERMLP
-Hits@5;0,109723608;SchistosomiasisERMLP
-Hits@10;0,16389043;SchistosomiasisERMLP
+AMR;0.018771526;SchistosomiasisERMLP
+Hits@1;0.027579644;SchistosomiasisERMLP
+Hits@3;0.079106134;SchistosomiasisERMLP
+Hits@5;0.109723608;SchistosomiasisERMLP
+Hits@10;0.16389043;SchistosomiasisERMLP
 First hit;179;SchistosomiasisERMLP
 Median hit;2713;SchistosomiasisERMLP
 Final hit;30582;SchistosomiasisERMLP
-AMR;1,0005407021;SchistosomiasisRESCAL
-Hits@1;1,70E-06;SchistosomiasisRESCAL
-Hits@3;1,70E-06;SchistosomiasisRESCAL
-Hits@5;3,40E-06;SchistosomiasisRESCAL
-Hits@10;5,11E-06;SchistosomiasisRESCAL
+AMR;1.000540702;SchistosomiasisRESCAL
+Hits@1;1.70E-06;SchistosomiasisRESCAL
+Hits@3;1.70E-06;SchistosomiasisRESCAL
+Hits@5;3.40E-06;SchistosomiasisRESCAL
+Hits@10;5.11E-06;SchistosomiasisRESCAL
 First hit;32370;SchistosomiasisRESCAL
 Median hit;58148;SchistosomiasisRESCAL
 Final hit;92262;SchistosomiasisRESCAL
-AMR;0,062996268;SchistosomiasisTransH
-Hits@1;0,006039059;SchistosomiasisTransH
-Hits@3;0,013700449;SchistosomiasisTransH
-Hits@5;0,021414612;SchistosomiasisTransH
-Hits@10;0,039236431;SchistosomiasisTransH
+AMR;0.062996268;SchistosomiasisTransH
+Hits@1;0.006039059;SchistosomiasisTransH
+Hits@3;0.013700449;SchistosomiasisTransH
+Hits@5;0.021414612;SchistosomiasisTransH
+Hits@10;0.039236431;SchistosomiasisTransH
 First hit;394;SchistosomiasisTransH
 Median hit;8208;SchistosomiasisTransH
 Final hit;64248;SchistosomiasisTransH
-AMR;0,023566153;SchistosomiasisTransE
-Hits@1;0,008788341;SchistosomiasisTransE
-Hits@3;0,066196423;SchistosomiasisTransE
-Hits@5;0,091010612;SchistosomiasisTransE
-Hits@10;0,132883972;SchistosomiasisTransE
+AMR;0.023566153;SchistosomiasisTransE
+Hits@1;0.008788341;SchistosomiasisTransE
+Hits@3;0.066196423;SchistosomiasisTransE
+Hits@5;0.091010612;SchistosomiasisTransE
+Hits@10;0.132883972;SchistosomiasisTransE
 First hit;181;SchistosomiasisTransE
 Median hit;1842;SchistosomiasisTransE
 Final hit;48985;SchistosomiasisTransE
-AMR;0,019340477;SchistosomiasisTransR
-Hits@1;0,012125783;SchistosomiasisTransR
-Hits@3;0,063673552;SchistosomiasisTransR
-Hits@5;0,088387303;SchistosomiasisTransR
-Hits@10;0,131876185;SchistosomiasisTransR
+AMR;0.019340477;SchistosomiasisTransR
+Hits@1;0.012125783;SchistosomiasisTransR
+Hits@3;0.063673552;SchistosomiasisTransR
+Hits@5;0.088387303;SchistosomiasisTransR
+Hits@10;0.131876185;SchistosomiasisTransR
 First hit;28;SchistosomiasisTransR
 Median hit;2121;SchistosomiasisTransR
 Final hit;36891;SchistosomiasisTransR
-AMR;0,044408543;SchistosomiasisUM
-Hits@1;0,000732858;SchistosomiasisUM
-Hits@3;0,034500516;SchistosomiasisUM
-Hits@5;0,04947687;SchistosomiasisUM
-Hits@10;0,074975401;SchistosomiasisUM
+AMR;0.044408543;SchistosomiasisUM
+Hits@1;0.000732858;SchistosomiasisUM
+Hits@3;0.034500516;SchistosomiasisUM
+Hits@5;0.04947687;SchistosomiasisUM
+Hits@10;0.074975401;SchistosomiasisUM
 First hit;418;SchistosomiasisUM
 Median hit;4687;SchistosomiasisUM
 Final hit;54547;SchistosomiasisUM
