@@ -55,8 +55,14 @@ if nav == 'Get drugs recommendations :pill:':
     p_title('Get drugs recommendations')
     st.text('')
 
-    disease_selection = st.selectbox("Select disease", ["Dengue", "Chagas", "Malaria", "Yellow Fever", "Leishmaniasis", "Filariasis", "Schistosomiasis"], help='by selecting a diseases, xxxxxx')
-    model_selection = st.selectbox("Select embedding model", ["TransE", "TransR", "TransH", "UM", "DistMult", "RESCAL", "ERMLP"])
+    disease_selection = st.selectbox("Select a disease", ["Dengue", "Chagas", "Malaria", "Yellow Fever", "Leishmaniasis", "Filariasis", "Schistosomiasis"], 
+                                     help='Select a disease and perform predictions of new drugs on it.
+                                     This project is focused on seven vector-borne diseases (dengue, chagas, malaria, yellow fever, leishmaniasis, filariasis, and schistosomiasis),
+                                     but it can be extended to additional ones.')
+    model_selection = st.selectbox("Select an embedding model", ["TransE", "TransR", "TransH", "UM", "DistMult", "RESCAL", "ERMLP"],
+                                  help='Knowledge graph embedding techniques can encode biological information in a single mathematical space.
+                                   This project is focused on seven embedding models (TransE, TransR, TransH, UM, DistMult, RESCAL, and ERMLP),
+                                   which can be extended to additional ones.')
 
     if st.button("Get recommendations"):
         #Drug recommendations
