@@ -55,7 +55,7 @@ if nav == 'Get drugs recommendations :pill:':
     p_title('Get drugs recommendations')
     st.text('')
 
-    disease_selection = st.selectbox("Select disease", ["Dengue", "Chagas", "Malaria", "Yellow Fever", "Leishmaniasis", "Filariasis", "Schistosomiasis"])
+    disease_selection = st.selectbox("Select disease", ["Dengue", "Chagas", "Malaria", "Yellow Fever", "Leishmaniasis", "Filariasis", "Schistosomiasis"], help='by selecting a diseases, xxxxxx')
     model_selection = st.selectbox("Select embedding model", ["TransE", "TransR", "TransH", "UM", "DistMult", "RESCAL", "ERMLP"])
 
     if st.button("Get recommendations"):
