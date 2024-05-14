@@ -1,4 +1,4 @@
-## Drug Repurposing using Knowledge Graph Embeddings 💊
+## 💊 Drug Repurposing using Knowledge Graph Embeddings
 
 Drug repurposing methods can identify already approved drugs to treat them efficiently, reducing development costs and time. At the same time, knowledge graph embedding techniques can encode biological information in a single structure that allows users to operate relationships, extract information, learn connections, and make predictions to discover potential new relationships between existing drugs and vector-borne diseases.
 
