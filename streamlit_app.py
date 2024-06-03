@@ -31,7 +31,7 @@ st.markdown("<h1 style='text-align: center; color: gray; font-size:28px;'>Drug R
 ########
 
 st.sidebar.header('I want to:')
-nav = st.sidebar.radio('',['Get drugs recommendations :pill:', 'Visualize graph :eyes:', 'About this App'])
+nav = st.sidebar.radio('',['Get drug recommendations :pill:', 'Visualize graph :eyes:', 'About this App'])
 st.sidebar.write('')
 st.sidebar.write('')
 st.sidebar.write('')
@@ -50,9 +50,9 @@ expander.write("I'd love your feedback :smiley: Want to collaborate? Develop a p
 #DRUG RECOMMENDATION
 ####################
 
-if nav == 'Get drugs recommendations :pill:':
+if nav == 'Get drug recommendations :pill:':
     st.text('')
-    p_title('Get drugs recommendations')
+    p_title('Get drug recommendations')
     st.text('')
 
     disease_selection = st.selectbox("Select a disease", ["Dengue", "Chagas", "Malaria", "Yellow Fever", "Leishmaniasis", "Filariasis", "Schistosomiasis"], 
